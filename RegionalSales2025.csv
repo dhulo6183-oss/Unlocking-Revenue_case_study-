@@ -1,0 +1,2001 @@
+OrderID,Date,CustomerID,Region,ProductName,Category,Quantity,UnitPrice,TotalAmount,OrderStatus,SalesAgent
+ORD00001,2025-11-24,CUST1456,East,Table,Furniture,4,7479,29916,Completed,Ankit Joshi
+ORD00002,2025-10-07,CUST1356,South,Laptop,Electronics,2,52506,105012,Completed,Lakshmi Rao
+ORD00003,2025-10-15,CUST1814,South,Shoes,Clothing,10,2908,29080,Returned,Lakshmi Rao
+ORD00004,2025-12-24,CUST2731,North,Table,Furniture,4,9114,36456,Completed,Amit Sharma
+ORD00005,2025-07-14,CUST1396,North,Desk,Furniture,5,9916,49580,Completed,Vijay Kumar
+ORD00006,2025-03-05,CUST4985,South,Smartwatch,Electronics,5,8858,44290,Cancelled,Suresh Babu
+ORD00007,2025-10-23,CUST1787,East,Smartphone,Electronics,5,25218,126090,Cancelled,Rahul Mehta
+ORD00008,2025-07-14,CUST2138,South,Table,Furniture,6,7910,47460,Cancelled,Divya Menon
+ORD00009,2025-12-16,CUST3654,East,Dumbbells,Sports,9,2164,19476,Completed,Priya Shah
+ORD00010,2025-05-19,CUST4790,West,Chair,Furniture,4,5527,22108,Cancelled,Rohan Desai
+ORD00011,2025-05-18,CUST1271,West,Running Shoes,Sports,4,4255,17020,Completed,Kavita Nair
+ORD00012,2025-08-23,CUST1585,North,Jeans,Clothing,9,1241,11169,Completed,Neha Gupta
+ORD00013,2025-10-26,CUST2635,North,Jeans,Clothing,9,1228,11052,Completed,Amit Sharma
+ORD00014,2025-03-20,CUST3570,West,Fruit Basket,Food,2,498,996,Completed,Rohan Desai
+ORD00015,2025-09-28,CUST2029,East,Smartwatch,Electronics,5,8737,43685,Completed,Priya Shah
+ORD00016,2025-08-11,CUST1647,South,Tablet,Electronics,9,19628,176652,Completed,Lakshmi Rao
+ORD00017,2025-11-17,CUST2222,West,Jacket,Clothing,3,2587,7761,Cancelled,Kavita Nair
+ORD00018,2025-01-01,CUST3453,North,Organic Pack,Food,2,905,1810,Cancelled,Neha Gupta
+ORD00019,2025-05-03,CUST1237,West,Yoga Mat,Sports,2,1299,2598,Cancelled,Kavita Nair
+ORD00020,2025-03-06,CUST1525,South,Dumbbells,Sports,5,2063,10315,Cancelled,Lakshmi Rao
+ORD00021,2025-10-04,CUST4093,West,Bookshelf,Furniture,6,6057,36342,Completed,Sneha Patel
+ORD00022,2025-05-07,CUST1920,East,Chair,Furniture,10,5192,51920,Completed,Rahul Mehta
+ORD00023,2025-02-06,CUST3899,East,T-Shirt,Clothing,1,557,557,Completed,Rahul Mehta
+ORD00024,2025-05-23,CUST3740,South,Dress,Clothing,3,1945,5835,Returned,Divya Menon
+ORD00025,2025-08-31,CUST1995,South,Snack Box,Food,2,369,738,Completed,Suresh Babu
+ORD00026,2025-07-30,CUST2912,East,Laptop,Electronics,7,59512,416584,Cancelled,Rahul Mehta
+ORD00027,2025-05-08,CUST1784,West,Cycle Helmet,Sports,3,1508,4524,Completed,Sneha Patel
+ORD00028,2025-02-08,CUST2815,East,Smartwatch,Electronics,1,9137,9137,Returned,Rahul Mehta
+ORD00029,2025-03-27,CUST2664,South,Snack Box,Food,7,450,3150,Completed,Lakshmi Rao
+ORD00030,2025-07-19,CUST2086,South,Bookshelf,Furniture,9,6392,57528,Completed,Lakshmi Rao
+ORD00031,2025-06-01,CUST1891,East,Jump Rope,Sports,1,326,326,Completed,Ankit Joshi
+ORD00032,2025-09-02,CUST3059,West,Smartwatch,Electronics,2,8902,17804,Completed,Sneha Patel
+ORD00033,2025-12-12,CUST4530,West,Organic Pack,Food,10,769,7690,Completed,Kavita Nair
+ORD00034,2025-02-11,CUST2717,North,Table,Furniture,6,7677,46062,Completed,Vijay Kumar
+ORD00035,2025-11-27,CUST2228,South,Chair,Furniture,1,5072,5072,Returned,Lakshmi Rao
+ORD00036,2025-02-07,CUST3202,West,Running Shoes,Sports,3,4533,13599,Returned,Sneha Patel
+ORD00037,2025-07-09,CUST2167,West,Fruit Basket,Food,5,526,2630,Returned,Kavita Nair
+ORD00038,2025-09-28,CUST1032,North,Smartphone,Electronics,5,20434,102170,Completed,Vijay Kumar
+ORD00039,2025-03-21,CUST2115,North,Dumbbells,Sports,6,1901,11406,Completed,Neha Gupta
+ORD00040,2025-09-16,CUST3001,North,Laptop,Electronics,7,60903,426321,Completed,Neha Gupta
+ORD00041,2025-03-08,CUST3609,North,Shoes,Clothing,9,3229,29061,Completed,Amit Sharma
+ORD00042,2025-02-08,CUST4870,West,Yoga Mat,Sports,6,1254,7524,Completed,Sneha Patel
+ORD00043,2025-01-22,CUST2262,North,Tablet,Electronics,4,19269,77076,Completed,Neha Gupta
+ORD00044,2025-10-14,CUST4621,South,Dumbbells,Sports,4,2232,8928,Returned,Lakshmi Rao
+ORD00045,2025-07-31,CUST1101,West,Bookshelf,Furniture,4,5800,23200,Cancelled,Sneha Patel
+ORD00046,2025-07-15,CUST4572,East,Snack Box,Food,4,441,1764,Completed,Priya Shah
+ORD00047,2025-04-27,CUST1913,East,Shoes,Clothing,6,2908,17448,Completed,Priya Shah
+ORD00048,2025-06-29,CUST3627,South,Running Shoes,Sports,1,3715,3715,Returned,Lakshmi Rao
+ORD00049,2025-10-25,CUST4942,North,Laptop,Electronics,10,55475,554750,Completed,Neha Gupta
+ORD00050,2025-08-12,CUST3483,East,Fruit Basket,Food,4,481,1924,Completed,Rahul Mehta
+ORD00051,2025-09-24,CUST4791,West,Bookshelf,Furniture,2,6823,13646,Returned,Kavita Nair
+ORD00052,2025-06-10,CUST3717,East,Desk,Furniture,5,9600,48000,Completed,Ankit Joshi
+ORD00053,2025-06-01,CUST3270,West,Shoes,Clothing,7,3207,22449,Returned,Kavita Nair
+ORD00054,2025-10-19,CUST2232,South,Yoga Mat,Sports,5,1166,5830,Completed,Divya Menon
+ORD00055,2025-11-07,CUST3681,North,Spice Kit,Food,8,374,2992,Completed,Vijay Kumar
+ORD00056,2025-03-28,CUST3698,East,Desk,Furniture,10,8854,88540,Cancelled,Rahul Mehta
+ORD00057,2025-12-11,CUST2271,West,Jeans,Clothing,1,1093,1093,Returned,Kavita Nair
+ORD00058,2025-02-07,CUST2865,South,Dumbbells,Sports,7,2047,14329,Completed,Divya Menon
+ORD00059,2025-12-19,CUST1022,East,Snack Box,Food,3,440,1320,Completed,Priya Shah
+ORD00060,2025-01-26,CUST3283,West,Headphones,Electronics,3,3851,11553,Cancelled,Kavita Nair
+ORD00061,2025-11-01,CUST2299,South,Jump Rope,Sports,7,332,2324,Completed,Lakshmi Rao
+ORD00062,2025-09-01,CUST2843,North,Jacket,Clothing,9,2552,22968,Completed,Neha Gupta
+ORD00063,2025-02-09,CUST3922,North,Jacket,Clothing,6,2449,14694,Completed,Amit Sharma
+ORD00064,2025-03-19,CUST1947,South,Jeans,Clothing,2,1204,2408,Completed,Suresh Babu
+ORD00065,2025-08-01,CUST1255,West,Spice Kit,Food,10,397,3970,Completed,Kavita Nair
+ORD00066,2025-07-14,CUST2953,East,Sofa,Furniture,7,27834,194838,Returned,Priya Shah
+ORD00067,2025-10-03,CUST4061,West,Snack Box,Food,5,403,2015,Completed,Rohan Desai
+ORD00068,2025-12-09,CUST3781,South,Shoes,Clothing,3,3435,10305,Completed,Suresh Babu
+ORD00069,2025-10-31,CUST3311,East,Headphones,Electronics,3,3908,11724,Completed,Priya Shah
+ORD00070,2025-07-14,CUST2340,West,Beverage Set,Food,6,654,3924,Completed,Rohan Desai
+ORD00071,2025-05-10,CUST4419,East,Organic Pack,Food,9,730,6570,Returned,Rahul Mehta
+ORD00072,2025-11-29,CUST1281,East,Smartphone,Electronics,4,24415,97660,Completed,Rahul Mehta
+ORD00073,2025-03-06,CUST2939,East,Dumbbells,Sports,8,2149,17192,Cancelled,Rahul Mehta
+ORD00074,2025-11-07,CUST3487,East,Jacket,Clothing,2,2611,5222,Returned,Ankit Joshi
+ORD00075,2025-12-13,CUST4719,South,Snack Box,Food,2,419,838,Cancelled,Lakshmi Rao
+ORD00076,2025-02-22,CUST3855,North,Yoga Mat,Sports,10,1314,13140,Completed,Neha Gupta
+ORD00077,2025-12-05,CUST2517,East,Running Shoes,Sports,1,4449,4449,Cancelled,Rahul Mehta
+ORD00078,2025-08-10,CUST4935,North,Snack Box,Food,7,377,2639,Completed,Vijay Kumar
+ORD00079,2025-05-19,CUST3522,South,Spice Kit,Food,10,338,3380,Returned,Lakshmi Rao
+ORD00080,2025-05-23,CUST4611,South,Shoes,Clothing,10,3157,31570,Completed,Lakshmi Rao
+ORD00081,2025-09-11,CUST4485,North,Shoes,Clothing,4,2966,11864,Completed,Neha Gupta
+ORD00082,2025-11-02,CUST3872,North,Yoga Mat,Sports,9,1364,12276,Completed,Vijay Kumar
+ORD00083,2025-07-28,CUST3001,West,Spice Kit,Food,8,384,3072,Completed,Sneha Patel
+ORD00084,2025-07-27,CUST3833,West,Desk,Furniture,6,9164,54984,Completed,Rohan Desai
+ORD00085,2025-10-09,CUST2354,North,Beverage Set,Food,5,577,2885,Completed,Amit Sharma
+ORD00086,2025-06-11,CUST1489,West,Jeans,Clothing,8,1162,9296,Completed,Kavita Nair
+ORD00087,2025-11-02,CUST2159,East,Jacket,Clothing,4,2475,9900,Completed,Ankit Joshi
+ORD00088,2025-10-01,CUST1518,North,Laptop,Electronics,9,53516,481644,Returned,Vijay Kumar
+ORD00089,2025-09-09,CUST1420,East,Running Shoes,Sports,8,4078,32624,Completed,Rahul Mehta
+ORD00090,2025-05-10,CUST4854,South,Laptop,Electronics,7,56261,393827,Completed,Divya Menon
+ORD00091,2025-01-28,CUST1621,West,Running Shoes,Sports,2,4593,9186,Completed,Rohan Desai
+ORD00092,2025-11-07,CUST3441,West,Cycle Helmet,Sports,8,1690,13520,Completed,Kavita Nair
+ORD00093,2025-08-08,CUST2250,East,Yoga Mat,Sports,4,1267,5068,Completed,Rahul Mehta
+ORD00094,2025-03-22,CUST1982,West,Yoga Mat,Sports,3,1080,3240,Completed,Kavita Nair
+ORD00095,2025-08-29,CUST2192,East,Jacket,Clothing,5,2689,13445,Completed,Ankit Joshi
+ORD00096,2025-04-30,CUST4784,North,Dumbbells,Sports,7,1857,12999,Completed,Amit Sharma
+ORD00097,2025-05-17,CUST4385,West,Laptop,Electronics,3,60398,181194,Completed,Kavita Nair
+ORD00098,2025-05-28,CUST2798,East,Beverage Set,Food,7,681,4767,Completed,Priya Shah
+ORD00099,2025-08-13,CUST1329,East,Beverage Set,Food,10,577,5770,Completed,Ankit Joshi
+ORD00100,2025-10-22,CUST3404,East,Desk,Furniture,1,9816,9816,Completed,Ankit Joshi
+ORD00101,2025-11-30,CUST2811,North,Dress,Clothing,7,1905,13335,Completed,Amit Sharma
+ORD00102,2025-08-29,CUST2425,South,Sofa,Furniture,2,27860,55720,Completed,Divya Menon
+ORD00103,2025-09-11,CUST2180,South,Yoga Mat,Sports,8,1106,8848,Completed,Lakshmi Rao
+ORD00104,2025-07-26,CUST4542,East,Cycle Helmet,Sports,7,1370,9590,Completed,Ankit Joshi
+ORD00105,2025-09-13,CUST3561,South,Smartphone,Electronics,5,22820,114100,Returned,Suresh Babu
+ORD00106,2025-12-24,CUST2985,East,Smartwatch,Electronics,4,8619,34476,Completed,Rahul Mehta
+ORD00107,2025-10-10,CUST2671,East,T-Shirt,Clothing,8,568,4544,Completed,Rahul Mehta
+ORD00108,2025-09-13,CUST4820,North,Running Shoes,Sports,7,4434,31038,Returned,Amit Sharma
+ORD00109,2025-08-22,CUST3257,West,Snack Box,Food,10,410,4100,Returned,Sneha Patel
+ORD00110,2025-05-22,CUST4164,South,Desk,Furniture,5,9946,49730,Completed,Suresh Babu
+ORD00111,2025-10-28,CUST3375,South,Shoes,Clothing,9,3063,27567,Completed,Divya Menon
+ORD00112,2025-07-13,CUST2865,North,Jeans,Clothing,10,1194,11940,Cancelled,Neha Gupta
+ORD00113,2025-01-23,CUST2303,South,Spice Kit,Food,3,358,1074,Completed,Divya Menon
+ORD00114,2025-10-30,CUST2359,East,Organic Pack,Food,9,902,8118,Completed,Rahul Mehta
+ORD00115,2025-07-29,CUST4567,West,Headphones,Electronics,5,3446,17230,Cancelled,Kavita Nair
+ORD00116,2025-02-11,CUST4488,North,Cycle Helmet,Sports,6,1585,9510,Cancelled,Neha Gupta
+ORD00117,2025-10-05,CUST1147,East,Jacket,Clothing,4,2716,10864,Completed,Rahul Mehta
+ORD00118,2025-11-21,CUST3883,East,Snack Box,Food,5,450,2250,Completed,Rahul Mehta
+ORD00119,2025-05-31,CUST2468,North,Snack Box,Food,4,413,1652,Completed,Amit Sharma
+ORD00120,2025-03-29,CUST1717,East,Cycle Helmet,Sports,10,1606,16060,Completed,Ankit Joshi
+ORD00121,2025-03-15,CUST1951,South,Bookshelf,Furniture,5,6400,32000,Returned,Suresh Babu
+ORD00122,2025-05-28,CUST3775,West,Headphones,Electronics,6,4014,24084,Completed,Rohan Desai
+ORD00123,2025-12-20,CUST2024,South,Table,Furniture,7,8906,62342,Completed,Suresh Babu
+ORD00124,2025-10-20,CUST2470,North,Chair,Furniture,7,4843,33901,Completed,Vijay Kumar
+ORD00125,2025-01-26,CUST4729,South,Table,Furniture,10,8803,88030,Completed,Lakshmi Rao
+ORD00126,2025-11-14,CUST2026,West,Laptop,Electronics,5,60343,301715,Completed,Rohan Desai
+ORD00127,2025-03-09,CUST1369,North,Bookshelf,Furniture,3,5701,17103,Cancelled,Neha Gupta
+ORD00128,2025-09-29,CUST3055,North,Jacket,Clothing,8,2854,22832,Completed,Neha Gupta
+ORD00129,2025-02-28,CUST2918,East,Jeans,Clothing,7,1370,9590,Cancelled,Priya Shah
+ORD00130,2025-02-16,CUST4238,South,Tablet,Electronics,9,16756,150804,Completed,Divya Menon
+ORD00131,2025-12-11,CUST2073,South,Chair,Furniture,4,5089,20356,Cancelled,Divya Menon
+ORD00132,2025-06-17,CUST4748,West,Headphones,Electronics,5,3718,18590,Completed,Sneha Patel
+ORD00133,2025-01-20,CUST2246,South,Laptop,Electronics,4,61699,246796,Completed,Suresh Babu
+ORD00134,2025-07-09,CUST3746,South,Dumbbells,Sports,7,2127,14889,Cancelled,Divya Menon
+ORD00135,2025-07-28,CUST4846,North,Tablet,Electronics,4,18195,72780,Returned,Neha Gupta
+ORD00136,2025-02-20,CUST3808,North,Running Shoes,Sports,1,3998,3998,Completed,Amit Sharma
+ORD00137,2025-08-21,CUST1375,West,Yoga Mat,Sports,1,1316,1316,Completed,Sneha Patel
+ORD00138,2025-10-17,CUST1840,East,Dumbbells,Sports,10,1907,19070,Cancelled,Priya Shah
+ORD00139,2025-03-17,CUST4230,East,Table,Furniture,3,8280,24840,Cancelled,Rahul Mehta
+ORD00140,2025-12-05,CUST4548,East,T-Shirt,Clothing,6,548,3288,Completed,Priya Shah
+ORD00141,2025-01-09,CUST1713,North,Smartphone,Electronics,7,22693,158851,Completed,Neha Gupta
+ORD00142,2025-08-18,CUST4186,North,Jump Rope,Sports,2,303,606,Completed,Vijay Kumar
+ORD00143,2025-01-23,CUST3978,North,Organic Pack,Food,1,919,919,Cancelled,Neha Gupta
+ORD00144,2025-12-18,CUST1442,South,Organic Pack,Food,2,784,1568,Completed,Lakshmi Rao
+ORD00145,2025-05-21,CUST3557,North,Fruit Basket,Food,9,486,4374,Completed,Neha Gupta
+ORD00146,2025-02-20,CUST4248,East,Dumbbells,Sports,7,2025,14175,Completed,Priya Shah
+ORD00147,2025-08-21,CUST2633,South,Tablet,Electronics,7,17606,123242,Completed,Lakshmi Rao
+ORD00148,2025-12-18,CUST4780,South,Laptop,Electronics,2,50781,101562,Completed,Divya Menon
+ORD00149,2025-07-10,CUST4325,West,Yoga Mat,Sports,10,1366,13660,Completed,Kavita Nair
+ORD00150,2025-03-04,CUST2682,North,Organic Pack,Food,5,840,4200,Completed,Vijay Kumar
+ORD00151,2025-09-17,CUST1871,West,Snack Box,Food,2,395,790,Completed,Sneha Patel
+ORD00152,2025-05-23,CUST3351,West,Fruit Basket,Food,10,526,5260,Completed,Sneha Patel
+ORD00153,2025-11-08,CUST4805,North,Smartphone,Electronics,5,23664,118320,Completed,Neha Gupta
+ORD00154,2025-06-29,CUST1025,West,Dress,Clothing,7,1651,11557,Cancelled,Sneha Patel
+ORD00155,2025-02-16,CUST4056,West,Spice Kit,Food,8,344,2752,Completed,Kavita Nair
+ORD00156,2025-06-16,CUST4181,East,Smartphone,Electronics,3,23949,71847,Completed,Rahul Mehta
+ORD00157,2025-05-20,CUST2814,South,Fruit Basket,Food,8,501,4008,Completed,Divya Menon
+ORD00158,2025-02-28,CUST2413,South,Tablet,Electronics,10,18389,183890,Cancelled,Lakshmi Rao
+ORD00159,2025-04-23,CUST2618,East,Smartphone,Electronics,5,24999,124995,Cancelled,Priya Shah
+ORD00160,2025-05-29,CUST2343,East,Headphones,Electronics,7,3303,23121,Completed,Ankit Joshi
+ORD00161,2025-04-28,CUST3049,North,Headphones,Electronics,1,3531,3531,Completed,Amit Sharma
+ORD00162,2025-06-10,CUST3358,South,Cycle Helmet,Sports,7,1458,10206,Completed,Suresh Babu
+ORD00163,2025-03-29,CUST4282,South,Chair,Furniture,7,5555,38885,Completed,Divya Menon
+ORD00164,2025-07-25,CUST3146,East,Beverage Set,Food,6,573,3438,Cancelled,Rahul Mehta
+ORD00165,2025-09-19,CUST3593,East,Jump Rope,Sports,4,337,1348,Completed,Ankit Joshi
+ORD00166,2025-11-27,CUST4338,West,T-Shirt,Clothing,3,481,1443,Completed,Sneha Patel
+ORD00167,2025-12-02,CUST1308,West,Spice Kit,Food,10,381,3810,Completed,Kavita Nair
+ORD00168,2025-11-26,CUST3602,North,Table,Furniture,8,7336,58688,Completed,Neha Gupta
+ORD00169,2025-05-21,CUST3422,East,Desk,Furniture,2,8798,17596,Completed,Rahul Mehta
+ORD00170,2025-07-08,CUST4406,North,Laptop,Electronics,10,57668,576680,Completed,Vijay Kumar
+ORD00171,2025-10-11,CUST4908,East,Fruit Basket,Food,4,490,1960,Completed,Rahul Mehta
+ORD00172,2025-02-01,CUST2845,East,Chair,Furniture,9,5307,47763,Completed,Ankit Joshi
+ORD00173,2025-08-13,CUST2799,West,Sofa,Furniture,5,24921,124605,Cancelled,Kavita Nair
+ORD00174,2025-11-03,CUST1214,North,Tablet,Electronics,2,18710,37420,Completed,Neha Gupta
+ORD00175,2025-12-03,CUST4950,West,Chair,Furniture,10,5329,53290,Returned,Rohan Desai
+ORD00176,2025-12-02,CUST3860,South,Dress,Clothing,2,1759,3518,Completed,Suresh Babu
+ORD00177,2025-03-07,CUST3744,East,Fruit Basket,Food,6,452,2712,Completed,Rahul Mehta
+ORD00178,2025-06-24,CUST4881,South,Jeans,Clothing,3,1126,3378,Completed,Lakshmi Rao
+ORD00179,2025-09-17,CUST4157,East,Desk,Furniture,3,9443,28329,Completed,Rahul Mehta
+ORD00180,2025-12-21,CUST4158,West,Organic Pack,Food,7,792,5544,Cancelled,Rohan Desai
+ORD00181,2025-11-09,CUST2167,South,Dress,Clothing,4,1759,7036,Cancelled,Suresh Babu
+ORD00182,2025-04-10,CUST2506,South,Beverage Set,Food,7,615,4305,Completed,Lakshmi Rao
+ORD00183,2025-04-13,CUST4281,West,Chair,Furniture,8,5592,44736,Completed,Sneha Patel
+ORD00184,2025-12-31,CUST4464,East,Chair,Furniture,3,4840,14520,Returned,Rahul Mehta
+ORD00185,2025-08-12,CUST1375,West,Beverage Set,Food,1,602,602,Completed,Rohan Desai
+ORD00186,2025-05-01,CUST2581,East,Table,Furniture,1,7837,7837,Completed,Ankit Joshi
+ORD00187,2025-11-29,CUST2373,West,T-Shirt,Clothing,5,564,2820,Completed,Sneha Patel
+ORD00188,2025-12-28,CUST2921,South,Yoga Mat,Sports,2,1085,2170,Completed,Lakshmi Rao
+ORD00189,2025-10-08,CUST4851,South,Tablet,Electronics,4,17555,70220,Completed,Suresh Babu
+ORD00190,2025-11-24,CUST4251,South,Laptop,Electronics,8,57705,461640,Completed,Divya Menon
+ORD00191,2025-10-22,CUST1990,West,Bookshelf,Furniture,1,6322,6322,Completed,Rohan Desai
+ORD00192,2025-04-06,CUST3721,East,Running Shoes,Sports,2,4553,9106,Completed,Ankit Joshi
+ORD00193,2025-10-11,CUST1083,South,Organic Pack,Food,7,916,6412,Completed,Lakshmi Rao
+ORD00194,2025-07-02,CUST4229,East,Table,Furniture,2,8743,17486,Cancelled,Priya Shah
+ORD00195,2025-03-10,CUST1181,North,Running Shoes,Sports,3,4430,13290,Completed,Vijay Kumar
+ORD00196,2025-09-03,CUST3587,West,T-Shirt,Clothing,8,454,3632,Completed,Sneha Patel
+ORD00197,2025-01-22,CUST2292,North,Cycle Helmet,Sports,9,1527,13743,Completed,Vijay Kumar
+ORD00198,2025-04-08,CUST2171,North,Tablet,Electronics,5,16760,83800,Completed,Neha Gupta
+ORD00199,2025-08-14,CUST4664,South,Table,Furniture,8,8584,68672,Completed,Divya Menon
+ORD00200,2025-05-17,CUST4281,East,Organic Pack,Food,7,840,5880,Cancelled,Ankit Joshi
+ORD00201,2025-05-31,CUST2315,East,Tablet,Electronics,5,17579,87895,Completed,Priya Shah
+ORD00202,2025-03-27,CUST3825,South,Bookshelf,Furniture,1,6490,6490,Returned,Divya Menon
+ORD00203,2025-08-11,CUST2124,East,Headphones,Electronics,6,3598,21588,Cancelled,Rahul Mehta
+ORD00204,2025-01-16,CUST1584,South,Smartphone,Electronics,2,21097,42194,Cancelled,Suresh Babu
+ORD00205,2025-07-16,CUST4889,East,Dumbbells,Sports,8,2274,18192,Completed,Rahul Mehta
+ORD00206,2025-10-21,CUST1563,North,Beverage Set,Food,5,577,2885,Completed,Vijay Kumar
+ORD00207,2025-04-06,CUST3044,South,Yoga Mat,Sports,5,1312,6560,Cancelled,Lakshmi Rao
+ORD00208,2025-11-10,CUST2169,South,T-Shirt,Clothing,3,556,1668,Completed,Divya Menon
+ORD00209,2025-08-16,CUST1359,North,Chair,Furniture,9,5177,46593,Cancelled,Amit Sharma
+ORD00210,2025-12-31,CUST3906,West,Desk,Furniture,4,8373,33492,Completed,Sneha Patel
+ORD00211,2025-05-02,CUST4237,South,Tablet,Electronics,9,18775,168975,Completed,Divya Menon
+ORD00212,2025-03-08,CUST3506,East,Tablet,Electronics,7,20698,144886,Completed,Ankit Joshi
+ORD00213,2025-07-30,CUST4150,South,Yoga Mat,Sports,3,1371,4113,Cancelled,Suresh Babu
+ORD00214,2025-08-27,CUST3785,North,Dress,Clothing,10,1701,17010,Returned,Neha Gupta
+ORD00215,2025-09-15,CUST4730,East,Smartwatch,Electronics,3,7808,23424,Completed,Ankit Joshi
+ORD00216,2025-04-26,CUST2417,North,Tablet,Electronics,4,19057,76228,Completed,Amit Sharma
+ORD00217,2025-11-17,CUST2240,East,Dumbbells,Sports,10,2270,22700,Completed,Ankit Joshi
+ORD00218,2025-11-16,CUST3951,North,Yoga Mat,Sports,1,1104,1104,Returned,Vijay Kumar
+ORD00219,2025-05-16,CUST3667,West,Cycle Helmet,Sports,10,1589,15890,Completed,Kavita Nair
+ORD00220,2025-10-07,CUST2186,North,Snack Box,Food,7,389,2723,Completed,Amit Sharma
+ORD00221,2025-03-22,CUST2800,South,Spice Kit,Food,4,344,1376,Completed,Divya Menon
+ORD00222,2025-06-13,CUST4007,North,Snack Box,Food,6,411,2466,Completed,Amit Sharma
+ORD00223,2025-08-27,CUST1501,North,Snack Box,Food,3,369,1107,Completed,Neha Gupta
+ORD00224,2025-11-12,CUST2712,West,Jacket,Clothing,10,2700,27000,Completed,Sneha Patel
+ORD00225,2025-09-13,CUST3108,South,Beverage Set,Food,8,543,4344,Returned,Divya Menon
+ORD00226,2025-08-23,CUST4959,West,Dress,Clothing,6,1641,9846,Completed,Kavita Nair
+ORD00227,2025-12-01,CUST3754,South,Desk,Furniture,1,10006,10006,Completed,Suresh Babu
+ORD00228,2025-07-07,CUST4128,South,Chair,Furniture,7,4563,31941,Completed,Suresh Babu
+ORD00229,2025-10-11,CUST2182,East,Fruit Basket,Food,8,545,4360,Completed,Ankit Joshi
+ORD00230,2025-12-15,CUST3502,East,T-Shirt,Clothing,7,496,3472,Returned,Ankit Joshi
+ORD00231,2025-07-07,CUST4092,West,Dress,Clothing,9,1800,16200,Completed,Sneha Patel
+ORD00232,2025-03-12,CUST3922,North,Fruit Basket,Food,8,468,3744,Cancelled,Amit Sharma
+ORD00233,2025-06-17,CUST4814,North,Shoes,Clothing,10,3254,32540,Completed,Neha Gupta
+ORD00234,2025-09-17,CUST4392,South,Running Shoes,Sports,8,4415,35320,Completed,Divya Menon
+ORD00235,2025-02-26,CUST2706,North,Smartwatch,Electronics,8,7731,61848,Completed,Vijay Kumar
+ORD00236,2025-10-23,CUST1932,East,Cycle Helmet,Sports,3,1546,4638,Cancelled,Priya Shah
+ORD00237,2025-03-17,CUST4365,West,Smartwatch,Electronics,2,7581,15162,Completed,Rohan Desai
+ORD00238,2025-03-19,CUST2691,West,Fruit Basket,Food,10,565,5650,Returned,Kavita Nair
+ORD00239,2025-02-01,CUST3890,West,Dumbbells,Sports,9,1962,17658,Cancelled,Kavita Nair
+ORD00240,2025-07-12,CUST2285,West,Fruit Basket,Food,6,518,3108,Cancelled,Kavita Nair
+ORD00241,2025-12-15,CUST3634,North,Cycle Helmet,Sports,4,1709,6836,Completed,Neha Gupta
+ORD00242,2025-04-26,CUST4856,North,Table,Furniture,8,7834,62672,Completed,Vijay Kumar
+ORD00243,2025-05-21,CUST2178,East,Jump Rope,Sports,7,337,2359,Completed,Priya Shah
+ORD00244,2025-03-16,CUST2189,East,Chair,Furniture,6,5655,33930,Completed,Ankit Joshi
+ORD00245,2025-09-03,CUST1876,West,Running Shoes,Sports,9,4296,38664,Completed,Kavita Nair
+ORD00246,2025-10-28,CUST1980,West,Smartwatch,Electronics,4,8475,33900,Completed,Rohan Desai
+ORD00247,2025-06-19,CUST3938,South,Smartphone,Electronics,1,25104,25104,Returned,Lakshmi Rao
+ORD00248,2025-07-28,CUST3674,South,Snack Box,Food,5,392,1960,Cancelled,Lakshmi Rao
+ORD00249,2025-11-30,CUST3351,West,Yoga Mat,Sports,3,1205,3615,Cancelled,Sneha Patel
+ORD00250,2025-07-23,CUST4227,South,Jacket,Clothing,1,2255,2255,Completed,Lakshmi Rao
+ORD00251,2025-06-21,CUST2165,South,Jump Rope,Sports,8,336,2688,Completed,Divya Menon
+ORD00252,2025-08-28,CUST2117,West,Tablet,Electronics,3,19490,58470,Completed,Kavita Nair
+ORD00253,2025-04-06,CUST1057,North,Desk,Furniture,4,8494,33976,Cancelled,Neha Gupta
+ORD00254,2025-08-07,CUST3110,North,Headphones,Electronics,2,3311,6622,Completed,Neha Gupta
+ORD00255,2025-05-08,CUST1027,North,Snack Box,Food,8,435,3480,Returned,Neha Gupta
+ORD00256,2025-10-26,CUST3960,East,Sofa,Furniture,4,22888,91552,Completed,Priya Shah
+ORD00257,2025-03-23,CUST2660,North,Tablet,Electronics,6,18965,113790,Completed,Amit Sharma
+ORD00258,2025-09-02,CUST1627,South,Running Shoes,Sports,7,4301,30107,Returned,Divya Menon
+ORD00259,2025-12-07,CUST4381,West,Dress,Clothing,2,1856,3712,Completed,Rohan Desai
+ORD00260,2025-02-09,CUST4757,East,Smartwatch,Electronics,9,7604,68436,Completed,Rahul Mehta
+ORD00261,2025-06-17,CUST4499,South,Smartphone,Electronics,10,22488,224880,Returned,Suresh Babu
+ORD00262,2025-01-29,CUST2857,West,Cycle Helmet,Sports,8,1561,12488,Completed,Kavita Nair
+ORD00263,2025-06-07,CUST3962,East,Beverage Set,Food,1,651,651,Completed,Rahul Mehta
+ORD00264,2025-08-05,CUST2411,East,Yoga Mat,Sports,2,1375,2750,Completed,Priya Shah
+ORD00265,2025-07-29,CUST1737,West,Beverage Set,Food,7,607,4249,Returned,Rohan Desai
+ORD00266,2025-07-12,CUST1328,West,Chair,Furniture,3,5741,17223,Completed,Sneha Patel
+ORD00267,2025-04-25,CUST4419,East,Tablet,Electronics,8,19230,153840,Completed,Ankit Joshi
+ORD00268,2025-07-14,CUST4372,West,Shoes,Clothing,6,2816,16896,Completed,Kavita Nair
+ORD00269,2025-02-27,CUST1131,South,Yoga Mat,Sports,4,1141,4564,Completed,Lakshmi Rao
+ORD00270,2025-08-17,CUST3448,East,T-Shirt,Clothing,7,504,3528,Completed,Rahul Mehta
+ORD00271,2025-03-13,CUST3063,North,Dress,Clothing,6,1879,11274,Completed,Neha Gupta
+ORD00272,2025-05-02,CUST2236,West,Dumbbells,Sports,7,1950,13650,Completed,Kavita Nair
+ORD00273,2025-03-31,CUST3564,South,Cycle Helmet,Sports,1,1714,1714,Returned,Divya Menon
+ORD00274,2025-07-15,CUST4218,North,Spice Kit,Food,3,341,1023,Completed,Vijay Kumar
+ORD00275,2025-08-31,CUST1987,West,Table,Furniture,8,9029,72232,Completed,Rohan Desai
+ORD00276,2025-10-13,CUST3170,West,Snack Box,Food,5,380,1900,Completed,Rohan Desai
+ORD00277,2025-07-09,CUST1378,West,Tablet,Electronics,7,19231,134617,Completed,Sneha Patel
+ORD00278,2025-04-07,CUST4295,West,Snack Box,Food,6,390,2340,Returned,Sneha Patel
+ORD00279,2025-04-08,CUST4940,East,Snack Box,Food,10,430,4300,Completed,Rahul Mehta
+ORD00280,2025-10-10,CUST2317,North,Spice Kit,Food,9,371,3339,Completed,Neha Gupta
+ORD00281,2025-09-20,CUST4615,South,Organic Pack,Food,8,872,6976,Completed,Lakshmi Rao
+ORD00282,2025-07-09,CUST2281,South,Smartwatch,Electronics,4,8682,34728,Completed,Divya Menon
+ORD00283,2025-10-27,CUST3372,South,Table,Furniture,4,7859,31436,Completed,Lakshmi Rao
+ORD00284,2025-09-13,CUST3255,North,Bookshelf,Furniture,8,6091,48728,Completed,Neha Gupta
+ORD00285,2025-03-28,CUST1573,South,Dress,Clothing,1,1855,1855,Cancelled,Lakshmi Rao
+ORD00286,2025-12-09,CUST1198,East,Snack Box,Food,4,366,1464,Completed,Rahul Mehta
+ORD00287,2025-09-16,CUST2867,North,Smartwatch,Electronics,10,9025,90250,Completed,Amit Sharma
+ORD00288,2025-01-04,CUST3179,South,Laptop,Electronics,9,59430,534870,Completed,Suresh Babu
+ORD00289,2025-01-09,CUST3057,South,T-Shirt,Clothing,2,515,1030,Completed,Divya Menon
+ORD00290,2025-09-27,CUST2033,North,Bookshelf,Furniture,2,5959,11918,Completed,Vijay Kumar
+ORD00291,2025-05-05,CUST3855,West,Chair,Furniture,1,4616,4616,Completed,Kavita Nair
+ORD00292,2025-09-01,CUST1229,East,T-Shirt,Clothing,8,555,4440,Completed,Priya Shah
+ORD00293,2025-10-17,CUST4514,East,Yoga Mat,Sports,4,1143,4572,Cancelled,Ankit Joshi
+ORD00294,2025-09-01,CUST2110,East,Tablet,Electronics,9,18735,168615,Completed,Priya Shah
+ORD00295,2025-01-09,CUST4938,West,Dumbbells,Sports,7,2264,15848,Completed,Kavita Nair
+ORD00296,2025-05-04,CUST3321,South,Running Shoes,Sports,7,4355,30485,Completed,Divya Menon
+ORD00297,2025-02-10,CUST3051,North,Laptop,Electronics,7,52691,368837,Completed,Vijay Kumar
+ORD00298,2025-11-11,CUST4911,South,Chair,Furniture,5,5479,27395,Completed,Lakshmi Rao
+ORD00299,2025-07-02,CUST3265,South,Snack Box,Food,10,426,4260,Completed,Divya Menon
+ORD00300,2025-06-01,CUST4268,West,Laptop,Electronics,5,51620,258100,Cancelled,Kavita Nair
+ORD00301,2025-03-20,CUST4029,South,Sofa,Furniture,2,23072,46144,Returned,Suresh Babu
+ORD00302,2025-07-04,CUST4118,North,Smartphone,Electronics,2,20830,41660,Completed,Vijay Kumar
+ORD00303,2025-09-20,CUST2671,East,Laptop,Electronics,6,57120,342720,Completed,Priya Shah
+ORD00304,2025-07-17,CUST1050,North,Spice Kit,Food,2,378,756,Completed,Amit Sharma
+ORD00305,2025-10-20,CUST3134,West,Snack Box,Food,3,386,1158,Completed,Sneha Patel
+ORD00306,2025-02-02,CUST1684,South,Bookshelf,Furniture,5,6126,30630,Completed,Suresh Babu
+ORD00307,2025-05-07,CUST3952,South,Jump Rope,Sports,4,304,1216,Completed,Lakshmi Rao
+ORD00308,2025-07-22,CUST2360,South,Bookshelf,Furniture,6,6045,36270,Cancelled,Divya Menon
+ORD00309,2025-11-01,CUST1557,North,Desk,Furniture,4,9177,36708,Completed,Neha Gupta
+ORD00310,2025-06-13,CUST2193,South,Dumbbells,Sports,6,1988,11928,Cancelled,Suresh Babu
+ORD00311,2025-07-06,CUST1466,West,Jump Rope,Sports,3,321,963,Completed,Kavita Nair
+ORD00312,2025-08-25,CUST4862,West,Beverage Set,Food,2,662,1324,Cancelled,Rohan Desai
+ORD00313,2025-12-11,CUST3045,West,Table,Furniture,5,8517,42585,Cancelled,Rohan Desai
+ORD00314,2025-02-07,CUST2839,South,Cycle Helmet,Sports,9,1539,13851,Returned,Divya Menon
+ORD00315,2025-08-03,CUST3226,East,Desk,Furniture,10,9535,95350,Completed,Rahul Mehta
+ORD00316,2025-12-03,CUST3722,North,Dress,Clothing,1,1873,1873,Completed,Vijay Kumar
+ORD00317,2025-07-24,CUST4960,North,Organic Pack,Food,1,739,739,Completed,Vijay Kumar
+ORD00318,2025-09-23,CUST3285,West,Beverage Set,Food,7,609,4263,Cancelled,Kavita Nair
+ORD00319,2025-09-14,CUST1617,North,Headphones,Electronics,2,3408,6816,Returned,Amit Sharma
+ORD00320,2025-03-01,CUST4405,West,Sofa,Furniture,6,25345,152070,Completed,Rohan Desai
+ORD00321,2025-06-28,CUST2950,East,Spice Kit,Food,6,320,1920,Completed,Ankit Joshi
+ORD00322,2025-02-28,CUST1092,North,Smartphone,Electronics,4,22637,90548,Completed,Neha Gupta
+ORD00323,2025-10-14,CUST2746,South,Shoes,Clothing,3,2839,8517,Cancelled,Suresh Babu
+ORD00324,2025-01-15,CUST4020,West,Fruit Basket,Food,7,498,3486,Cancelled,Sneha Patel
+ORD00325,2025-05-23,CUST4081,East,Yoga Mat,Sports,9,1136,10224,Completed,Priya Shah
+ORD00326,2025-02-28,CUST2074,South,Running Shoes,Sports,10,3988,39880,Completed,Lakshmi Rao
+ORD00327,2025-06-28,CUST2441,South,Dumbbells,Sports,5,2259,11295,Completed,Divya Menon
+ORD00328,2025-03-10,CUST2282,East,Jacket,Clothing,2,2364,4728,Completed,Ankit Joshi
+ORD00329,2025-07-18,CUST2713,West,Cycle Helmet,Sports,7,1419,9933,Completed,Kavita Nair
+ORD00330,2025-11-27,CUST4812,West,Dumbbells,Sports,8,1944,15552,Completed,Rohan Desai
+ORD00331,2025-11-14,CUST1219,North,Headphones,Electronics,3,3320,9960,Completed,Vijay Kumar
+ORD00332,2025-09-16,CUST3674,South,Spice Kit,Food,7,377,2639,Completed,Lakshmi Rao
+ORD00333,2025-02-12,CUST3315,East,Jacket,Clothing,1,2421,2421,Completed,Rahul Mehta
+ORD00334,2025-08-23,CUST3316,South,Jump Rope,Sports,2,312,624,Completed,Divya Menon
+ORD00335,2025-07-07,CUST3220,East,Fruit Basket,Food,4,573,2292,Completed,Ankit Joshi
+ORD00336,2025-05-07,CUST2219,East,Beverage Set,Food,6,669,4014,Completed,Rahul Mehta
+ORD00337,2025-05-02,CUST1859,North,Cycle Helmet,Sports,3,1581,4743,Cancelled,Amit Sharma
+ORD00338,2025-01-31,CUST3335,North,Running Shoes,Sports,10,4138,41380,Completed,Vijay Kumar
+ORD00339,2025-05-30,CUST2185,North,Yoga Mat,Sports,3,1368,4104,Cancelled,Amit Sharma
+ORD00340,2025-05-22,CUST4551,West,Jeans,Clothing,3,1293,3879,Cancelled,Kavita Nair
+ORD00341,2025-07-21,CUST3004,West,Running Shoes,Sports,7,3975,27825,Completed,Sneha Patel
+ORD00342,2025-07-26,CUST3111,North,Bookshelf,Furniture,8,5890,47120,Completed,Vijay Kumar
+ORD00343,2025-02-17,CUST3993,South,Chair,Furniture,9,4997,44973,Returned,Lakshmi Rao
+ORD00344,2025-09-11,CUST2099,North,Sofa,Furniture,9,26112,235008,Completed,Neha Gupta
+ORD00345,2025-06-25,CUST4662,East,Laptop,Electronics,8,49723,397784,Returned,Rahul Mehta
+ORD00346,2025-08-14,CUST2869,East,Snack Box,Food,3,448,1344,Completed,Priya Shah
+ORD00347,2025-02-17,CUST3681,North,Chair,Furniture,6,5330,31980,Completed,Amit Sharma
+ORD00348,2025-07-22,CUST3562,North,Shoes,Clothing,2,3227,6454,Completed,Neha Gupta
+ORD00349,2025-02-09,CUST1543,West,Cycle Helmet,Sports,1,1353,1353,Completed,Sneha Patel
+ORD00350,2025-08-05,CUST3842,West,Organic Pack,Food,4,796,3184,Cancelled,Sneha Patel
+ORD00351,2025-02-22,CUST2283,North,Table,Furniture,7,8746,61222,Completed,Amit Sharma
+ORD00352,2025-11-25,CUST3773,West,Smartwatch,Electronics,10,7216,72160,Cancelled,Rohan Desai
+ORD00353,2025-06-29,CUST3959,West,Shoes,Clothing,10,3214,32140,Cancelled,Sneha Patel
+ORD00354,2025-02-21,CUST1573,East,Cycle Helmet,Sports,6,1711,10266,Completed,Rahul Mehta
+ORD00355,2025-05-07,CUST2134,East,Dress,Clothing,10,1890,18900,Completed,Ankit Joshi
+ORD00356,2025-01-14,CUST4472,North,Dress,Clothing,10,1849,18490,Completed,Neha Gupta
+ORD00357,2025-11-27,CUST1223,West,Spice Kit,Food,2,336,672,Completed,Sneha Patel
+ORD00358,2025-09-28,CUST4640,East,Sofa,Furniture,3,24917,74751,Cancelled,Priya Shah
+ORD00359,2025-07-07,CUST3237,West,Organic Pack,Food,1,837,837,Completed,Sneha Patel
+ORD00360,2025-01-21,CUST4778,East,Fruit Basket,Food,5,528,2640,Completed,Priya Shah
+ORD00361,2025-08-05,CUST3874,South,Smartwatch,Electronics,9,8432,75888,Completed,Suresh Babu
+ORD00362,2025-02-10,CUST3094,West,Dress,Clothing,6,1795,10770,Completed,Kavita Nair
+ORD00363,2025-12-15,CUST3634,East,Bookshelf,Furniture,4,5486,21944,Completed,Priya Shah
+ORD00364,2025-03-01,CUST2857,East,Table,Furniture,2,7225,14450,Completed,Rahul Mehta
+ORD00365,2025-03-25,CUST3033,North,Jump Rope,Sports,5,282,1410,Completed,Neha Gupta
+ORD00366,2025-03-02,CUST4159,East,Bookshelf,Furniture,5,6185,30925,Completed,Ankit Joshi
+ORD00367,2025-11-18,CUST1315,South,Fruit Basket,Food,6,456,2736,Returned,Lakshmi Rao
+ORD00368,2025-07-08,CUST1644,North,Smartwatch,Electronics,2,7656,15312,Completed,Amit Sharma
+ORD00369,2025-01-07,CUST2001,East,Beverage Set,Food,7,678,4746,Completed,Rahul Mehta
+ORD00370,2025-10-11,CUST4289,South,Jacket,Clothing,4,2510,10040,Cancelled,Suresh Babu
+ORD00371,2025-02-09,CUST3341,North,Smartwatch,Electronics,1,7558,7558,Cancelled,Amit Sharma
+ORD00372,2025-07-25,CUST1282,South,Sofa,Furniture,6,23039,138234,Completed,Suresh Babu
+ORD00373,2025-04-13,CUST2194,North,Dumbbells,Sports,8,1984,15872,Returned,Amit Sharma
+ORD00374,2025-10-07,CUST4114,West,T-Shirt,Clothing,7,452,3164,Completed,Kavita Nair
+ORD00375,2025-12-22,CUST4593,East,Chair,Furniture,7,5561,38927,Cancelled,Rahul Mehta
+ORD00376,2025-04-16,CUST3170,West,Spice Kit,Food,1,400,400,Completed,Rohan Desai
+ORD00377,2025-02-17,CUST1179,West,Cycle Helmet,Sports,6,1521,9126,Cancelled,Kavita Nair
+ORD00378,2025-02-18,CUST3070,West,Organic Pack,Food,10,833,8330,Completed,Sneha Patel
+ORD00379,2025-05-02,CUST2194,North,Bookshelf,Furniture,6,5877,35262,Completed,Amit Sharma
+ORD00380,2025-04-14,CUST1557,East,T-Shirt,Clothing,3,506,1518,Completed,Rahul Mehta
+ORD00381,2025-10-02,CUST2467,West,Beverage Set,Food,8,579,4632,Completed,Sneha Patel
+ORD00382,2025-12-18,CUST2246,East,Jacket,Clothing,3,2307,6921,Completed,Priya Shah
+ORD00383,2025-07-22,CUST3103,East,Sofa,Furniture,3,22694,68082,Completed,Priya Shah
+ORD00384,2025-10-12,CUST4064,West,Headphones,Electronics,2,3853,7706,Completed,Sneha Patel
+ORD00385,2025-02-01,CUST4401,West,Jeans,Clothing,7,1191,8337,Completed,Kavita Nair
+ORD00386,2025-02-13,CUST3385,North,Laptop,Electronics,2,52219,104438,Completed,Amit Sharma
+ORD00387,2025-02-17,CUST4707,North,Laptop,Electronics,8,50196,401568,Returned,Neha Gupta
+ORD00388,2025-07-22,CUST3032,East,Spice Kit,Food,3,345,1035,Returned,Priya Shah
+ORD00389,2025-05-24,CUST2826,West,Smartwatch,Electronics,10,8433,84330,Completed,Rohan Desai
+ORD00390,2025-07-30,CUST4615,South,Laptop,Electronics,5,54766,273830,Completed,Divya Menon
+ORD00391,2025-09-27,CUST2020,East,Beverage Set,Food,8,621,4968,Completed,Ankit Joshi
+ORD00392,2025-09-15,CUST2317,South,Table,Furniture,1,7837,7837,Completed,Suresh Babu
+ORD00393,2025-01-30,CUST4312,South,Running Shoes,Sports,10,4599,45990,Returned,Lakshmi Rao
+ORD00394,2025-05-07,CUST3690,West,Desk,Furniture,1,9819,9819,Returned,Kavita Nair
+ORD00395,2025-07-18,CUST2453,West,Jeans,Clothing,10,1175,11750,Cancelled,Rohan Desai
+ORD00396,2025-10-30,CUST1115,North,Jump Rope,Sports,3,312,936,Completed,Neha Gupta
+ORD00397,2025-10-05,CUST2265,West,Organic Pack,Food,2,731,1462,Completed,Sneha Patel
+ORD00398,2025-09-27,CUST2957,East,Desk,Furniture,4,9914,39656,Completed,Rahul Mehta
+ORD00399,2025-06-15,CUST1243,East,Dress,Clothing,3,1968,5904,Cancelled,Priya Shah
+ORD00400,2025-02-07,CUST2530,South,Yoga Mat,Sports,6,1170,7020,Completed,Lakshmi Rao
+ORD00401,2025-08-12,CUST4243,South,Table,Furniture,9,8587,77283,Returned,Suresh Babu
+ORD00402,2025-04-25,CUST3726,West,Beverage Set,Food,5,559,2795,Cancelled,Kavita Nair
+ORD00403,2025-10-21,CUST2603,East,Dress,Clothing,6,2034,12204,Returned,Rahul Mehta
+ORD00404,2025-11-24,CUST3316,East,Snack Box,Food,6,434,2604,Completed,Priya Shah
+ORD00405,2025-03-27,CUST3605,East,Bookshelf,Furniture,1,5797,5797,Completed,Rahul Mehta
+ORD00406,2025-06-29,CUST2051,East,Laptop,Electronics,7,55525,388675,Completed,Rahul Mehta
+ORD00407,2025-07-31,CUST3019,South,Desk,Furniture,7,8328,58296,Completed,Divya Menon
+ORD00408,2025-11-30,CUST4105,West,Shoes,Clothing,2,3299,6598,Completed,Sneha Patel
+ORD00409,2025-06-13,CUST2069,East,Tablet,Electronics,3,20195,60585,Completed,Rahul Mehta
+ORD00410,2025-10-08,CUST4857,East,Desk,Furniture,10,10109,101090,Completed,Priya Shah
+ORD00411,2025-12-01,CUST1675,South,T-Shirt,Clothing,2,491,982,Returned,Suresh Babu
+ORD00412,2025-12-23,CUST3269,North,Sofa,Furniture,4,23099,92396,Completed,Vijay Kumar
+ORD00413,2025-09-09,CUST1629,East,Chair,Furniture,7,4609,32263,Cancelled,Ankit Joshi
+ORD00414,2025-11-04,CUST2967,West,Laptop,Electronics,4,51848,207392,Completed,Sneha Patel
+ORD00415,2025-08-31,CUST4456,East,Bookshelf,Furniture,8,6133,49064,Completed,Rahul Mehta
+ORD00416,2025-11-25,CUST3228,South,Jacket,Clothing,7,2480,17360,Completed,Suresh Babu
+ORD00417,2025-08-14,CUST2904,North,Jacket,Clothing,10,2288,22880,Completed,Vijay Kumar
+ORD00418,2025-02-19,CUST1351,North,Cycle Helmet,Sports,10,1435,14350,Completed,Neha Gupta
+ORD00419,2025-09-25,CUST2714,South,Dumbbells,Sports,8,1949,15592,Completed,Divya Menon
+ORD00420,2025-01-18,CUST3056,West,Headphones,Electronics,3,3980,11940,Completed,Sneha Patel
+ORD00421,2025-04-09,CUST1516,East,Organic Pack,Food,7,760,5320,Cancelled,Rahul Mehta
+ORD00422,2025-11-01,CUST2056,North,Laptop,Electronics,7,57150,400050,Completed,Neha Gupta
+ORD00423,2025-09-24,CUST2876,East,Jump Rope,Sports,9,328,2952,Completed,Rahul Mehta
+ORD00424,2025-03-17,CUST3320,East,Smartwatch,Electronics,2,8771,17542,Cancelled,Priya Shah
+ORD00425,2025-07-30,CUST2081,South,Fruit Basket,Food,10,509,5090,Completed,Suresh Babu
+ORD00426,2025-03-15,CUST3532,South,Headphones,Electronics,6,3754,22524,Completed,Suresh Babu
+ORD00427,2025-05-18,CUST4674,North,Tablet,Electronics,5,17599,87995,Cancelled,Vijay Kumar
+ORD00428,2025-12-17,CUST1402,West,Jacket,Clothing,8,2733,21864,Completed,Kavita Nair
+ORD00429,2025-08-02,CUST3477,East,Shoes,Clothing,4,3385,13540,Completed,Priya Shah
+ORD00430,2025-09-22,CUST4552,North,Smartwatch,Electronics,3,7331,21993,Completed,Neha Gupta
+ORD00431,2025-03-11,CUST4196,East,Jeans,Clothing,4,1331,5324,Completed,Priya Shah
+ORD00432,2025-01-26,CUST4760,North,Jacket,Clothing,6,2764,16584,Completed,Vijay Kumar
+ORD00433,2025-03-05,CUST3790,East,Jacket,Clothing,8,2621,20968,Completed,Priya Shah
+ORD00434,2025-10-28,CUST3258,North,Table,Furniture,5,8697,43485,Completed,Neha Gupta
+ORD00435,2025-01-15,CUST2583,East,Dress,Clothing,4,2005,8020,Completed,Ankit Joshi
+ORD00436,2025-04-16,CUST2102,South,Yoga Mat,Sports,1,1222,1222,Completed,Lakshmi Rao
+ORD00437,2025-11-04,CUST4280,East,Jacket,Clothing,10,2753,27530,Completed,Ankit Joshi
+ORD00438,2025-11-26,CUST2127,South,Beverage Set,Food,8,577,4616,Completed,Divya Menon
+ORD00439,2025-09-24,CUST4376,South,Yoga Mat,Sports,1,1233,1233,Cancelled,Suresh Babu
+ORD00440,2025-10-15,CUST3651,North,Chair,Furniture,8,4579,36632,Returned,Vijay Kumar
+ORD00441,2025-06-16,CUST4528,North,Sofa,Furniture,4,23437,93748,Completed,Amit Sharma
+ORD00442,2025-11-04,CUST2655,North,T-Shirt,Clothing,8,574,4592,Completed,Neha Gupta
+ORD00443,2025-07-27,CUST2590,East,Jump Rope,Sports,4,295,1180,Completed,Ankit Joshi
+ORD00444,2025-10-01,CUST3614,South,Desk,Furniture,5,10002,50010,Cancelled,Divya Menon
+ORD00445,2025-04-03,CUST2203,East,Snack Box,Food,5,432,2160,Completed,Rahul Mehta
+ORD00446,2025-12-15,CUST4684,North,Smartphone,Electronics,6,21028,126168,Cancelled,Neha Gupta
+ORD00447,2025-06-19,CUST2522,North,Running Shoes,Sports,8,4451,35608,Completed,Vijay Kumar
+ORD00448,2025-10-26,CUST3376,East,Snack Box,Food,9,371,3339,Completed,Ankit Joshi
+ORD00449,2025-06-02,CUST2692,East,Jeans,Clothing,4,1182,4728,Returned,Priya Shah
+ORD00450,2025-03-15,CUST2295,West,Headphones,Electronics,6,3702,22212,Completed,Kavita Nair
+ORD00451,2025-01-30,CUST1019,South,Table,Furniture,3,8352,25056,Completed,Lakshmi Rao
+ORD00452,2025-03-08,CUST3516,South,Spice Kit,Food,7,399,2793,Completed,Lakshmi Rao
+ORD00453,2025-10-01,CUST1816,North,Tablet,Electronics,9,17057,153513,Completed,Vijay Kumar
+ORD00454,2025-05-08,CUST1926,North,Table,Furniture,2,7967,15934,Completed,Amit Sharma
+ORD00455,2025-02-03,CUST4374,East,Sofa,Furniture,8,27048,216384,Completed,Priya Shah
+ORD00456,2025-08-11,CUST4637,West,Bookshelf,Furniture,6,6525,39150,Completed,Rohan Desai
+ORD00457,2025-01-10,CUST1935,West,Jeans,Clothing,1,1256,1256,Completed,Rohan Desai
+ORD00458,2025-12-31,CUST3664,East,Beverage Set,Food,9,633,5697,Completed,Rahul Mehta
+ORD00459,2025-12-05,CUST1442,East,Laptop,Electronics,7,55609,389263,Completed,Priya Shah
+ORD00460,2025-08-31,CUST3874,West,T-Shirt,Clothing,5,502,2510,Completed,Kavita Nair
+ORD00461,2025-05-19,CUST3550,West,Organic Pack,Food,9,863,7767,Completed,Sneha Patel
+ORD00462,2025-02-24,CUST3038,West,Dumbbells,Sports,5,2215,11075,Returned,Rohan Desai
+ORD00463,2025-12-27,CUST2678,North,T-Shirt,Clothing,9,512,4608,Completed,Neha Gupta
+ORD00464,2025-06-19,CUST1960,East,Laptop,Electronics,2,60984,121968,Completed,Rahul Mehta
+ORD00465,2025-02-16,CUST4192,East,Tablet,Electronics,4,18255,73020,Returned,Priya Shah
+ORD00466,2025-08-26,CUST1205,East,T-Shirt,Clothing,5,495,2475,Completed,Priya Shah
+ORD00467,2025-03-01,CUST1389,East,Smartphone,Electronics,3,21607,64821,Cancelled,Ankit Joshi
+ORD00468,2025-05-18,CUST4598,East,Sofa,Furniture,3,23211,69633,Completed,Priya Shah
+ORD00469,2025-05-20,CUST4423,South,Spice Kit,Food,3,324,972,Cancelled,Lakshmi Rao
+ORD00470,2025-03-23,CUST1424,South,Cycle Helmet,Sports,10,1604,16040,Completed,Suresh Babu
+ORD00471,2025-07-03,CUST3504,East,Shoes,Clothing,8,2784,22272,Completed,Rahul Mehta
+ORD00472,2025-02-02,CUST2071,North,Smartwatch,Electronics,10,8647,86470,Completed,Vijay Kumar
+ORD00473,2025-06-23,CUST3126,East,Snack Box,Food,8,394,3152,Completed,Priya Shah
+ORD00474,2025-03-18,CUST4436,East,Smartphone,Electronics,9,24468,220212,Cancelled,Rahul Mehta
+ORD00475,2025-02-08,CUST4077,South,Table,Furniture,6,9140,54840,Completed,Lakshmi Rao
+ORD00476,2025-10-09,CUST3635,South,Snack Box,Food,2,405,810,Cancelled,Suresh Babu
+ORD00477,2025-02-15,CUST4508,South,Beverage Set,Food,2,687,1374,Cancelled,Lakshmi Rao
+ORD00478,2025-02-22,CUST2652,South,Smartwatch,Electronics,9,7200,64800,Completed,Divya Menon
+ORD00479,2025-11-13,CUST3611,North,Jump Rope,Sports,4,319,1276,Completed,Neha Gupta
+ORD00480,2025-07-06,CUST4380,East,Shoes,Clothing,6,3120,18720,Completed,Priya Shah
+ORD00481,2025-12-03,CUST2488,South,Laptop,Electronics,4,49530,198120,Completed,Divya Menon
+ORD00482,2025-05-30,CUST3243,North,Laptop,Electronics,3,56270,168810,Cancelled,Vijay Kumar
+ORD00483,2025-07-29,CUST1438,North,Dumbbells,Sports,4,1860,7440,Cancelled,Amit Sharma
+ORD00484,2025-08-23,CUST4377,West,Chair,Furniture,7,4558,31906,Completed,Kavita Nair
+ORD00485,2025-10-29,CUST1504,South,Fruit Basket,Food,9,466,4194,Completed,Divya Menon
+ORD00486,2025-01-25,CUST3266,South,Cycle Helmet,Sports,9,1642,14778,Returned,Divya Menon
+ORD00487,2025-10-24,CUST1711,West,Headphones,Electronics,10,3680,36800,Completed,Rohan Desai
+ORD00488,2025-08-03,CUST3494,West,Bookshelf,Furniture,6,6855,41130,Completed,Sneha Patel
+ORD00489,2025-03-12,CUST2690,North,Running Shoes,Sports,9,4232,38088,Completed,Vijay Kumar
+ORD00490,2025-05-29,CUST3812,North,Jeans,Clothing,9,1242,11178,Completed,Vijay Kumar
+ORD00491,2025-03-01,CUST4116,North,Cycle Helmet,Sports,10,1563,15630,Completed,Neha Gupta
+ORD00492,2025-12-12,CUST4063,North,Organic Pack,Food,9,741,6669,Completed,Amit Sharma
+ORD00493,2025-12-10,CUST1231,West,Table,Furniture,5,8566,42830,Completed,Sneha Patel
+ORD00494,2025-12-20,CUST4212,North,Dress,Clothing,1,1781,1781,Completed,Vijay Kumar
+ORD00495,2025-12-12,CUST4028,West,Cycle Helmet,Sports,4,1541,6164,Cancelled,Kavita Nair
+ORD00496,2025-05-28,CUST3838,East,Spice Kit,Food,7,398,2786,Returned,Priya Shah
+ORD00497,2025-10-10,CUST1220,East,Table,Furniture,10,8937,89370,Cancelled,Priya Shah
+ORD00498,2025-04-26,CUST4733,North,Jump Rope,Sports,10,284,2840,Completed,Amit Sharma
+ORD00499,2025-05-31,CUST2838,West,Smartphone,Electronics,3,23842,71526,Completed,Sneha Patel
+ORD00500,2025-08-08,CUST2143,North,Jeans,Clothing,10,1333,13330,Completed,Neha Gupta
+ORD00501,2025-12-30,CUST4839,West,Smartphone,Electronics,6,23082,138492,Cancelled,Kavita Nair
+ORD00502,2025-11-12,CUST4453,North,Fruit Basket,Food,9,494,4446,Cancelled,Neha Gupta
+ORD00503,2025-09-27,CUST1900,West,Yoga Mat,Sports,9,1127,10143,Completed,Rohan Desai
+ORD00504,2025-02-17,CUST2431,West,Jacket,Clothing,6,2475,14850,Completed,Kavita Nair
+ORD00505,2025-09-29,CUST2945,East,Tablet,Electronics,8,17281,138248,Completed,Ankit Joshi
+ORD00506,2025-05-05,CUST4927,East,Bookshelf,Furniture,2,5978,11956,Completed,Priya Shah
+ORD00507,2025-01-13,CUST4732,North,Jump Rope,Sports,8,306,2448,Completed,Vijay Kumar
+ORD00508,2025-04-09,CUST2312,East,Smartphone,Electronics,9,22732,204588,Completed,Rahul Mehta
+ORD00509,2025-12-10,CUST3578,West,Organic Pack,Food,4,827,3308,Cancelled,Kavita Nair
+ORD00510,2025-08-11,CUST3648,East,T-Shirt,Clothing,8,539,4312,Completed,Rahul Mehta
+ORD00511,2025-01-28,CUST1729,North,Yoga Mat,Sports,10,1326,13260,Cancelled,Neha Gupta
+ORD00512,2025-07-18,CUST2847,South,Beverage Set,Food,1,598,598,Completed,Lakshmi Rao
+ORD00513,2025-11-25,CUST3950,East,Yoga Mat,Sports,2,1187,2374,Completed,Priya Shah
+ORD00514,2025-12-18,CUST2234,East,Bookshelf,Furniture,7,5992,41944,Completed,Priya Shah
+ORD00515,2025-03-22,CUST3185,West,Shoes,Clothing,9,2921,26289,Completed,Rohan Desai
+ORD00516,2025-12-13,CUST4633,North,Smartwatch,Electronics,9,7482,67338,Completed,Vijay Kumar
+ORD00517,2025-11-02,CUST2614,East,Table,Furniture,6,7623,45738,Returned,Ankit Joshi
+ORD00518,2025-03-14,CUST1659,West,Dress,Clothing,5,1707,8535,Completed,Kavita Nair
+ORD00519,2025-01-28,CUST4487,South,Yoga Mat,Sports,5,1281,6405,Completed,Lakshmi Rao
+ORD00520,2025-10-25,CUST2995,North,Table,Furniture,4,7400,29600,Completed,Amit Sharma
+ORD00521,2025-06-12,CUST2990,South,Desk,Furniture,5,9660,48300,Completed,Divya Menon
+ORD00522,2025-07-06,CUST4308,North,Snack Box,Food,1,391,391,Cancelled,Vijay Kumar
+ORD00523,2025-11-25,CUST2786,North,Table,Furniture,6,8955,53730,Completed,Neha Gupta
+ORD00524,2025-06-06,CUST2994,East,Dress,Clothing,2,1998,3996,Cancelled,Rahul Mehta
+ORD00525,2025-10-03,CUST1804,North,Laptop,Electronics,1,61181,61181,Completed,Vijay Kumar
+ORD00526,2025-10-24,CUST2659,West,Smartwatch,Electronics,5,8286,41430,Returned,Rohan Desai
+ORD00527,2025-12-01,CUST4175,West,Bookshelf,Furniture,4,6737,26948,Completed,Rohan Desai
+ORD00528,2025-03-10,CUST2903,East,Beverage Set,Food,9,541,4869,Completed,Ankit Joshi
+ORD00529,2025-12-17,CUST1679,West,Snack Box,Food,3,416,1248,Completed,Sneha Patel
+ORD00530,2025-09-05,CUST4846,North,Smartphone,Electronics,8,21074,168592,Completed,Amit Sharma
+ORD00531,2025-01-22,CUST3738,West,Running Shoes,Sports,7,4069,28483,Completed,Sneha Patel
+ORD00532,2025-01-21,CUST3656,North,Smartwatch,Electronics,5,8869,44345,Completed,Vijay Kumar
+ORD00533,2025-10-19,CUST1712,South,Beverage Set,Food,10,638,6380,Cancelled,Divya Menon
+ORD00534,2025-05-09,CUST2541,West,Cycle Helmet,Sports,6,1656,9936,Completed,Rohan Desai
+ORD00535,2025-11-06,CUST1027,West,Snack Box,Food,4,367,1468,Completed,Sneha Patel
+ORD00536,2025-03-18,CUST1765,West,Desk,Furniture,2,9587,19174,Completed,Rohan Desai
+ORD00537,2025-02-28,CUST2972,South,Snack Box,Food,10,376,3760,Cancelled,Lakshmi Rao
+ORD00538,2025-05-05,CUST1176,West,Jump Rope,Sports,3,280,840,Completed,Kavita Nair
+ORD00539,2025-03-17,CUST1229,West,Table,Furniture,9,9116,82044,Completed,Kavita Nair
+ORD00540,2025-11-23,CUST1076,North,Smartphone,Electronics,8,23135,185080,Completed,Neha Gupta
+ORD00541,2025-03-29,CUST1898,South,Dumbbells,Sports,10,2210,22100,Completed,Divya Menon
+ORD00542,2025-09-19,CUST2083,West,Bookshelf,Furniture,10,6285,62850,Completed,Rohan Desai
+ORD00543,2025-03-09,CUST1444,East,Dress,Clothing,9,1927,17343,Cancelled,Ankit Joshi
+ORD00544,2025-02-19,CUST1726,South,Jump Rope,Sports,1,335,335,Completed,Lakshmi Rao
+ORD00545,2025-02-17,CUST2975,West,Jump Rope,Sports,1,337,337,Cancelled,Kavita Nair
+ORD00546,2025-08-09,CUST3138,South,Chair,Furniture,9,5036,45324,Returned,Suresh Babu
+ORD00547,2025-07-15,CUST2435,East,Snack Box,Food,5,407,2035,Completed,Rahul Mehta
+ORD00548,2025-05-26,CUST3450,South,Table,Furniture,1,8618,8618,Cancelled,Divya Menon
+ORD00549,2025-09-25,CUST1482,East,Snack Box,Food,6,400,2400,Completed,Priya Shah
+ORD00550,2025-11-30,CUST3397,North,Desk,Furniture,7,9370,65590,Completed,Vijay Kumar
+ORD00551,2025-07-23,CUST4092,West,Fruit Basket,Food,9,510,4590,Completed,Kavita Nair
+ORD00552,2025-09-05,CUST2039,North,Running Shoes,Sports,7,4335,30345,Cancelled,Vijay Kumar
+ORD00553,2025-03-02,CUST4063,West,Snack Box,Food,2,381,762,Completed,Rohan Desai
+ORD00554,2025-10-09,CUST3515,East,Shoes,Clothing,1,3303,3303,Cancelled,Priya Shah
+ORD00555,2025-11-04,CUST2783,East,Tablet,Electronics,4,17868,71472,Completed,Ankit Joshi
+ORD00556,2025-07-16,CUST4812,South,Jump Rope,Sports,5,323,1615,Completed,Lakshmi Rao
+ORD00557,2025-11-24,CUST3024,South,Smartphone,Electronics,9,21373,192357,Completed,Divya Menon
+ORD00558,2025-09-19,CUST3112,West,Dumbbells,Sports,1,1979,1979,Cancelled,Sneha Patel
+ORD00559,2025-02-14,CUST2130,South,Bookshelf,Furniture,7,6279,43953,Completed,Divya Menon
+ORD00560,2025-12-27,CUST1281,East,Running Shoes,Sports,9,4515,40635,Completed,Priya Shah
+ORD00561,2025-04-26,CUST3483,West,Spice Kit,Food,10,315,3150,Completed,Kavita Nair
+ORD00562,2025-02-24,CUST3288,East,Running Shoes,Sports,6,4547,27282,Cancelled,Priya Shah
+ORD00563,2025-10-03,CUST4330,North,Spice Kit,Food,10,357,3570,Completed,Neha Gupta
+ORD00564,2025-08-23,CUST3791,South,Yoga Mat,Sports,8,1114,8912,Completed,Divya Menon
+ORD00565,2025-04-23,CUST3772,West,Bookshelf,Furniture,6,6174,37044,Completed,Rohan Desai
+ORD00566,2025-05-08,CUST2176,East,Beverage Set,Food,2,623,1246,Completed,Priya Shah
+ORD00567,2025-07-01,CUST1895,North,Jeans,Clothing,8,1301,10408,Completed,Amit Sharma
+ORD00568,2025-05-16,CUST1846,West,Jeans,Clothing,10,1186,11860,Cancelled,Sneha Patel
+ORD00569,2025-02-10,CUST3768,South,Yoga Mat,Sports,9,1367,12303,Cancelled,Suresh Babu
+ORD00570,2025-11-14,CUST2291,South,Running Shoes,Sports,8,3782,30256,Cancelled,Divya Menon
+ORD00571,2025-05-24,CUST2629,West,Dumbbells,Sports,1,2062,2062,Completed,Kavita Nair
+ORD00572,2025-01-17,CUST3058,North,Snack Box,Food,8,457,3656,Completed,Neha Gupta
+ORD00573,2025-06-11,CUST3823,East,Smartphone,Electronics,7,22995,160965,Completed,Ankit Joshi
+ORD00574,2025-05-13,CUST1766,North,Jacket,Clothing,8,2849,22792,Completed,Amit Sharma
+ORD00575,2025-09-13,CUST2736,West,Beverage Set,Food,6,668,4008,Completed,Sneha Patel
+ORD00576,2025-10-20,CUST1537,West,Tablet,Electronics,4,18699,74796,Cancelled,Sneha Patel
+ORD00577,2025-03-16,CUST4276,West,Organic Pack,Food,3,804,2412,Completed,Kavita Nair
+ORD00578,2025-09-22,CUST3187,North,Beverage Set,Food,5,624,3120,Completed,Neha Gupta
+ORD00579,2025-02-20,CUST3828,West,Smartphone,Electronics,5,22420,112100,Completed,Rohan Desai
+ORD00580,2025-06-21,CUST2064,North,Desk,Furniture,9,10196,91764,Completed,Amit Sharma
+ORD00581,2025-07-30,CUST1496,North,Dumbbells,Sports,10,2087,20870,Completed,Amit Sharma
+ORD00582,2025-05-26,CUST2454,North,Cycle Helmet,Sports,8,1683,13464,Completed,Neha Gupta
+ORD00583,2025-08-26,CUST3587,West,Jacket,Clothing,7,2644,18508,Completed,Sneha Patel
+ORD00584,2025-02-10,CUST1663,North,Jacket,Clothing,6,2658,15948,Completed,Vijay Kumar
+ORD00585,2025-11-27,CUST2619,North,Beverage Set,Food,10,618,6180,Completed,Amit Sharma
+ORD00586,2025-04-05,CUST4498,East,Jeans,Clothing,5,1362,6810,Completed,Rahul Mehta
+ORD00587,2025-04-18,CUST1683,South,Laptop,Electronics,2,62380,124760,Completed,Lakshmi Rao
+ORD00588,2025-01-14,CUST4157,South,Yoga Mat,Sports,2,1158,2316,Completed,Divya Menon
+ORD00589,2025-07-19,CUST2267,West,Jacket,Clothing,8,2641,21128,Completed,Sneha Patel
+ORD00590,2025-01-15,CUST1143,North,Bookshelf,Furniture,8,6862,54896,Completed,Neha Gupta
+ORD00591,2025-10-08,CUST2822,West,Dumbbells,Sports,10,2098,20980,Completed,Kavita Nair
+ORD00592,2025-10-16,CUST2781,North,Bookshelf,Furniture,9,5740,51660,Completed,Neha Gupta
+ORD00593,2025-07-07,CUST2688,North,Jacket,Clothing,1,2250,2250,Cancelled,Amit Sharma
+ORD00594,2025-06-26,CUST2174,South,Yoga Mat,Sports,8,1364,10912,Completed,Lakshmi Rao
+ORD00595,2025-08-09,CUST4268,North,Dumbbells,Sports,1,2074,2074,Completed,Vijay Kumar
+ORD00596,2025-08-12,CUST2616,West,Shoes,Clothing,7,2865,20055,Completed,Kavita Nair
+ORD00597,2025-05-03,CUST3116,North,Desk,Furniture,5,9029,45145,Cancelled,Amit Sharma
+ORD00598,2025-03-11,CUST2186,East,Fruit Basket,Food,8,484,3872,Completed,Rahul Mehta
+ORD00599,2025-06-14,CUST1079,West,Smartwatch,Electronics,1,7571,7571,Completed,Rohan Desai
+ORD00600,2025-03-06,CUST3929,South,Smartphone,Electronics,2,20628,41256,Completed,Suresh Babu
+ORD00601,2025-08-04,CUST2276,South,Bookshelf,Furniture,1,5895,5895,Cancelled,Lakshmi Rao
+ORD00602,2025-01-29,CUST2091,South,Smartwatch,Electronics,8,7563,60504,Returned,Suresh Babu
+ORD00603,2025-07-15,CUST4392,East,Smartphone,Electronics,7,24041,168287,Completed,Ankit Joshi
+ORD00604,2025-01-18,CUST1815,South,Smartwatch,Electronics,4,8145,32580,Cancelled,Suresh Babu
+ORD00605,2025-06-15,CUST1649,East,Jump Rope,Sports,2,288,576,Completed,Rahul Mehta
+ORD00606,2025-07-04,CUST4635,East,T-Shirt,Clothing,4,529,2116,Completed,Rahul Mehta
+ORD00607,2025-05-22,CUST3394,East,Snack Box,Food,1,456,456,Completed,Ankit Joshi
+ORD00608,2025-09-01,CUST3819,West,Chair,Furniture,4,4697,18788,Completed,Kavita Nair
+ORD00609,2025-06-23,CUST4812,East,Tablet,Electronics,3,19355,58065,Cancelled,Rahul Mehta
+ORD00610,2025-09-07,CUST1953,North,Running Shoes,Sports,8,4333,34664,Completed,Neha Gupta
+ORD00611,2025-07-03,CUST3967,West,Chair,Furniture,8,5383,43064,Completed,Kavita Nair
+ORD00612,2025-12-23,CUST3007,West,Dumbbells,Sports,9,1973,17757,Cancelled,Rohan Desai
+ORD00613,2025-11-03,CUST4745,West,Smartwatch,Electronics,3,8098,24294,Cancelled,Kavita Nair
+ORD00614,2025-07-07,CUST2859,East,Cycle Helmet,Sports,3,1681,5043,Completed,Priya Shah
+ORD00615,2025-11-14,CUST1978,North,Smartwatch,Electronics,7,7579,53053,Completed,Vijay Kumar
+ORD00616,2025-03-20,CUST3511,North,Bookshelf,Furniture,6,5565,33390,Completed,Amit Sharma
+ORD00617,2025-01-23,CUST4420,West,T-Shirt,Clothing,4,463,1852,Completed,Sneha Patel
+ORD00618,2025-10-20,CUST3628,South,Fruit Basket,Food,10,537,5370,Completed,Suresh Babu
+ORD00619,2025-04-24,CUST3481,East,Smartphone,Electronics,8,24906,199248,Cancelled,Priya Shah
+ORD00620,2025-11-24,CUST1248,North,Cycle Helmet,Sports,6,1647,9882,Completed,Vijay Kumar
+ORD00621,2025-05-17,CUST3166,East,Tablet,Electronics,2,20450,40900,Returned,Rahul Mehta
+ORD00622,2025-02-21,CUST3970,West,Cycle Helmet,Sports,4,1422,5688,Cancelled,Kavita Nair
+ORD00623,2025-11-17,CUST4880,West,Jump Rope,Sports,7,325,2275,Cancelled,Kavita Nair
+ORD00624,2025-07-03,CUST3762,South,Organic Pack,Food,3,878,2634,Completed,Divya Menon
+ORD00625,2025-06-22,CUST3693,West,Jump Rope,Sports,8,340,2720,Returned,Kavita Nair
+ORD00626,2025-06-16,CUST4460,North,Spice Kit,Food,6,368,2208,Completed,Amit Sharma
+ORD00627,2025-07-12,CUST4136,North,Bookshelf,Furniture,8,6839,54712,Completed,Amit Sharma
+ORD00628,2025-05-26,CUST3440,East,Dumbbells,Sports,5,1803,9015,Returned,Rahul Mehta
+ORD00629,2025-06-11,CUST1088,North,Jump Rope,Sports,9,312,2808,Completed,Amit Sharma
+ORD00630,2025-01-20,CUST2885,North,Jeans,Clothing,5,1190,5950,Completed,Amit Sharma
+ORD00631,2025-05-12,CUST4322,North,Smartwatch,Electronics,7,8338,58366,Completed,Amit Sharma
+ORD00632,2025-06-16,CUST4247,South,Shoes,Clothing,10,3314,33140,Completed,Divya Menon
+ORD00633,2025-06-03,CUST1153,South,Laptop,Electronics,6,54284,325704,Cancelled,Suresh Babu
+ORD00634,2025-03-03,CUST4562,West,Yoga Mat,Sports,7,1096,7672,Completed,Rohan Desai
+ORD00635,2025-10-04,CUST3313,West,Desk,Furniture,4,8444,33776,Cancelled,Rohan Desai
+ORD00636,2025-08-17,CUST4083,East,Shoes,Clothing,5,3289,16445,Completed,Priya Shah
+ORD00637,2025-02-12,CUST2949,East,Cycle Helmet,Sports,5,1381,6905,Completed,Ankit Joshi
+ORD00638,2025-03-08,CUST4121,West,Fruit Basket,Food,4,510,2040,Cancelled,Sneha Patel
+ORD00639,2025-10-15,CUST3523,West,T-Shirt,Clothing,5,547,2735,Completed,Kavita Nair
+ORD00640,2025-02-15,CUST1460,South,Beverage Set,Food,6,568,3408,Completed,Divya Menon
+ORD00641,2025-01-13,CUST4152,North,Jacket,Clothing,10,2763,27630,Cancelled,Vijay Kumar
+ORD00642,2025-03-16,CUST2804,East,Jeans,Clothing,6,1126,6756,Cancelled,Rahul Mehta
+ORD00643,2025-02-27,CUST4029,East,Dress,Clothing,3,2010,6030,Cancelled,Rahul Mehta
+ORD00644,2025-06-25,CUST3841,East,Bookshelf,Furniture,8,5434,43472,Completed,Ankit Joshi
+ORD00645,2025-04-19,CUST1834,North,Cycle Helmet,Sports,10,1623,16230,Completed,Vijay Kumar
+ORD00646,2025-12-09,CUST1075,South,Jump Rope,Sports,1,289,289,Completed,Lakshmi Rao
+ORD00647,2025-12-23,CUST3531,North,Headphones,Electronics,1,3208,3208,Completed,Vijay Kumar
+ORD00648,2025-12-04,CUST2475,East,Tablet,Electronics,7,17240,120680,Completed,Ankit Joshi
+ORD00649,2025-02-20,CUST4702,North,Fruit Basket,Food,9,461,4149,Completed,Neha Gupta
+ORD00650,2025-10-15,CUST4794,East,Smartphone,Electronics,9,21477,193293,Completed,Ankit Joshi
+ORD00651,2025-03-22,CUST1075,North,Sofa,Furniture,5,23976,119880,Returned,Vijay Kumar
+ORD00652,2025-05-22,CUST4325,East,Bookshelf,Furniture,1,6816,6816,Returned,Rahul Mehta
+ORD00653,2025-03-19,CUST2399,South,T-Shirt,Clothing,7,515,3605,Cancelled,Divya Menon
+ORD00654,2025-12-18,CUST1931,South,Dress,Clothing,3,1811,5433,Completed,Divya Menon
+ORD00655,2025-06-18,CUST2839,West,Jeans,Clothing,10,1242,12420,Cancelled,Sneha Patel
+ORD00656,2025-06-08,CUST3820,West,Snack Box,Food,10,451,4510,Completed,Kavita Nair
+ORD00657,2025-09-30,CUST4885,East,Jacket,Clothing,3,2704,8112,Cancelled,Priya Shah
+ORD00658,2025-07-30,CUST2242,South,Table,Furniture,4,7413,29652,Completed,Divya Menon
+ORD00659,2025-11-12,CUST2093,West,Dumbbells,Sports,4,2143,8572,Completed,Kavita Nair
+ORD00660,2025-09-02,CUST1549,South,Table,Furniture,7,8182,57274,Completed,Lakshmi Rao
+ORD00661,2025-04-26,CUST1132,South,Tablet,Electronics,7,17201,120407,Cancelled,Lakshmi Rao
+ORD00662,2025-04-15,CUST1270,West,Fruit Basket,Food,8,535,4280,Cancelled,Sneha Patel
+ORD00663,2025-08-07,CUST2658,East,Cycle Helmet,Sports,6,1497,8982,Returned,Ankit Joshi
+ORD00664,2025-11-01,CUST3196,East,Yoga Mat,Sports,8,1217,9736,Cancelled,Rahul Mehta
+ORD00665,2025-09-23,CUST3203,South,Smartwatch,Electronics,7,8232,57624,Cancelled,Lakshmi Rao
+ORD00666,2025-04-08,CUST2192,South,Beverage Set,Food,5,609,3045,Completed,Divya Menon
+ORD00667,2025-01-28,CUST3826,West,Spice Kit,Food,2,378,756,Completed,Kavita Nair
+ORD00668,2025-12-23,CUST3238,West,Spice Kit,Food,6,354,2124,Completed,Kavita Nair
+ORD00669,2025-12-31,CUST4669,West,Organic Pack,Food,5,784,3920,Completed,Kavita Nair
+ORD00670,2025-03-25,CUST3942,East,Laptop,Electronics,8,58218,465744,Completed,Ankit Joshi
+ORD00671,2025-07-16,CUST3977,West,Fruit Basket,Food,7,455,3185,Completed,Rohan Desai
+ORD00672,2025-10-17,CUST4568,West,Jeans,Clothing,3,1310,3930,Completed,Rohan Desai
+ORD00673,2025-06-08,CUST3990,South,Table,Furniture,2,8997,17994,Returned,Lakshmi Rao
+ORD00674,2025-11-15,CUST4135,North,Headphones,Electronics,8,3898,31184,Completed,Amit Sharma
+ORD00675,2025-11-08,CUST4615,South,Jeans,Clothing,10,1277,12770,Completed,Suresh Babu
+ORD00676,2025-02-10,CUST3462,East,Dress,Clothing,5,1898,9490,Completed,Rahul Mehta
+ORD00677,2025-01-26,CUST1757,West,Tablet,Electronics,1,16854,16854,Completed,Kavita Nair
+ORD00678,2025-11-05,CUST2222,North,Laptop,Electronics,2,55233,110466,Completed,Vijay Kumar
+ORD00679,2025-05-26,CUST3503,West,Fruit Basket,Food,6,566,3396,Completed,Rohan Desai
+ORD00680,2025-06-15,CUST2509,South,Headphones,Electronics,9,3206,28854,Completed,Lakshmi Rao
+ORD00681,2025-12-22,CUST4520,North,Desk,Furniture,7,9280,64960,Completed,Vijay Kumar
+ORD00682,2025-01-30,CUST1447,East,Fruit Basket,Food,5,503,2515,Cancelled,Priya Shah
+ORD00683,2025-09-27,CUST3355,North,Dress,Clothing,10,1843,18430,Completed,Neha Gupta
+ORD00684,2025-09-10,CUST4309,West,Dumbbells,Sports,5,2289,11445,Completed,Sneha Patel
+ORD00685,2025-08-27,CUST3561,East,Dress,Clothing,7,1806,12642,Completed,Ankit Joshi
+ORD00686,2025-11-23,CUST1869,East,Jacket,Clothing,5,2743,13715,Completed,Ankit Joshi
+ORD00687,2025-10-09,CUST2326,East,Tablet,Electronics,6,17982,107892,Completed,Rahul Mehta
+ORD00688,2025-03-31,CUST1794,North,Bookshelf,Furniture,8,6595,52760,Completed,Neha Gupta
+ORD00689,2025-03-21,CUST3569,South,Running Shoes,Sports,8,4383,35064,Completed,Divya Menon
+ORD00690,2025-01-29,CUST4420,North,Running Shoes,Sports,9,4135,37215,Completed,Vijay Kumar
+ORD00691,2025-06-19,CUST4274,North,Smartphone,Electronics,5,24424,122120,Completed,Neha Gupta
+ORD00692,2025-11-17,CUST3188,West,Jump Rope,Sports,7,284,1988,Completed,Rohan Desai
+ORD00693,2025-12-28,CUST4513,North,Tablet,Electronics,7,16590,116130,Cancelled,Neha Gupta
+ORD00694,2025-08-20,CUST4397,North,Dress,Clothing,5,1698,8490,Completed,Amit Sharma
+ORD00695,2025-04-14,CUST4741,East,Fruit Basket,Food,1,549,549,Returned,Rahul Mehta
+ORD00696,2025-04-08,CUST2393,South,Running Shoes,Sports,6,3743,22458,Returned,Divya Menon
+ORD00697,2025-12-13,CUST1543,West,Headphones,Electronics,7,3774,26418,Completed,Sneha Patel
+ORD00698,2025-06-09,CUST4818,East,Yoga Mat,Sports,6,1220,7320,Completed,Ankit Joshi
+ORD00699,2025-12-04,CUST4053,North,Smartwatch,Electronics,5,8477,42385,Completed,Amit Sharma
+ORD00700,2025-04-09,CUST2173,North,Running Shoes,Sports,8,4271,34168,Completed,Amit Sharma
+ORD00701,2025-05-21,CUST1468,East,Jump Rope,Sports,9,277,2493,Completed,Ankit Joshi
+ORD00702,2025-06-13,CUST2110,West,Desk,Furniture,4,8485,33940,Completed,Rohan Desai
+ORD00703,2025-10-04,CUST2817,East,T-Shirt,Clothing,8,562,4496,Completed,Priya Shah
+ORD00704,2025-01-28,CUST1352,South,Snack Box,Food,10,449,4490,Cancelled,Divya Menon
+ORD00705,2025-12-25,CUST2826,North,Sofa,Furniture,4,26955,107820,Completed,Vijay Kumar
+ORD00706,2025-02-10,CUST4988,South,Dumbbells,Sports,2,2206,4412,Returned,Suresh Babu
+ORD00707,2025-02-19,CUST2866,North,Spice Kit,Food,4,397,1588,Completed,Vijay Kumar
+ORD00708,2025-05-13,CUST4739,North,Snack Box,Food,6,438,2628,Cancelled,Neha Gupta
+ORD00709,2025-09-07,CUST1123,East,Organic Pack,Food,6,815,4890,Cancelled,Priya Shah
+ORD00710,2025-06-28,CUST3475,West,Yoga Mat,Sports,7,1325,9275,Cancelled,Rohan Desai
+ORD00711,2025-10-12,CUST3660,East,Desk,Furniture,8,9001,72008,Completed,Ankit Joshi
+ORD00712,2025-05-05,CUST3244,West,Spice Kit,Food,2,344,688,Cancelled,Kavita Nair
+ORD00713,2025-08-09,CUST4212,South,Running Shoes,Sports,9,4294,38646,Completed,Divya Menon
+ORD00714,2025-02-09,CUST4028,South,Smartwatch,Electronics,10,8125,81250,Completed,Suresh Babu
+ORD00715,2025-04-01,CUST2261,South,Smartwatch,Electronics,2,8571,17142,Completed,Suresh Babu
+ORD00716,2025-06-17,CUST3024,East,Smartphone,Electronics,3,24679,74037,Returned,Ankit Joshi
+ORD00717,2025-01-01,CUST4100,West,Shoes,Clothing,9,2918,26262,Completed,Rohan Desai
+ORD00718,2025-04-11,CUST1842,North,Desk,Furniture,5,10166,50830,Returned,Vijay Kumar
+ORD00719,2025-06-26,CUST1365,East,Jump Rope,Sports,7,333,2331,Cancelled,Rahul Mehta
+ORD00720,2025-07-09,CUST4690,East,Smartwatch,Electronics,6,7419,44514,Completed,Rahul Mehta
+ORD00721,2025-05-01,CUST2768,South,Bookshelf,Furniture,7,5972,41804,Completed,Divya Menon
+ORD00722,2025-03-30,CUST2945,West,Dress,Clothing,7,1999,13993,Completed,Rohan Desai
+ORD00723,2025-03-20,CUST2181,West,T-Shirt,Clothing,2,531,1062,Completed,Rohan Desai
+ORD00724,2025-12-03,CUST2788,West,Smartphone,Electronics,7,24530,171710,Returned,Kavita Nair
+ORD00725,2025-11-06,CUST4810,South,Dumbbells,Sports,8,2054,16432,Completed,Suresh Babu
+ORD00726,2025-07-16,CUST2455,West,Shoes,Clothing,10,2705,27050,Completed,Kavita Nair
+ORD00727,2025-05-02,CUST3916,North,Fruit Basket,Food,10,495,4950,Returned,Vijay Kumar
+ORD00728,2025-09-05,CUST3887,North,Smartwatch,Electronics,8,9123,72984,Completed,Vijay Kumar
+ORD00729,2025-09-27,CUST4519,North,Fruit Basket,Food,2,515,1030,Completed,Amit Sharma
+ORD00730,2025-08-30,CUST3583,East,Jump Rope,Sports,5,315,1575,Returned,Ankit Joshi
+ORD00731,2025-01-06,CUST2920,South,Cycle Helmet,Sports,10,1625,16250,Completed,Suresh Babu
+ORD00732,2025-05-29,CUST1686,East,Running Shoes,Sports,10,3860,38600,Completed,Ankit Joshi
+ORD00733,2025-03-28,CUST3346,East,Desk,Furniture,1,8745,8745,Completed,Ankit Joshi
+ORD00734,2025-02-09,CUST4487,North,Table,Furniture,10,7761,77610,Cancelled,Amit Sharma
+ORD00735,2025-02-27,CUST3473,West,Dumbbells,Sports,8,1984,15872,Completed,Kavita Nair
+ORD00736,2025-05-01,CUST2986,West,Yoga Mat,Sports,6,1375,8250,Returned,Kavita Nair
+ORD00737,2025-03-20,CUST4430,South,Spice Kit,Food,4,372,1488,Cancelled,Lakshmi Rao
+ORD00738,2025-04-18,CUST3366,North,Tablet,Electronics,2,16436,32872,Completed,Neha Gupta
+ORD00739,2025-06-04,CUST2950,West,Spice Kit,Food,8,337,2696,Completed,Rohan Desai
+ORD00740,2025-01-07,CUST2182,South,Beverage Set,Food,9,642,5778,Completed,Divya Menon
+ORD00741,2025-11-23,CUST2449,South,Running Shoes,Sports,6,3870,23220,Cancelled,Suresh Babu
+ORD00742,2025-12-02,CUST3392,South,Snack Box,Food,10,437,4370,Completed,Divya Menon
+ORD00743,2025-12-20,CUST1736,North,Yoga Mat,Sports,1,1329,1329,Completed,Amit Sharma
+ORD00744,2025-09-26,CUST1425,South,Table,Furniture,5,7703,38515,Completed,Divya Menon
+ORD00745,2025-02-17,CUST1232,West,Yoga Mat,Sports,2,1105,2210,Completed,Rohan Desai
+ORD00746,2025-12-03,CUST4128,West,Smartphone,Electronics,5,21420,107100,Cancelled,Sneha Patel
+ORD00747,2025-11-24,CUST2857,North,Beverage Set,Food,5,564,2820,Completed,Amit Sharma
+ORD00748,2025-07-15,CUST2591,North,Tablet,Electronics,5,17000,85000,Completed,Amit Sharma
+ORD00749,2025-11-09,CUST2608,West,Organic Pack,Food,3,828,2484,Completed,Kavita Nair
+ORD00750,2025-11-26,CUST1435,South,Chair,Furniture,1,4591,4591,Completed,Suresh Babu
+ORD00751,2025-08-17,CUST1076,South,T-Shirt,Clothing,1,533,533,Completed,Divya Menon
+ORD00752,2025-06-18,CUST4705,South,Yoga Mat,Sports,9,1292,11628,Cancelled,Suresh Babu
+ORD00753,2025-08-12,CUST2654,East,Dumbbells,Sports,1,1992,1992,Completed,Priya Shah
+ORD00754,2025-03-04,CUST3323,North,Sofa,Furniture,7,22844,159908,Returned,Vijay Kumar
+ORD00755,2025-02-16,CUST2496,North,Headphones,Electronics,5,3716,18580,Completed,Amit Sharma
+ORD00756,2025-07-16,CUST3706,West,Bookshelf,Furniture,2,6345,12690,Completed,Sneha Patel
+ORD00757,2025-11-20,CUST2793,West,T-Shirt,Clothing,4,453,1812,Returned,Sneha Patel
+ORD00758,2025-09-08,CUST2592,East,Running Shoes,Sports,8,4133,33064,Cancelled,Priya Shah
+ORD00759,2025-01-09,CUST1151,North,Tablet,Electronics,1,18024,18024,Completed,Vijay Kumar
+ORD00760,2025-12-08,CUST3142,South,Dumbbells,Sports,10,1916,19160,Completed,Divya Menon
+ORD00761,2025-03-14,CUST3002,East,Fruit Basket,Food,1,480,480,Completed,Rahul Mehta
+ORD00762,2025-03-30,CUST3591,East,Chair,Furniture,8,5264,42112,Cancelled,Rahul Mehta
+ORD00763,2025-02-24,CUST1467,South,Jump Rope,Sports,4,274,1096,Completed,Suresh Babu
+ORD00764,2025-12-14,CUST2646,North,Smartwatch,Electronics,9,7474,67266,Cancelled,Amit Sharma
+ORD00765,2025-01-24,CUST3429,West,Chair,Furniture,2,4842,9684,Cancelled,Sneha Patel
+ORD00766,2025-12-23,CUST2515,West,Snack Box,Food,10,364,3640,Completed,Kavita Nair
+ORD00767,2025-11-10,CUST2540,West,Headphones,Electronics,2,3155,6310,Completed,Sneha Patel
+ORD00768,2025-12-28,CUST3669,North,Spice Kit,Food,3,333,999,Completed,Vijay Kumar
+ORD00769,2025-08-19,CUST2687,West,Dress,Clothing,1,1888,1888,Cancelled,Kavita Nair
+ORD00770,2025-02-15,CUST3568,North,Bookshelf,Furniture,1,6236,6236,Completed,Vijay Kumar
+ORD00771,2025-02-18,CUST3535,North,Jump Rope,Sports,4,304,1216,Completed,Amit Sharma
+ORD00772,2025-05-22,CUST1217,West,Smartphone,Electronics,8,22536,180288,Completed,Sneha Patel
+ORD00773,2025-01-28,CUST3641,North,Table,Furniture,7,7702,53914,Completed,Neha Gupta
+ORD00774,2025-01-23,CUST1427,East,Dumbbells,Sports,3,2192,6576,Completed,Rahul Mehta
+ORD00775,2025-02-06,CUST4666,West,Fruit Basket,Food,10,490,4900,Completed,Kavita Nair
+ORD00776,2025-06-16,CUST1942,East,Table,Furniture,2,7674,15348,Completed,Rahul Mehta
+ORD00777,2025-07-12,CUST4651,West,Headphones,Electronics,10,3573,35730,Returned,Sneha Patel
+ORD00778,2025-04-21,CUST4800,South,Shoes,Clothing,6,2802,16812,Cancelled,Divya Menon
+ORD00779,2025-07-03,CUST4995,North,Jacket,Clothing,3,2270,6810,Completed,Neha Gupta
+ORD00780,2025-03-11,CUST1455,South,Spice Kit,Food,3,381,1143,Completed,Suresh Babu
+ORD00781,2025-11-06,CUST1642,West,Jump Rope,Sports,4,276,1104,Cancelled,Rohan Desai
+ORD00782,2025-04-21,CUST3423,South,Beverage Set,Food,1,649,649,Cancelled,Lakshmi Rao
+ORD00783,2025-05-07,CUST2340,South,Dumbbells,Sports,10,2273,22730,Returned,Lakshmi Rao
+ORD00784,2025-08-02,CUST1181,East,Fruit Basket,Food,1,503,503,Completed,Ankit Joshi
+ORD00785,2025-02-20,CUST2853,South,T-Shirt,Clothing,9,544,4896,Cancelled,Suresh Babu
+ORD00786,2025-04-22,CUST1543,North,Table,Furniture,2,7231,14462,Completed,Amit Sharma
+ORD00787,2025-12-27,CUST2881,East,Spice Kit,Food,3,391,1173,Completed,Priya Shah
+ORD00788,2025-11-17,CUST2901,East,Headphones,Electronics,6,3614,21684,Completed,Priya Shah
+ORD00789,2025-12-24,CUST4875,West,Smartwatch,Electronics,6,8671,52026,Completed,Kavita Nair
+ORD00790,2025-07-06,CUST4637,East,Headphones,Electronics,6,3557,21342,Completed,Priya Shah
+ORD00791,2025-03-31,CUST3654,East,Dumbbells,Sports,3,2290,6870,Completed,Rahul Mehta
+ORD00792,2025-11-29,CUST2959,West,Jacket,Clothing,6,2811,16866,Completed,Rohan Desai
+ORD00793,2025-05-22,CUST1223,East,Sofa,Furniture,8,25538,204304,Completed,Rahul Mehta
+ORD00794,2025-08-29,CUST3907,North,Fruit Basket,Food,6,549,3294,Returned,Amit Sharma
+ORD00795,2025-04-07,CUST4653,South,Laptop,Electronics,7,61846,432922,Completed,Lakshmi Rao
+ORD00796,2025-02-25,CUST1674,North,Smartphone,Electronics,8,20627,165016,Completed,Vijay Kumar
+ORD00797,2025-01-12,CUST2200,South,Dumbbells,Sports,8,1973,15784,Completed,Divya Menon
+ORD00798,2025-01-11,CUST2194,West,Laptop,Electronics,4,60980,243920,Completed,Rohan Desai
+ORD00799,2025-07-30,CUST3370,North,Bookshelf,Furniture,10,6398,63980,Completed,Vijay Kumar
+ORD00800,2025-08-16,CUST2875,North,Dumbbells,Sports,5,1885,9425,Completed,Neha Gupta
+ORD00801,2025-07-10,CUST4976,North,Smartphone,Electronics,6,21364,128184,Returned,Vijay Kumar
+ORD00802,2025-03-24,CUST3915,North,Jeans,Clothing,3,1128,3384,Completed,Neha Gupta
+ORD00803,2025-10-22,CUST1518,South,Sofa,Furniture,3,23782,71346,Cancelled,Divya Menon
+ORD00804,2025-06-12,CUST2408,West,Bookshelf,Furniture,9,6863,61767,Completed,Sneha Patel
+ORD00805,2025-01-13,CUST2657,South,Shoes,Clothing,6,2817,16902,Returned,Divya Menon
+ORD00806,2025-09-17,CUST2356,North,Beverage Set,Food,10,640,6400,Cancelled,Vijay Kumar
+ORD00807,2025-08-15,CUST2387,East,Organic Pack,Food,3,855,2565,Completed,Rahul Mehta
+ORD00808,2025-07-25,CUST3529,West,Beverage Set,Food,2,588,1176,Completed,Sneha Patel
+ORD00809,2025-10-26,CUST3156,West,Table,Furniture,1,7367,7367,Cancelled,Kavita Nair
+ORD00810,2025-12-10,CUST4922,East,Cycle Helmet,Sports,4,1533,6132,Completed,Ankit Joshi
+ORD00811,2025-01-29,CUST4720,North,Snack Box,Food,7,396,2772,Completed,Neha Gupta
+ORD00812,2025-06-26,CUST2439,North,Fruit Basket,Food,2,476,952,Cancelled,Vijay Kumar
+ORD00813,2025-08-01,CUST4291,South,Table,Furniture,7,8657,60599,Completed,Divya Menon
+ORD00814,2025-11-03,CUST1352,West,Jacket,Clothing,8,2867,22936,Completed,Rohan Desai
+ORD00815,2025-02-03,CUST4822,South,Laptop,Electronics,7,58283,407981,Completed,Lakshmi Rao
+ORD00816,2025-10-12,CUST2892,West,Jeans,Clothing,7,1166,8162,Completed,Rohan Desai
+ORD00817,2025-10-27,CUST2244,South,Cycle Helmet,Sports,4,1360,5440,Completed,Suresh Babu
+ORD00818,2025-06-03,CUST4915,South,Tablet,Electronics,7,17007,119049,Returned,Divya Menon
+ORD00819,2025-05-06,CUST1116,East,Bookshelf,Furniture,2,6298,12596,Completed,Priya Shah
+ORD00820,2025-10-17,CUST2786,North,Organic Pack,Food,6,822,4932,Completed,Neha Gupta
+ORD00821,2025-03-25,CUST3382,East,Jacket,Clothing,8,2798,22384,Completed,Rahul Mehta
+ORD00822,2025-01-28,CUST2116,North,Beverage Set,Food,1,583,583,Completed,Amit Sharma
+ORD00823,2025-09-21,CUST1793,West,Smartwatch,Electronics,3,8287,24861,Returned,Kavita Nair
+ORD00824,2025-06-04,CUST2111,North,Smartwatch,Electronics,10,7903,79030,Completed,Amit Sharma
+ORD00825,2025-09-23,CUST2152,North,Spice Kit,Food,6,395,2370,Completed,Amit Sharma
+ORD00826,2025-03-21,CUST3061,West,Dress,Clothing,10,1930,19300,Returned,Kavita Nair
+ORD00827,2025-12-31,CUST3257,East,Spice Kit,Food,2,325,650,Completed,Rahul Mehta
+ORD00828,2025-09-03,CUST2426,North,Table,Furniture,8,8979,71832,Completed,Neha Gupta
+ORD00829,2025-03-30,CUST3907,North,Laptop,Electronics,4,51269,205076,Completed,Vijay Kumar
+ORD00830,2025-04-27,CUST2259,West,Jeans,Clothing,2,1207,2414,Cancelled,Sneha Patel
+ORD00831,2025-02-09,CUST1077,South,Organic Pack,Food,4,741,2964,Cancelled,Divya Menon
+ORD00832,2025-10-31,CUST1242,South,Tablet,Electronics,1,16498,16498,Cancelled,Lakshmi Rao
+ORD00833,2025-03-05,CUST4768,West,Dumbbells,Sports,3,2135,6405,Completed,Sneha Patel
+ORD00834,2025-05-23,CUST4886,North,Table,Furniture,9,8761,78849,Completed,Vijay Kumar
+ORD00835,2025-10-19,CUST1279,East,Yoga Mat,Sports,9,1145,10305,Completed,Priya Shah
+ORD00836,2025-03-29,CUST4693,East,Smartphone,Electronics,9,24482,220338,Completed,Ankit Joshi
+ORD00837,2025-10-29,CUST1758,South,Smartphone,Electronics,6,25197,151182,Completed,Divya Menon
+ORD00838,2025-04-27,CUST2669,East,Chair,Furniture,8,4637,37096,Completed,Priya Shah
+ORD00839,2025-12-27,CUST2180,East,Tablet,Electronics,8,16720,133760,Completed,Ankit Joshi
+ORD00840,2025-06-09,CUST3814,South,Dress,Clothing,7,1750,12250,Returned,Lakshmi Rao
+ORD00841,2025-02-05,CUST4664,South,Table,Furniture,1,9197,9197,Completed,Lakshmi Rao
+ORD00842,2025-07-22,CUST2794,East,Smartphone,Electronics,7,22003,154021,Completed,Rahul Mehta
+ORD00843,2025-03-28,CUST1265,North,Jacket,Clothing,4,2621,10484,Returned,Amit Sharma
+ORD00844,2025-04-30,CUST4432,South,Beverage Set,Food,10,629,6290,Cancelled,Divya Menon
+ORD00845,2025-07-24,CUST2458,South,Cycle Helmet,Sports,8,1541,12328,Completed,Suresh Babu
+ORD00846,2025-02-25,CUST1500,North,Spice Kit,Food,4,369,1476,Completed,Amit Sharma
+ORD00847,2025-01-28,CUST4400,East,Organic Pack,Food,3,796,2388,Completed,Rahul Mehta
+ORD00848,2025-06-05,CUST3547,East,Smartwatch,Electronics,8,8785,70280,Completed,Ankit Joshi
+ORD00849,2025-09-12,CUST3008,North,Running Shoes,Sports,9,4146,37314,Returned,Amit Sharma
+ORD00850,2025-08-09,CUST4604,East,Spice Kit,Food,6,389,2334,Completed,Rahul Mehta
+ORD00851,2025-01-17,CUST1724,North,Shoes,Clothing,7,2800,19600,Completed,Neha Gupta
+ORD00852,2025-02-26,CUST3330,South,Jump Rope,Sports,10,305,3050,Completed,Lakshmi Rao
+ORD00853,2025-09-17,CUST1228,South,Bookshelf,Furniture,10,6856,68560,Cancelled,Suresh Babu
+ORD00854,2025-05-26,CUST2312,East,Smartwatch,Electronics,1,7456,7456,Completed,Ankit Joshi
+ORD00855,2025-10-26,CUST1110,North,Organic Pack,Food,7,789,5523,Completed,Neha Gupta
+ORD00856,2025-01-29,CUST3708,West,Jeans,Clothing,5,1257,6285,Returned,Sneha Patel
+ORD00857,2025-06-06,CUST1468,North,T-Shirt,Clothing,9,490,4410,Completed,Neha Gupta
+ORD00858,2025-10-18,CUST3108,South,Chair,Furniture,8,5234,41872,Returned,Suresh Babu
+ORD00859,2025-10-20,CUST2598,North,Yoga Mat,Sports,8,1110,8880,Completed,Neha Gupta
+ORD00860,2025-09-12,CUST3059,North,Dress,Clothing,5,1783,8915,Completed,Neha Gupta
+ORD00861,2025-11-22,CUST4470,East,Dumbbells,Sports,5,1932,9660,Completed,Ankit Joshi
+ORD00862,2025-07-25,CUST4295,West,Yoga Mat,Sports,10,1108,11080,Completed,Sneha Patel
+ORD00863,2025-10-18,CUST4281,South,Snack Box,Food,6,439,2634,Cancelled,Suresh Babu
+ORD00864,2025-09-16,CUST4293,North,Fruit Basket,Food,6,475,2850,Completed,Vijay Kumar
+ORD00865,2025-09-21,CUST2856,West,Smartwatch,Electronics,3,8353,25059,Completed,Kavita Nair
+ORD00866,2025-08-28,CUST2097,South,Yoga Mat,Sports,9,1140,10260,Completed,Lakshmi Rao
+ORD00867,2025-03-19,CUST4057,North,Spice Kit,Food,6,390,2340,Cancelled,Vijay Kumar
+ORD00868,2025-04-15,CUST4465,South,Sofa,Furniture,3,24102,72306,Cancelled,Suresh Babu
+ORD00869,2025-05-03,CUST1465,West,T-Shirt,Clothing,4,549,2196,Completed,Rohan Desai
+ORD00870,2025-10-14,CUST2786,South,Smartphone,Electronics,3,21299,63897,Completed,Suresh Babu
+ORD00871,2025-12-04,CUST3255,West,Headphones,Electronics,1,3198,3198,Returned,Rohan Desai
+ORD00872,2025-11-05,CUST2220,East,Beverage Set,Food,2,599,1198,Cancelled,Rahul Mehta
+ORD00873,2025-05-01,CUST1458,East,Jump Rope,Sports,9,288,2592,Cancelled,Rahul Mehta
+ORD00874,2025-11-04,CUST1500,North,Desk,Furniture,7,9913,69391,Completed,Neha Gupta
+ORD00875,2025-04-22,CUST1590,East,Jeans,Clothing,5,1211,6055,Completed,Ankit Joshi
+ORD00876,2025-01-29,CUST3008,North,Tablet,Electronics,9,18107,162963,Completed,Neha Gupta
+ORD00877,2025-03-16,CUST2486,South,Sofa,Furniture,1,26533,26533,Returned,Lakshmi Rao
+ORD00878,2025-12-06,CUST4272,East,Jacket,Clothing,9,2490,22410,Completed,Ankit Joshi
+ORD00879,2025-07-05,CUST4699,East,Dumbbells,Sports,8,1994,15952,Returned,Priya Shah
+ORD00880,2025-05-11,CUST2232,East,Jacket,Clothing,4,2787,11148,Completed,Priya Shah
+ORD00881,2025-11-20,CUST2299,South,Tablet,Electronics,2,19904,39808,Returned,Suresh Babu
+ORD00882,2025-07-31,CUST4794,North,Organic Pack,Food,3,859,2577,Completed,Neha Gupta
+ORD00883,2025-08-04,CUST3466,North,Organic Pack,Food,1,848,848,Completed,Neha Gupta
+ORD00884,2025-11-25,CUST1557,East,Snack Box,Food,5,391,1955,Completed,Rahul Mehta
+ORD00885,2025-05-08,CUST3115,West,Cycle Helmet,Sports,6,1519,9114,Returned,Sneha Patel
+ORD00886,2025-05-14,CUST1710,North,Table,Furniture,2,8028,16056,Completed,Neha Gupta
+ORD00887,2025-10-20,CUST1919,East,Smartwatch,Electronics,10,8453,84530,Returned,Priya Shah
+ORD00888,2025-04-12,CUST2072,West,Headphones,Electronics,10,3525,35250,Completed,Sneha Patel
+ORD00889,2025-07-08,CUST1696,East,Smartwatch,Electronics,7,8746,61222,Returned,Ankit Joshi
+ORD00890,2025-09-11,CUST1485,West,Jeans,Clothing,5,1166,5830,Completed,Sneha Patel
+ORD00891,2025-08-09,CUST4507,West,Dumbbells,Sports,5,2163,10815,Completed,Sneha Patel
+ORD00892,2025-07-29,CUST4245,West,Tablet,Electronics,5,17259,86295,Completed,Sneha Patel
+ORD00893,2025-07-09,CUST3387,South,Laptop,Electronics,8,51331,410648,Completed,Divya Menon
+ORD00894,2025-07-23,CUST3813,West,Spice Kit,Food,10,337,3370,Completed,Sneha Patel
+ORD00895,2025-01-27,CUST2363,West,Beverage Set,Food,10,680,6800,Returned,Kavita Nair
+ORD00896,2025-12-30,CUST4064,East,Tablet,Electronics,9,18988,170892,Completed,Priya Shah
+ORD00897,2025-12-10,CUST2519,West,Yoga Mat,Sports,10,1133,11330,Completed,Rohan Desai
+ORD00898,2025-06-23,CUST4595,South,T-Shirt,Clothing,6,538,3228,Completed,Suresh Babu
+ORD00899,2025-03-01,CUST2283,East,Shoes,Clothing,5,3260,16300,Returned,Priya Shah
+ORD00900,2025-05-15,CUST3510,North,Running Shoes,Sports,7,4492,31444,Completed,Neha Gupta
+ORD00901,2025-03-19,CUST3276,South,Smartphone,Electronics,3,20100,60300,Completed,Suresh Babu
+ORD00902,2025-05-14,CUST1669,South,Organic Pack,Food,8,728,5824,Completed,Divya Menon
+ORD00903,2025-10-15,CUST2987,South,Organic Pack,Food,3,744,2232,Completed,Suresh Babu
+ORD00904,2025-04-03,CUST4419,West,Running Shoes,Sports,10,4490,44900,Completed,Kavita Nair
+ORD00905,2025-01-03,CUST3154,West,Organic Pack,Food,4,873,3492,Cancelled,Rohan Desai
+ORD00906,2025-01-14,CUST2164,East,Beverage Set,Food,10,679,6790,Completed,Priya Shah
+ORD00907,2025-03-20,CUST1118,East,Spice Kit,Food,8,369,2952,Completed,Ankit Joshi
+ORD00908,2025-01-03,CUST2349,East,Cycle Helmet,Sports,6,1705,10230,Returned,Ankit Joshi
+ORD00909,2025-03-08,CUST1865,East,Sofa,Furniture,1,27148,27148,Completed,Ankit Joshi
+ORD00910,2025-07-15,CUST1379,South,Table,Furniture,4,9130,36520,Returned,Lakshmi Rao
+ORD00911,2025-01-11,CUST4491,West,Shoes,Clothing,7,2913,20391,Cancelled,Kavita Nair
+ORD00912,2025-03-20,CUST1493,North,Spice Kit,Food,5,394,1970,Completed,Neha Gupta
+ORD00913,2025-12-07,CUST1393,North,Dumbbells,Sports,8,2022,16176,Completed,Neha Gupta
+ORD00914,2025-10-16,CUST3458,South,Headphones,Electronics,6,3687,22122,Completed,Suresh Babu
+ORD00915,2025-02-17,CUST1165,North,Snack Box,Food,3,453,1359,Completed,Vijay Kumar
+ORD00916,2025-09-26,CUST1343,North,Spice Kit,Food,2,394,788,Completed,Amit Sharma
+ORD00917,2025-03-07,CUST3802,North,Dress,Clothing,7,1752,12264,Completed,Amit Sharma
+ORD00918,2025-01-24,CUST3102,East,Cycle Helmet,Sports,7,1385,9695,Completed,Ankit Joshi
+ORD00919,2025-05-10,CUST2455,North,Yoga Mat,Sports,9,1084,9756,Completed,Neha Gupta
+ORD00920,2025-04-02,CUST4220,West,Organic Pack,Food,2,803,1606,Cancelled,Rohan Desai
+ORD00921,2025-10-28,CUST3965,South,Fruit Basket,Food,5,492,2460,Returned,Lakshmi Rao
+ORD00922,2025-04-19,CUST1758,East,Running Shoes,Sports,2,4033,8066,Completed,Priya Shah
+ORD00923,2025-03-01,CUST1054,West,Spice Kit,Food,7,391,2737,Returned,Kavita Nair
+ORD00924,2025-09-07,CUST2240,North,Beverage Set,Food,2,558,1116,Completed,Amit Sharma
+ORD00925,2025-01-09,CUST3850,West,Smartphone,Electronics,8,23367,186936,Completed,Rohan Desai
+ORD00926,2025-11-17,CUST4515,West,Tablet,Electronics,8,16866,134928,Completed,Sneha Patel
+ORD00927,2025-03-27,CUST4696,West,Spice Kit,Food,8,316,2528,Completed,Sneha Patel
+ORD00928,2025-04-14,CUST2207,South,Tablet,Electronics,1,16661,16661,Cancelled,Suresh Babu
+ORD00929,2025-08-01,CUST4475,South,Jump Rope,Sports,9,344,3096,Completed,Suresh Babu
+ORD00930,2025-09-06,CUST3102,South,T-Shirt,Clothing,9,452,4068,Completed,Divya Menon
+ORD00931,2025-02-02,CUST2097,South,Organic Pack,Food,8,844,6752,Cancelled,Suresh Babu
+ORD00932,2025-12-24,CUST2786,East,Jacket,Clothing,4,2543,10172,Completed,Ankit Joshi
+ORD00933,2025-04-23,CUST3407,North,Cycle Helmet,Sports,3,1681,5043,Completed,Neha Gupta
+ORD00934,2025-08-02,CUST4412,North,Snack Box,Food,10,380,3800,Completed,Amit Sharma
+ORD00935,2025-12-08,CUST2977,West,Jeans,Clothing,3,1261,3783,Completed,Rohan Desai
+ORD00936,2025-09-10,CUST2243,West,Dress,Clothing,1,2069,2069,Completed,Rohan Desai
+ORD00937,2025-07-02,CUST3772,West,Dress,Clothing,1,1983,1983,Completed,Sneha Patel
+ORD00938,2025-11-13,CUST1928,East,Dumbbells,Sports,8,1928,15424,Completed,Priya Shah
+ORD00939,2025-01-24,CUST4154,North,Dress,Clothing,10,1921,19210,Completed,Neha Gupta
+ORD00940,2025-08-23,CUST4943,East,Smartwatch,Electronics,10,8764,87640,Returned,Ankit Joshi
+ORD00941,2025-01-22,CUST3077,East,T-Shirt,Clothing,4,563,2252,Completed,Priya Shah
+ORD00942,2025-12-29,CUST2808,South,Smartphone,Electronics,6,21640,129840,Completed,Lakshmi Rao
+ORD00943,2025-08-13,CUST4971,South,Smartphone,Electronics,8,21677,173416,Completed,Lakshmi Rao
+ORD00944,2025-05-17,CUST2525,South,Table,Furniture,3,8706,26118,Completed,Lakshmi Rao
+ORD00945,2025-03-12,CUST4284,South,Spice Kit,Food,8,398,3184,Completed,Divya Menon
+ORD00946,2025-07-05,CUST4865,East,Snack Box,Food,1,431,431,Completed,Rahul Mehta
+ORD00947,2025-02-13,CUST2385,North,Snack Box,Food,7,366,2562,Completed,Vijay Kumar
+ORD00948,2025-11-25,CUST1618,East,Running Shoes,Sports,7,4002,28014,Completed,Ankit Joshi
+ORD00949,2025-06-05,CUST3955,North,Chair,Furniture,5,5625,28125,Completed,Amit Sharma
+ORD00950,2025-12-25,CUST2654,South,Dress,Clothing,10,1974,19740,Cancelled,Divya Menon
+ORD00951,2025-06-26,CUST4635,South,Jacket,Clothing,2,2273,4546,Completed,Divya Menon
+ORD00952,2025-03-06,CUST3131,North,T-Shirt,Clothing,9,518,4662,Completed,Vijay Kumar
+ORD00953,2025-03-23,CUST1095,East,Jump Rope,Sports,5,288,1440,Cancelled,Ankit Joshi
+ORD00954,2025-08-05,CUST3069,East,Tablet,Electronics,5,19021,95105,Completed,Rahul Mehta
+ORD00955,2025-11-30,CUST4855,East,Beverage Set,Food,10,650,6500,Completed,Rahul Mehta
+ORD00956,2025-10-25,CUST3316,West,Sofa,Furniture,5,26668,133340,Cancelled,Kavita Nair
+ORD00957,2025-12-11,CUST1573,South,Dumbbells,Sports,2,1963,3926,Completed,Suresh Babu
+ORD00958,2025-08-21,CUST1401,West,Spice Kit,Food,2,323,646,Completed,Sneha Patel
+ORD00959,2025-09-01,CUST1879,South,Tablet,Electronics,9,18012,162108,Completed,Suresh Babu
+ORD00960,2025-05-16,CUST3393,South,Spice Kit,Food,8,379,3032,Completed,Lakshmi Rao
+ORD00961,2025-03-15,CUST3071,West,Spice Kit,Food,3,399,1197,Completed,Kavita Nair
+ORD00962,2025-03-02,CUST3844,West,Spice Kit,Food,1,380,380,Returned,Rohan Desai
+ORD00963,2025-03-02,CUST3464,South,Laptop,Electronics,6,57361,344166,Completed,Lakshmi Rao
+ORD00964,2025-03-02,CUST2521,North,Sofa,Furniture,5,25537,127685,Cancelled,Amit Sharma
+ORD00965,2025-10-29,CUST2727,East,Sofa,Furniture,4,23644,94576,Cancelled,Rahul Mehta
+ORD00966,2025-03-04,CUST3242,North,Laptop,Electronics,7,56116,392812,Completed,Neha Gupta
+ORD00967,2025-06-22,CUST4200,South,Fruit Basket,Food,3,545,1635,Completed,Suresh Babu
+ORD00968,2025-08-19,CUST3732,South,Jacket,Clothing,2,2749,5498,Cancelled,Suresh Babu
+ORD00969,2025-07-18,CUST1953,South,Desk,Furniture,1,10255,10255,Returned,Divya Menon
+ORD00970,2025-05-23,CUST3645,East,T-Shirt,Clothing,10,528,5280,Cancelled,Priya Shah
+ORD00971,2025-10-15,CUST3642,East,Yoga Mat,Sports,4,1366,5464,Completed,Rahul Mehta
+ORD00972,2025-10-19,CUST3137,West,Fruit Basket,Food,1,465,465,Returned,Sneha Patel
+ORD00973,2025-01-10,CUST2126,West,Dress,Clothing,8,1658,13264,Completed,Rohan Desai
+ORD00974,2025-07-25,CUST3412,East,Organic Pack,Food,6,807,4842,Completed,Ankit Joshi
+ORD00975,2025-06-12,CUST2564,North,Laptop,Electronics,2,56949,113898,Completed,Amit Sharma
+ORD00976,2025-05-11,CUST4146,East,Jacket,Clothing,7,2674,18718,Completed,Priya Shah
+ORD00977,2025-04-03,CUST1111,East,Bookshelf,Furniture,2,5880,11760,Completed,Priya Shah
+ORD00978,2025-05-13,CUST2538,East,Smartphone,Electronics,4,23936,95744,Completed,Priya Shah
+ORD00979,2025-09-18,CUST4081,South,Tablet,Electronics,1,17632,17632,Completed,Lakshmi Rao
+ORD00980,2025-09-05,CUST1118,South,T-Shirt,Clothing,5,519,2595,Completed,Lakshmi Rao
+ORD00981,2025-05-07,CUST4125,West,Desk,Furniture,7,9103,63721,Cancelled,Kavita Nair
+ORD00982,2025-04-15,CUST4206,West,Desk,Furniture,3,9859,29577,Completed,Rohan Desai
+ORD00983,2025-10-12,CUST2850,East,Headphones,Electronics,10,3403,34030,Returned,Rahul Mehta
+ORD00984,2025-01-31,CUST4823,South,Desk,Furniture,5,9988,49940,Completed,Suresh Babu
+ORD00985,2025-11-20,CUST1871,North,Smartphone,Electronics,9,22896,206064,Completed,Neha Gupta
+ORD00986,2025-12-24,CUST1503,West,Running Shoes,Sports,7,3810,26670,Completed,Rohan Desai
+ORD00987,2025-12-16,CUST4872,North,Bookshelf,Furniture,5,5768,28840,Returned,Neha Gupta
+ORD00988,2025-04-18,CUST2883,North,Smartphone,Electronics,1,23148,23148,Completed,Amit Sharma
+ORD00989,2025-12-11,CUST1710,South,Cycle Helmet,Sports,7,1551,10857,Cancelled,Divya Menon
+ORD00990,2025-11-30,CUST1317,East,Organic Pack,Food,6,914,5484,Completed,Ankit Joshi
+ORD00991,2025-07-03,CUST2584,West,Laptop,Electronics,8,54594,436752,Completed,Sneha Patel
+ORD00992,2025-04-24,CUST4043,East,Sofa,Furniture,4,23062,92248,Completed,Priya Shah
+ORD00993,2025-04-24,CUST1959,South,Chair,Furniture,5,5116,25580,Cancelled,Divya Menon
+ORD00994,2025-04-18,CUST1029,West,Organic Pack,Food,5,833,4165,Completed,Kavita Nair
+ORD00995,2025-04-10,CUST3702,West,Smartwatch,Electronics,3,8691,26073,Completed,Kavita Nair
+ORD00996,2025-04-27,CUST4608,North,T-Shirt,Clothing,9,526,4734,Completed,Neha Gupta
+ORD00997,2025-01-02,CUST4841,South,Tablet,Electronics,7,19999,139993,Completed,Lakshmi Rao
+ORD00998,2025-12-15,CUST3122,South,Beverage Set,Food,9,653,5877,Returned,Lakshmi Rao
+ORD00999,2025-01-25,CUST2138,South,Cycle Helmet,Sports,6,1351,8106,Completed,Lakshmi Rao
+ORD01000,2025-10-20,CUST4308,East,Shoes,Clothing,2,3387,6774,Completed,Priya Shah
+ORD01001,2025-06-09,CUST1257,East,Headphones,Electronics,7,3857,26999,Completed,Ankit Joshi
+ORD01002,2025-06-21,CUST4442,North,T-Shirt,Clothing,8,479,3832,Completed,Amit Sharma
+ORD01003,2025-06-20,CUST3128,West,Smartwatch,Electronics,10,8077,80770,Completed,Rohan Desai
+ORD01004,2025-10-24,CUST1511,East,Laptop,Electronics,7,53807,376649,Cancelled,Rahul Mehta
+ORD01005,2025-03-07,CUST1253,South,Tablet,Electronics,10,19017,190170,Completed,Divya Menon
+ORD01006,2025-01-29,CUST3290,East,Bookshelf,Furniture,7,5543,38801,Cancelled,Rahul Mehta
+ORD01007,2025-11-03,CUST4225,East,Spice Kit,Food,8,384,3072,Cancelled,Ankit Joshi
+ORD01008,2025-02-21,CUST2391,East,Fruit Basket,Food,6,523,3138,Completed,Rahul Mehta
+ORD01009,2025-11-01,CUST3921,East,Dumbbells,Sports,10,1862,18620,Completed,Priya Shah
+ORD01010,2025-08-04,CUST2971,South,Jeans,Clothing,3,1319,3957,Completed,Suresh Babu
+ORD01011,2025-10-27,CUST2785,North,Desk,Furniture,9,9844,88596,Completed,Neha Gupta
+ORD01012,2025-11-05,CUST2404,North,Chair,Furniture,9,5233,47097,Completed,Amit Sharma
+ORD01013,2025-05-02,CUST3077,East,Beverage Set,Food,4,686,2744,Completed,Rahul Mehta
+ORD01014,2025-02-05,CUST2398,West,Spice Kit,Food,10,375,3750,Cancelled,Kavita Nair
+ORD01015,2025-06-21,CUST3523,North,Beverage Set,Food,3,555,1665,Cancelled,Amit Sharma
+ORD01016,2025-09-11,CUST1898,East,Jeans,Clothing,8,1267,10136,Completed,Ankit Joshi
+ORD01017,2025-06-19,CUST4306,South,Shoes,Clothing,3,3319,9957,Completed,Lakshmi Rao
+ORD01018,2025-02-07,CUST2465,East,Yoga Mat,Sports,3,1167,3501,Completed,Ankit Joshi
+ORD01019,2025-07-04,CUST1179,East,Jeans,Clothing,5,1132,5660,Cancelled,Ankit Joshi
+ORD01020,2025-03-31,CUST2391,West,Jeans,Clothing,1,1132,1132,Completed,Sneha Patel
+ORD01021,2025-01-11,CUST4405,West,Organic Pack,Food,6,907,5442,Completed,Sneha Patel
+ORD01022,2025-07-09,CUST4315,North,Dress,Clothing,10,2016,20160,Cancelled,Amit Sharma
+ORD01023,2025-03-02,CUST1591,West,Jeans,Clothing,9,1193,10737,Completed,Kavita Nair
+ORD01024,2025-08-08,CUST3605,West,Smartwatch,Electronics,10,7578,75780,Completed,Sneha Patel
+ORD01025,2025-06-17,CUST2012,East,Table,Furniture,9,9136,82224,Cancelled,Rahul Mehta
+ORD01026,2025-02-11,CUST4213,South,Yoga Mat,Sports,3,1232,3696,Cancelled,Divya Menon
+ORD01027,2025-09-18,CUST2532,South,Cycle Helmet,Sports,3,1470,4410,Completed,Divya Menon
+ORD01028,2025-09-05,CUST3931,South,Beverage Set,Food,10,600,6000,Returned,Divya Menon
+ORD01029,2025-11-29,CUST1149,West,Jeans,Clothing,8,1338,10704,Completed,Rohan Desai
+ORD01030,2025-08-06,CUST4640,South,Dumbbells,Sports,6,1927,11562,Completed,Lakshmi Rao
+ORD01031,2025-06-01,CUST2820,North,Dress,Clothing,1,1829,1829,Completed,Neha Gupta
+ORD01032,2025-08-19,CUST2915,South,Beverage Set,Food,8,587,4696,Completed,Lakshmi Rao
+ORD01033,2025-08-15,CUST1957,North,Tablet,Electronics,2,17525,35050,Completed,Vijay Kumar
+ORD01034,2025-11-26,CUST1320,North,T-Shirt,Clothing,2,458,916,Completed,Amit Sharma
+ORD01035,2025-06-20,CUST1805,North,Sofa,Furniture,5,23691,118455,Completed,Amit Sharma
+ORD01036,2025-10-06,CUST4737,North,Tablet,Electronics,5,19900,99500,Cancelled,Neha Gupta
+ORD01037,2025-07-27,CUST4366,East,Fruit Basket,Food,3,558,1674,Completed,Ankit Joshi
+ORD01038,2025-04-18,CUST2943,West,Jump Rope,Sports,9,326,2934,Cancelled,Rohan Desai
+ORD01039,2025-06-24,CUST4243,East,Table,Furniture,7,8740,61180,Completed,Rahul Mehta
+ORD01040,2025-08-13,CUST2843,East,Table,Furniture,10,8947,89470,Completed,Ankit Joshi
+ORD01041,2025-01-05,CUST3047,North,Table,Furniture,7,8051,56357,Completed,Vijay Kumar
+ORD01042,2025-10-03,CUST2227,North,Yoga Mat,Sports,10,1315,13150,Returned,Amit Sharma
+ORD01043,2025-06-19,CUST3327,South,Snack Box,Food,7,366,2562,Completed,Suresh Babu
+ORD01044,2025-02-25,CUST2346,South,Chair,Furniture,3,4630,13890,Completed,Lakshmi Rao
+ORD01045,2025-12-19,CUST3471,South,Smartphone,Electronics,4,20182,80728,Returned,Suresh Babu
+ORD01046,2025-04-16,CUST1954,North,Yoga Mat,Sports,8,1097,8776,Completed,Amit Sharma
+ORD01047,2025-06-17,CUST4521,South,Snack Box,Food,2,372,744,Completed,Divya Menon
+ORD01048,2025-02-05,CUST2593,West,Jeans,Clothing,5,1209,6045,Cancelled,Rohan Desai
+ORD01049,2025-03-23,CUST3472,North,Dumbbells,Sports,9,2158,19422,Completed,Amit Sharma
+ORD01050,2025-01-04,CUST1584,South,Headphones,Electronics,10,3856,38560,Completed,Divya Menon
+ORD01051,2025-09-09,CUST2884,South,Yoga Mat,Sports,2,1166,2332,Returned,Suresh Babu
+ORD01052,2025-06-27,CUST3868,North,Fruit Basket,Food,3,501,1503,Completed,Vijay Kumar
+ORD01053,2025-08-10,CUST2875,South,Dress,Clothing,2,1797,3594,Returned,Lakshmi Rao
+ORD01054,2025-03-22,CUST2121,North,Smartphone,Electronics,8,22062,176496,Completed,Amit Sharma
+ORD01055,2025-07-08,CUST1313,East,Running Shoes,Sports,7,4050,28350,Completed,Ankit Joshi
+ORD01056,2025-01-23,CUST2893,East,Headphones,Electronics,7,3450,24150,Completed,Rahul Mehta
+ORD01057,2025-07-23,CUST1154,East,Chair,Furniture,3,4908,14724,Cancelled,Priya Shah
+ORD01058,2025-08-25,CUST1279,East,Dumbbells,Sports,8,1870,14960,Cancelled,Rahul Mehta
+ORD01059,2025-03-29,CUST4434,East,Yoga Mat,Sports,3,1168,3504,Completed,Priya Shah
+ORD01060,2025-03-28,CUST1317,East,Table,Furniture,8,7916,63328,Completed,Rahul Mehta
+ORD01061,2025-12-12,CUST3180,West,Organic Pack,Food,9,848,7632,Cancelled,Sneha Patel
+ORD01062,2025-07-19,CUST3827,North,Organic Pack,Food,10,720,7200,Completed,Amit Sharma
+ORD01063,2025-05-08,CUST2534,West,T-Shirt,Clothing,1,502,502,Returned,Rohan Desai
+ORD01064,2025-04-09,CUST3785,East,T-Shirt,Clothing,3,540,1620,Completed,Ankit Joshi
+ORD01065,2025-02-25,CUST4340,North,Desk,Furniture,4,9505,38020,Returned,Neha Gupta
+ORD01066,2025-08-08,CUST1494,West,T-Shirt,Clothing,6,490,2940,Completed,Kavita Nair
+ORD01067,2025-06-11,CUST1049,South,Shoes,Clothing,4,2749,10996,Cancelled,Divya Menon
+ORD01068,2025-11-16,CUST2511,East,Smartphone,Electronics,7,21458,150206,Completed,Rahul Mehta
+ORD01069,2025-12-31,CUST3196,West,Chair,Furniture,10,4905,49050,Completed,Rohan Desai
+ORD01070,2025-12-14,CUST4786,West,Table,Furniture,6,9156,54936,Cancelled,Sneha Patel
+ORD01071,2025-06-21,CUST1072,South,Fruit Basket,Food,4,512,2048,Cancelled,Lakshmi Rao
+ORD01072,2025-04-30,CUST1086,East,Table,Furniture,7,8714,60998,Completed,Rahul Mehta
+ORD01073,2025-03-12,CUST2534,South,Table,Furniture,3,7951,23853,Cancelled,Lakshmi Rao
+ORD01074,2025-11-03,CUST4874,South,Table,Furniture,5,7835,39175,Cancelled,Lakshmi Rao
+ORD01075,2025-09-24,CUST4243,South,Chair,Furniture,4,5558,22232,Completed,Lakshmi Rao
+ORD01076,2025-04-16,CUST3209,East,Jeans,Clothing,10,1341,13410,Completed,Rahul Mehta
+ORD01077,2025-08-15,CUST3579,East,Headphones,Electronics,2,3984,7968,Completed,Rahul Mehta
+ORD01078,2025-04-15,CUST1514,East,Dress,Clothing,9,1994,17946,Returned,Rahul Mehta
+ORD01079,2025-09-17,CUST1320,South,Beverage Set,Food,3,648,1944,Completed,Lakshmi Rao
+ORD01080,2025-11-07,CUST2019,North,Desk,Furniture,8,10277,82216,Completed,Neha Gupta
+ORD01081,2025-02-10,CUST4895,North,Spice Kit,Food,3,356,1068,Completed,Vijay Kumar
+ORD01082,2025-08-10,CUST4114,West,Organic Pack,Food,7,805,5635,Completed,Rohan Desai
+ORD01083,2025-11-01,CUST3200,West,Dumbbells,Sports,5,1990,9950,Completed,Rohan Desai
+ORD01084,2025-07-12,CUST3302,South,Tablet,Electronics,3,19416,58248,Completed,Lakshmi Rao
+ORD01085,2025-01-03,CUST1052,North,Spice Kit,Food,7,397,2779,Returned,Neha Gupta
+ORD01086,2025-07-16,CUST3005,North,Yoga Mat,Sports,7,1345,9415,Returned,Amit Sharma
+ORD01087,2025-07-17,CUST4818,West,Shoes,Clothing,5,3278,16390,Cancelled,Rohan Desai
+ORD01088,2025-09-18,CUST3904,South,Chair,Furniture,7,5658,39606,Cancelled,Lakshmi Rao
+ORD01089,2025-09-02,CUST1141,North,Smartphone,Electronics,5,23129,115645,Returned,Amit Sharma
+ORD01090,2025-05-11,CUST2013,West,Laptop,Electronics,2,58360,116720,Returned,Rohan Desai
+ORD01091,2025-12-28,CUST3400,East,Dumbbells,Sports,7,1882,13174,Completed,Ankit Joshi
+ORD01092,2025-06-04,CUST3050,South,Running Shoes,Sports,7,4352,30464,Returned,Lakshmi Rao
+ORD01093,2025-02-25,CUST3605,North,Jacket,Clothing,4,2831,11324,Completed,Neha Gupta
+ORD01094,2025-01-04,CUST1689,South,Laptop,Electronics,2,60138,120276,Completed,Suresh Babu
+ORD01095,2025-12-02,CUST2181,South,Jeans,Clothing,6,1135,6810,Completed,Suresh Babu
+ORD01096,2025-04-04,CUST3058,East,Fruit Basket,Food,4,473,1892,Completed,Rahul Mehta
+ORD01097,2025-04-09,CUST2062,South,Fruit Basket,Food,2,558,1116,Completed,Suresh Babu
+ORD01098,2025-02-13,CUST2547,East,Chair,Furniture,6,4537,27222,Completed,Priya Shah
+ORD01099,2025-12-11,CUST4115,East,Laptop,Electronics,5,59837,299185,Completed,Ankit Joshi
+ORD01100,2025-01-22,CUST1396,West,Yoga Mat,Sports,7,1260,8820,Returned,Rohan Desai
+ORD01101,2025-09-06,CUST2938,North,Cycle Helmet,Sports,6,1489,8934,Cancelled,Neha Gupta
+ORD01102,2025-05-03,CUST4854,North,Spice Kit,Food,10,320,3200,Completed,Neha Gupta
+ORD01103,2025-02-21,CUST1012,South,Snack Box,Food,1,420,420,Returned,Suresh Babu
+ORD01104,2025-12-25,CUST4077,West,Bookshelf,Furniture,10,6429,64290,Cancelled,Kavita Nair
+ORD01105,2025-07-31,CUST3704,West,Tablet,Electronics,1,19051,19051,Returned,Kavita Nair
+ORD01106,2025-06-16,CUST3776,South,Dress,Clothing,8,1800,14400,Cancelled,Lakshmi Rao
+ORD01107,2025-06-28,CUST2752,South,Headphones,Electronics,5,3681,18405,Cancelled,Divya Menon
+ORD01108,2025-10-20,CUST4214,East,Shoes,Clothing,2,2926,5852,Completed,Ankit Joshi
+ORD01109,2025-08-28,CUST1688,South,Headphones,Electronics,9,3360,30240,Completed,Divya Menon
+ORD01110,2025-12-25,CUST1366,East,Organic Pack,Food,3,905,2715,Completed,Priya Shah
+ORD01111,2025-05-24,CUST1902,North,Organic Pack,Food,3,904,2712,Completed,Neha Gupta
+ORD01112,2025-02-16,CUST4258,North,Dress,Clothing,10,1649,16490,Completed,Vijay Kumar
+ORD01113,2025-07-15,CUST3678,South,Jeans,Clothing,5,1114,5570,Completed,Lakshmi Rao
+ORD01114,2025-06-24,CUST4033,West,Smartwatch,Electronics,6,7454,44724,Completed,Rohan Desai
+ORD01115,2025-10-23,CUST4018,East,Chair,Furniture,10,5169,51690,Cancelled,Priya Shah
+ORD01116,2025-06-13,CUST4159,North,Dress,Clothing,10,1885,18850,Completed,Amit Sharma
+ORD01117,2025-10-03,CUST4491,South,Table,Furniture,5,8874,44370,Completed,Suresh Babu
+ORD01118,2025-03-17,CUST3463,North,T-Shirt,Clothing,10,490,4900,Completed,Vijay Kumar
+ORD01119,2025-03-05,CUST2120,South,Shoes,Clothing,5,3228,16140,Completed,Suresh Babu
+ORD01120,2025-03-20,CUST4391,West,T-Shirt,Clothing,3,557,1671,Cancelled,Rohan Desai
+ORD01121,2025-12-04,CUST4737,West,Smartwatch,Electronics,7,7874,55118,Cancelled,Rohan Desai
+ORD01122,2025-07-20,CUST2601,East,Running Shoes,Sports,5,4296,21480,Completed,Ankit Joshi
+ORD01123,2025-07-21,CUST1398,West,Desk,Furniture,1,10012,10012,Cancelled,Rohan Desai
+ORD01124,2025-12-02,CUST1670,West,Spice Kit,Food,5,393,1965,Completed,Kavita Nair
+ORD01125,2025-04-11,CUST4011,East,Desk,Furniture,2,9626,19252,Returned,Rahul Mehta
+ORD01126,2025-07-12,CUST4892,South,T-Shirt,Clothing,2,494,988,Completed,Lakshmi Rao
+ORD01127,2025-03-02,CUST3111,North,Cycle Helmet,Sports,3,1585,4755,Completed,Amit Sharma
+ORD01128,2025-03-02,CUST1986,South,Beverage Set,Food,10,683,6830,Cancelled,Suresh Babu
+ORD01129,2025-12-21,CUST4257,East,Spice Kit,Food,5,370,1850,Completed,Rahul Mehta
+ORD01130,2025-03-03,CUST1477,East,Headphones,Electronics,9,3346,30114,Completed,Ankit Joshi
+ORD01131,2025-09-03,CUST2121,East,Dumbbells,Sports,7,2042,14294,Completed,Priya Shah
+ORD01132,2025-06-02,CUST3340,West,Tablet,Electronics,2,19411,38822,Cancelled,Kavita Nair
+ORD01133,2025-04-05,CUST2660,East,Fruit Basket,Food,9,547,4923,Completed,Rahul Mehta
+ORD01134,2025-09-23,CUST4428,East,T-Shirt,Clothing,3,557,1671,Completed,Rahul Mehta
+ORD01135,2025-10-12,CUST2831,North,Laptop,Electronics,3,57407,172221,Completed,Amit Sharma
+ORD01136,2025-10-15,CUST2051,East,Laptop,Electronics,9,53605,482445,Returned,Rahul Mehta
+ORD01137,2025-08-05,CUST4871,East,Jacket,Clothing,1,2841,2841,Completed,Priya Shah
+ORD01138,2025-12-04,CUST3187,South,Dress,Clothing,8,1932,15456,Completed,Suresh Babu
+ORD01139,2025-11-07,CUST3204,West,Laptop,Electronics,4,50005,200020,Completed,Sneha Patel
+ORD01140,2025-03-10,CUST3466,West,Running Shoes,Sports,5,3728,18640,Completed,Sneha Patel
+ORD01141,2025-10-09,CUST2044,North,Snack Box,Food,7,405,2835,Returned,Vijay Kumar
+ORD01142,2025-08-06,CUST4851,West,Dumbbells,Sports,2,2114,4228,Completed,Kavita Nair
+ORD01143,2025-12-23,CUST3644,West,Desk,Furniture,9,9461,85149,Completed,Sneha Patel
+ORD01144,2025-06-11,CUST4226,South,Organic Pack,Food,10,769,7690,Completed,Divya Menon
+ORD01145,2025-02-26,CUST3801,South,Tablet,Electronics,2,17832,35664,Completed,Suresh Babu
+ORD01146,2025-03-16,CUST4558,West,Chair,Furniture,2,4971,9942,Returned,Rohan Desai
+ORD01147,2025-02-23,CUST4206,East,Dress,Clothing,5,1884,9420,Cancelled,Rahul Mehta
+ORD01148,2025-09-28,CUST2429,North,Running Shoes,Sports,10,3699,36990,Completed,Neha Gupta
+ORD01149,2025-07-19,CUST1740,North,Jump Rope,Sports,10,336,3360,Completed,Vijay Kumar
+ORD01150,2025-03-07,CUST2061,East,Dumbbells,Sports,3,1871,5613,Completed,Priya Shah
+ORD01151,2025-01-28,CUST4761,North,Dress,Clothing,7,1938,13566,Completed,Neha Gupta
+ORD01152,2025-08-28,CUST3057,North,Bookshelf,Furniture,9,6812,61308,Cancelled,Amit Sharma
+ORD01153,2025-06-06,CUST3603,East,Bookshelf,Furniture,6,6667,40002,Completed,Rahul Mehta
+ORD01154,2025-05-03,CUST4870,East,Dress,Clothing,1,1658,1658,Completed,Priya Shah
+ORD01155,2025-01-06,CUST4941,South,Dumbbells,Sports,8,2048,16384,Cancelled,Divya Menon
+ORD01156,2025-09-30,CUST3858,East,Organic Pack,Food,10,758,7580,Cancelled,Rahul Mehta
+ORD01157,2025-08-06,CUST3877,North,Dress,Clothing,10,1639,16390,Completed,Amit Sharma
+ORD01158,2025-12-12,CUST4810,West,T-Shirt,Clothing,6,554,3324,Completed,Sneha Patel
+ORD01159,2025-08-05,CUST3029,South,Jacket,Clothing,2,2461,4922,Cancelled,Divya Menon
+ORD01160,2025-03-02,CUST2188,North,Beverage Set,Food,5,571,2855,Completed,Vijay Kumar
+ORD01161,2025-07-21,CUST1890,North,Yoga Mat,Sports,8,1347,10776,Cancelled,Amit Sharma
+ORD01162,2025-07-02,CUST1024,South,Sofa,Furniture,6,23169,139014,Completed,Divya Menon
+ORD01163,2025-04-06,CUST2646,North,Laptop,Electronics,7,56265,393855,Completed,Vijay Kumar
+ORD01164,2025-03-20,CUST2682,East,Organic Pack,Food,3,873,2619,Completed,Priya Shah
+ORD01165,2025-07-22,CUST2533,North,Bookshelf,Furniture,3,6204,18612,Completed,Neha Gupta
+ORD01166,2025-12-03,CUST4438,South,Jeans,Clothing,6,1304,7824,Completed,Divya Menon
+ORD01167,2025-04-12,CUST1453,West,Chair,Furniture,3,4993,14979,Cancelled,Sneha Patel
+ORD01168,2025-03-24,CUST3728,West,Beverage Set,Food,2,603,1206,Completed,Kavita Nair
+ORD01169,2025-03-07,CUST2330,South,Cycle Helmet,Sports,3,1391,4173,Completed,Lakshmi Rao
+ORD01170,2025-03-06,CUST1637,North,Yoga Mat,Sports,4,1095,4380,Cancelled,Neha Gupta
+ORD01171,2025-11-02,CUST4020,East,Spice Kit,Food,5,339,1695,Completed,Priya Shah
+ORD01172,2025-05-07,CUST3529,West,Dumbbells,Sports,4,1940,7760,Completed,Rohan Desai
+ORD01173,2025-12-25,CUST2013,South,Shoes,Clothing,2,3225,6450,Completed,Lakshmi Rao
+ORD01174,2025-04-07,CUST4501,West,T-Shirt,Clothing,3,500,1500,Completed,Sneha Patel
+ORD01175,2025-03-16,CUST2746,East,Dumbbells,Sports,2,2232,4464,Completed,Ankit Joshi
+ORD01176,2025-06-06,CUST3867,West,Jacket,Clothing,7,2549,17843,Completed,Kavita Nair
+ORD01177,2025-01-27,CUST2246,East,Sofa,Furniture,5,28393,141965,Completed,Rahul Mehta
+ORD01178,2025-06-13,CUST4666,East,T-Shirt,Clothing,1,456,456,Cancelled,Rahul Mehta
+ORD01179,2025-05-27,CUST2933,North,Yoga Mat,Sports,7,1135,7945,Returned,Neha Gupta
+ORD01180,2025-06-21,CUST2246,East,Laptop,Electronics,9,60093,540837,Completed,Priya Shah
+ORD01181,2025-07-05,CUST4043,North,Jacket,Clothing,4,2615,10460,Completed,Amit Sharma
+ORD01182,2025-03-08,CUST3578,East,Smartwatch,Electronics,4,7585,30340,Completed,Rahul Mehta
+ORD01183,2025-02-08,CUST4857,North,Bookshelf,Furniture,4,6200,24800,Completed,Amit Sharma
+ORD01184,2025-04-09,CUST2712,North,Running Shoes,Sports,6,4048,24288,Completed,Neha Gupta
+ORD01185,2025-02-04,CUST2977,South,Jump Rope,Sports,1,282,282,Completed,Lakshmi Rao
+ORD01186,2025-05-29,CUST1186,East,Shoes,Clothing,8,3213,25704,Cancelled,Rahul Mehta
+ORD01187,2025-03-26,CUST2793,South,Cycle Helmet,Sports,7,1577,11039,Completed,Lakshmi Rao
+ORD01188,2025-03-23,CUST3342,West,Yoga Mat,Sports,9,1216,10944,Cancelled,Kavita Nair
+ORD01189,2025-05-13,CUST2242,West,Sofa,Furniture,9,23244,209196,Completed,Kavita Nair
+ORD01190,2025-05-02,CUST2195,East,Jacket,Clothing,3,2419,7257,Cancelled,Ankit Joshi
+ORD01191,2025-05-08,CUST4372,West,Yoga Mat,Sports,1,1274,1274,Completed,Rohan Desai
+ORD01192,2025-06-16,CUST1340,North,Shoes,Clothing,10,2921,29210,Returned,Vijay Kumar
+ORD01193,2025-01-06,CUST4374,North,Jacket,Clothing,3,2409,7227,Completed,Vijay Kumar
+ORD01194,2025-10-26,CUST1435,South,Desk,Furniture,9,8563,77067,Completed,Suresh Babu
+ORD01195,2025-05-18,CUST1835,South,Shoes,Clothing,4,3247,12988,Completed,Lakshmi Rao
+ORD01196,2025-09-03,CUST1383,South,Shoes,Clothing,3,3311,9933,Completed,Divya Menon
+ORD01197,2025-09-09,CUST4863,West,Chair,Furniture,5,4703,23515,Completed,Rohan Desai
+ORD01198,2025-12-18,CUST3489,West,Smartphone,Electronics,2,22145,44290,Completed,Kavita Nair
+ORD01199,2025-07-26,CUST1410,West,Smartwatch,Electronics,2,7955,15910,Completed,Sneha Patel
+ORD01200,2025-11-26,CUST4828,East,Jeans,Clothing,2,1160,2320,Returned,Ankit Joshi
+ORD01201,2025-01-07,CUST4245,East,Smartwatch,Electronics,6,8905,53430,Completed,Rahul Mehta
+ORD01202,2025-09-03,CUST4111,South,Jacket,Clothing,6,2549,15294,Completed,Divya Menon
+ORD01203,2025-12-21,CUST2095,East,Laptop,Electronics,2,56988,113976,Completed,Priya Shah
+ORD01204,2025-03-14,CUST1004,West,Smartphone,Electronics,7,21919,153433,Completed,Rohan Desai
+ORD01205,2025-04-26,CUST4775,South,Headphones,Electronics,3,4016,12048,Completed,Suresh Babu
+ORD01206,2025-07-02,CUST1312,North,Tablet,Electronics,2,20230,40460,Completed,Amit Sharma
+ORD01207,2025-08-08,CUST3172,North,Dumbbells,Sports,7,1875,13125,Completed,Neha Gupta
+ORD01208,2025-11-16,CUST4348,North,Chair,Furniture,5,5645,28225,Completed,Neha Gupta
+ORD01209,2025-12-31,CUST4271,East,Smartphone,Electronics,3,21561,64683,Completed,Ankit Joshi
+ORD01210,2025-09-02,CUST4336,East,Smartwatch,Electronics,7,9119,63833,Completed,Rahul Mehta
+ORD01211,2025-06-15,CUST1522,West,Beverage Set,Food,6,614,3684,Completed,Rohan Desai
+ORD01212,2025-11-05,CUST4250,North,Jeans,Clothing,7,1205,8435,Completed,Vijay Kumar
+ORD01213,2025-09-10,CUST3181,West,Organic Pack,Food,10,862,8620,Completed,Kavita Nair
+ORD01214,2025-04-23,CUST3879,East,Jacket,Clothing,1,2377,2377,Cancelled,Priya Shah
+ORD01215,2025-10-13,CUST2941,West,Laptop,Electronics,6,54461,326766,Cancelled,Sneha Patel
+ORD01216,2025-05-31,CUST2885,West,Cycle Helmet,Sports,4,1429,5716,Completed,Kavita Nair
+ORD01217,2025-03-12,CUST1480,West,Organic Pack,Food,7,794,5558,Cancelled,Kavita Nair
+ORD01218,2025-10-25,CUST1302,South,Dumbbells,Sports,1,1873,1873,Completed,Lakshmi Rao
+ORD01219,2025-02-09,CUST1051,South,Jeans,Clothing,8,1303,10424,Cancelled,Divya Menon
+ORD01220,2025-06-03,CUST2925,South,Bookshelf,Furniture,1,5830,5830,Completed,Divya Menon
+ORD01221,2025-01-17,CUST3474,West,Dumbbells,Sports,1,1998,1998,Completed,Rohan Desai
+ORD01222,2025-10-11,CUST3913,North,Jump Rope,Sports,5,323,1615,Completed,Amit Sharma
+ORD01223,2025-05-20,CUST4985,East,Cycle Helmet,Sports,3,1628,4884,Completed,Rahul Mehta
+ORD01224,2025-04-23,CUST2606,West,Jump Rope,Sports,2,331,662,Completed,Rohan Desai
+ORD01225,2025-12-01,CUST3629,South,Snack Box,Food,1,440,440,Cancelled,Lakshmi Rao
+ORD01226,2025-05-19,CUST1444,East,Tablet,Electronics,10,19704,197040,Completed,Rahul Mehta
+ORD01227,2025-05-25,CUST1666,East,Smartphone,Electronics,10,19860,198600,Returned,Rahul Mehta
+ORD01228,2025-10-10,CUST1826,East,Jacket,Clothing,2,2860,5720,Completed,Ankit Joshi
+ORD01229,2025-09-05,CUST1187,East,Chair,Furniture,5,4510,22550,Completed,Priya Shah
+ORD01230,2025-07-23,CUST3048,West,Bookshelf,Furniture,6,6860,41160,Cancelled,Sneha Patel
+ORD01231,2025-06-19,CUST2668,East,Dumbbells,Sports,1,2093,2093,Completed,Ankit Joshi
+ORD01232,2025-01-20,CUST2188,West,Shoes,Clothing,2,3363,6726,Completed,Kavita Nair
+ORD01233,2025-04-29,CUST4622,West,Jeans,Clothing,9,1234,11106,Cancelled,Kavita Nair
+ORD01234,2025-09-25,CUST4810,North,Snack Box,Food,6,389,2334,Completed,Neha Gupta
+ORD01235,2025-01-21,CUST4648,South,Jeans,Clothing,10,1262,12620,Returned,Divya Menon
+ORD01236,2025-11-18,CUST3037,East,Smartphone,Electronics,5,22809,114045,Returned,Rahul Mehta
+ORD01237,2025-09-13,CUST1385,South,Table,Furniture,5,7522,37610,Completed,Suresh Babu
+ORD01238,2025-06-30,CUST1365,East,Shoes,Clothing,5,3439,17195,Returned,Priya Shah
+ORD01239,2025-11-29,CUST4785,West,Smartwatch,Electronics,8,7279,58232,Cancelled,Rohan Desai
+ORD01240,2025-07-29,CUST4510,West,Beverage Set,Food,9,666,5994,Returned,Rohan Desai
+ORD01241,2025-02-12,CUST3794,South,Cycle Helmet,Sports,5,1679,8395,Returned,Lakshmi Rao
+ORD01242,2025-11-14,CUST3637,East,Dress,Clothing,1,1689,1689,Completed,Priya Shah
+ORD01243,2025-03-23,CUST3335,South,Smartphone,Electronics,7,24607,172249,Cancelled,Suresh Babu
+ORD01244,2025-08-27,CUST2918,South,Laptop,Electronics,3,59561,178683,Returned,Suresh Babu
+ORD01245,2025-08-10,CUST1817,South,Chair,Furniture,6,4928,29568,Cancelled,Lakshmi Rao
+ORD01246,2025-12-26,CUST4036,South,Tablet,Electronics,8,16372,130976,Completed,Suresh Babu
+ORD01247,2025-03-16,CUST3622,West,Desk,Furniture,1,10322,10322,Cancelled,Sneha Patel
+ORD01248,2025-07-05,CUST4234,South,Snack Box,Food,1,381,381,Completed,Divya Menon
+ORD01249,2025-08-05,CUST2105,North,T-Shirt,Clothing,3,458,1374,Completed,Neha Gupta
+ORD01250,2025-12-31,CUST2849,South,Dumbbells,Sports,5,1892,9460,Completed,Suresh Babu
+ORD01251,2025-06-25,CUST4945,North,Jeans,Clothing,6,1362,8172,Completed,Vijay Kumar
+ORD01252,2025-12-19,CUST4210,West,Beverage Set,Food,10,598,5980,Completed,Kavita Nair
+ORD01253,2025-04-12,CUST1318,West,Sofa,Furniture,1,23440,23440,Completed,Sneha Patel
+ORD01254,2025-09-13,CUST4540,North,Headphones,Electronics,5,3605,18025,Completed,Neha Gupta
+ORD01255,2025-03-06,CUST3598,South,Yoga Mat,Sports,1,1145,1145,Returned,Suresh Babu
+ORD01256,2025-12-23,CUST3236,West,Cycle Helmet,Sports,4,1480,5920,Returned,Kavita Nair
+ORD01257,2025-10-23,CUST4912,East,Sofa,Furniture,1,24387,24387,Completed,Rahul Mehta
+ORD01258,2025-12-25,CUST3044,South,Spice Kit,Food,6,345,2070,Completed,Divya Menon
+ORD01259,2025-06-21,CUST1464,West,Spice Kit,Food,6,330,1980,Completed,Kavita Nair
+ORD01260,2025-08-12,CUST2562,North,Beverage Set,Food,10,680,6800,Cancelled,Amit Sharma
+ORD01261,2025-02-14,CUST4301,East,Laptop,Electronics,10,62321,623210,Completed,Ankit Joshi
+ORD01262,2025-11-16,CUST4797,East,Fruit Basket,Food,10,550,5500,Completed,Priya Shah
+ORD01263,2025-04-19,CUST1912,South,Cycle Helmet,Sports,2,1423,2846,Completed,Lakshmi Rao
+ORD01264,2025-06-29,CUST4963,South,Spice Kit,Food,1,397,397,Cancelled,Divya Menon
+ORD01265,2025-05-26,CUST2096,North,Bookshelf,Furniture,4,5406,21624,Cancelled,Amit Sharma
+ORD01266,2025-01-08,CUST1107,West,Desk,Furniture,10,8814,88140,Completed,Kavita Nair
+ORD01267,2025-08-09,CUST1990,South,Dress,Clothing,7,1992,13944,Cancelled,Divya Menon
+ORD01268,2025-08-08,CUST1527,South,Shoes,Clothing,6,3087,18522,Completed,Lakshmi Rao
+ORD01269,2025-12-30,CUST4281,West,Yoga Mat,Sports,10,1315,13150,Cancelled,Kavita Nair
+ORD01270,2025-05-14,CUST4429,West,Table,Furniture,2,7386,14772,Completed,Kavita Nair
+ORD01271,2025-10-31,CUST1626,East,Jump Rope,Sports,2,312,624,Completed,Ankit Joshi
+ORD01272,2025-03-08,CUST2858,North,Jeans,Clothing,4,1169,4676,Completed,Amit Sharma
+ORD01273,2025-07-13,CUST4155,North,Tablet,Electronics,2,20407,40814,Completed,Vijay Kumar
+ORD01274,2025-10-24,CUST4550,East,Headphones,Electronics,10,3257,32570,Completed,Priya Shah
+ORD01275,2025-04-03,CUST1380,East,Beverage Set,Food,4,598,2392,Completed,Rahul Mehta
+ORD01276,2025-07-31,CUST1301,South,Smartphone,Electronics,7,21863,153041,Completed,Suresh Babu
+ORD01277,2025-03-24,CUST1736,North,Smartphone,Electronics,10,23271,232710,Cancelled,Amit Sharma
+ORD01278,2025-06-25,CUST2420,South,Jump Rope,Sports,9,270,2430,Completed,Suresh Babu
+ORD01279,2025-03-04,CUST1789,East,Yoga Mat,Sports,9,1233,11097,Completed,Priya Shah
+ORD01280,2025-02-28,CUST4680,West,Tablet,Electronics,3,17188,51564,Cancelled,Sneha Patel
+ORD01281,2025-05-18,CUST2120,South,T-Shirt,Clothing,6,538,3228,Cancelled,Suresh Babu
+ORD01282,2025-09-11,CUST2786,South,Jacket,Clothing,3,2373,7119,Cancelled,Divya Menon
+ORD01283,2025-05-24,CUST4939,South,Smartwatch,Electronics,10,7823,78230,Cancelled,Divya Menon
+ORD01284,2025-09-07,CUST2775,South,Fruit Basket,Food,5,551,2755,Cancelled,Divya Menon
+ORD01285,2025-07-16,CUST2758,West,Running Shoes,Sports,6,4497,26982,Cancelled,Rohan Desai
+ORD01286,2025-03-27,CUST4643,East,Running Shoes,Sports,10,4009,40090,Completed,Ankit Joshi
+ORD01287,2025-09-29,CUST2442,South,Laptop,Electronics,3,60624,181872,Completed,Lakshmi Rao
+ORD01288,2025-07-03,CUST2004,East,Jacket,Clothing,6,2340,14040,Completed,Rahul Mehta
+ORD01289,2025-06-13,CUST3819,East,Table,Furniture,8,8334,66672,Completed,Rahul Mehta
+ORD01290,2025-10-15,CUST1271,South,Desk,Furniture,4,9286,37144,Completed,Suresh Babu
+ORD01291,2025-11-08,CUST4875,East,Cycle Helmet,Sports,7,1469,10283,Completed,Rahul Mehta
+ORD01292,2025-01-26,CUST4287,South,Organic Pack,Food,5,804,4020,Completed,Lakshmi Rao
+ORD01293,2025-11-04,CUST2338,South,Dress,Clothing,1,1748,1748,Cancelled,Divya Menon
+ORD01294,2025-01-03,CUST4734,South,Table,Furniture,7,7274,50918,Completed,Divya Menon
+ORD01295,2025-01-21,CUST2381,East,Headphones,Electronics,2,3876,7752,Completed,Priya Shah
+ORD01296,2025-05-21,CUST2299,North,Organic Pack,Food,9,874,7866,Completed,Amit Sharma
+ORD01297,2025-07-21,CUST2222,South,Organic Pack,Food,6,907,5442,Completed,Lakshmi Rao
+ORD01298,2025-01-25,CUST4381,East,T-Shirt,Clothing,6,557,3342,Cancelled,Rahul Mehta
+ORD01299,2025-03-29,CUST1360,West,Desk,Furniture,1,10201,10201,Cancelled,Rohan Desai
+ORD01300,2025-01-23,CUST1453,East,Chair,Furniture,5,4911,24555,Completed,Priya Shah
+ORD01301,2025-05-19,CUST3861,West,Dress,Clothing,8,1673,13384,Completed,Sneha Patel
+ORD01302,2025-10-27,CUST4636,South,Organic Pack,Food,9,825,7425,Completed,Divya Menon
+ORD01303,2025-09-08,CUST4999,North,Bookshelf,Furniture,4,5537,22148,Completed,Vijay Kumar
+ORD01304,2025-02-12,CUST2445,West,T-Shirt,Clothing,2,571,1142,Completed,Sneha Patel
+ORD01305,2025-12-10,CUST1885,South,Snack Box,Food,8,370,2960,Completed,Divya Menon
+ORD01306,2025-09-28,CUST3105,North,Bookshelf,Furniture,3,6671,20013,Completed,Amit Sharma
+ORD01307,2025-04-23,CUST4754,North,Spice Kit,Food,10,359,3590,Cancelled,Amit Sharma
+ORD01308,2025-02-05,CUST2138,South,Jacket,Clothing,10,2655,26550,Completed,Lakshmi Rao
+ORD01309,2025-02-26,CUST1985,East,Snack Box,Food,5,362,1810,Completed,Priya Shah
+ORD01310,2025-06-30,CUST2087,East,Yoga Mat,Sports,6,1209,7254,Completed,Ankit Joshi
+ORD01311,2025-08-09,CUST3080,North,Headphones,Electronics,5,3473,17365,Completed,Neha Gupta
+ORD01312,2025-08-05,CUST1794,North,Shoes,Clothing,3,3145,9435,Completed,Neha Gupta
+ORD01313,2025-09-23,CUST2775,East,Smartphone,Electronics,2,21007,42014,Completed,Rahul Mehta
+ORD01314,2025-10-22,CUST2090,West,Smartwatch,Electronics,2,7750,15500,Returned,Kavita Nair
+ORD01315,2025-07-27,CUST2605,South,Smartphone,Electronics,5,22523,112615,Completed,Lakshmi Rao
+ORD01316,2025-06-27,CUST3608,North,Running Shoes,Sports,1,3694,3694,Completed,Vijay Kumar
+ORD01317,2025-11-15,CUST2952,North,Jeans,Clothing,6,1284,7704,Completed,Neha Gupta
+ORD01318,2025-08-22,CUST1580,East,Spice Kit,Food,6,316,1896,Returned,Rahul Mehta
+ORD01319,2025-03-29,CUST3782,East,Running Shoes,Sports,8,4183,33464,Completed,Rahul Mehta
+ORD01320,2025-08-30,CUST1448,East,Smartwatch,Electronics,5,8870,44350,Completed,Rahul Mehta
+ORD01321,2025-03-17,CUST4175,East,Tablet,Electronics,6,18236,109416,Cancelled,Ankit Joshi
+ORD01322,2025-05-12,CUST3717,South,Sofa,Furniture,8,22584,180672,Completed,Divya Menon
+ORD01323,2025-06-20,CUST4651,South,Tablet,Electronics,9,19476,175284,Completed,Suresh Babu
+ORD01324,2025-04-23,CUST3700,West,Bookshelf,Furniture,1,5766,5766,Cancelled,Rohan Desai
+ORD01325,2025-07-04,CUST1845,East,Shoes,Clothing,2,3424,6848,Cancelled,Ankit Joshi
+ORD01326,2025-10-06,CUST4683,South,Dumbbells,Sports,5,2255,11275,Completed,Suresh Babu
+ORD01327,2025-07-20,CUST3413,South,Sofa,Furniture,4,22756,91024,Completed,Suresh Babu
+ORD01328,2025-11-10,CUST1503,South,Fruit Basket,Food,6,486,2916,Returned,Suresh Babu
+ORD01329,2025-12-17,CUST1602,South,Dress,Clothing,5,1900,9500,Cancelled,Suresh Babu
+ORD01330,2025-09-07,CUST2180,East,Chair,Furniture,8,4551,36408,Completed,Ankit Joshi
+ORD01331,2025-03-05,CUST1217,South,Chair,Furniture,7,4940,34580,Cancelled,Lakshmi Rao
+ORD01332,2025-05-09,CUST1564,North,Desk,Furniture,9,8448,76032,Completed,Neha Gupta
+ORD01333,2025-03-15,CUST4002,West,Fruit Basket,Food,2,486,972,Completed,Rohan Desai
+ORD01334,2025-05-08,CUST4324,South,Spice Kit,Food,2,393,786,Returned,Divya Menon
+ORD01335,2025-06-09,CUST1709,South,Desk,Furniture,3,9637,28911,Completed,Lakshmi Rao
+ORD01336,2025-08-02,CUST3270,West,Sofa,Furniture,2,24358,48716,Returned,Rohan Desai
+ORD01337,2025-10-07,CUST1751,South,Organic Pack,Food,3,825,2475,Cancelled,Divya Menon
+ORD01338,2025-12-17,CUST3918,North,Beverage Set,Food,7,609,4263,Returned,Neha Gupta
+ORD01339,2025-01-15,CUST4737,East,Organic Pack,Food,3,843,2529,Completed,Rahul Mehta
+ORD01340,2025-10-25,CUST3097,North,Dress,Clothing,9,2024,18216,Cancelled,Amit Sharma
+ORD01341,2025-07-21,CUST1515,South,Headphones,Electronics,9,3552,31968,Completed,Lakshmi Rao
+ORD01342,2025-05-19,CUST4399,East,Desk,Furniture,2,9949,19898,Completed,Ankit Joshi
+ORD01343,2025-06-19,CUST4540,East,Smartwatch,Electronics,9,8678,78102,Completed,Rahul Mehta
+ORD01344,2025-09-22,CUST1590,South,Jeans,Clothing,3,1170,3510,Completed,Lakshmi Rao
+ORD01345,2025-09-06,CUST3554,West,Laptop,Electronics,1,51604,51604,Returned,Kavita Nair
+ORD01346,2025-02-19,CUST2012,West,Headphones,Electronics,1,3878,3878,Completed,Sneha Patel
+ORD01347,2025-03-04,CUST2228,South,Snack Box,Food,4,444,1776,Completed,Divya Menon
+ORD01348,2025-12-15,CUST2798,East,Snack Box,Food,1,378,378,Cancelled,Ankit Joshi
+ORD01349,2025-05-04,CUST1699,West,Spice Kit,Food,5,340,1700,Completed,Kavita Nair
+ORD01350,2025-09-10,CUST2504,North,Spice Kit,Food,2,355,710,Cancelled,Amit Sharma
+ORD01351,2025-01-15,CUST2160,South,Smartwatch,Electronics,7,7222,50554,Completed,Divya Menon
+ORD01352,2025-11-30,CUST4658,South,Tablet,Electronics,3,18305,54915,Cancelled,Suresh Babu
+ORD01353,2025-01-05,CUST1648,North,Jump Rope,Sports,4,296,1184,Completed,Neha Gupta
+ORD01354,2025-09-20,CUST1257,West,Jacket,Clothing,10,2462,24620,Cancelled,Sneha Patel
+ORD01355,2025-05-23,CUST4215,North,Organic Pack,Food,8,795,6360,Completed,Vijay Kumar
+ORD01356,2025-04-03,CUST3359,North,Jacket,Clothing,10,2846,28460,Completed,Vijay Kumar
+ORD01357,2025-07-26,CUST1276,East,Smartphone,Electronics,4,20330,81320,Completed,Ankit Joshi
+ORD01358,2025-09-01,CUST2325,West,T-Shirt,Clothing,3,541,1623,Completed,Rohan Desai
+ORD01359,2025-02-02,CUST1253,North,Laptop,Electronics,2,55571,111142,Completed,Vijay Kumar
+ORD01360,2025-01-16,CUST4782,West,Chair,Furniture,8,4972,39776,Returned,Kavita Nair
+ORD01361,2025-10-12,CUST1818,West,Bookshelf,Furniture,8,6418,51344,Completed,Kavita Nair
+ORD01362,2025-03-24,CUST2777,West,Smartwatch,Electronics,1,8458,8458,Cancelled,Sneha Patel
+ORD01363,2025-01-18,CUST4317,West,Tablet,Electronics,7,18757,131299,Cancelled,Rohan Desai
+ORD01364,2025-04-05,CUST3794,South,Jeans,Clothing,10,1328,13280,Completed,Suresh Babu
+ORD01365,2025-11-13,CUST4685,West,Headphones,Electronics,7,3697,25879,Returned,Kavita Nair
+ORD01366,2025-02-10,CUST1520,North,Laptop,Electronics,8,52670,421360,Completed,Neha Gupta
+ORD01367,2025-01-12,CUST1917,North,Bookshelf,Furniture,6,5501,33006,Cancelled,Neha Gupta
+ORD01368,2025-02-08,CUST3188,West,Jump Rope,Sports,9,293,2637,Completed,Kavita Nair
+ORD01369,2025-12-24,CUST4652,East,Cycle Helmet,Sports,5,1594,7970,Completed,Priya Shah
+ORD01370,2025-05-14,CUST1821,North,Smartphone,Electronics,4,22808,91232,Completed,Vijay Kumar
+ORD01371,2025-02-01,CUST1965,South,Smartwatch,Electronics,10,8606,86060,Cancelled,Lakshmi Rao
+ORD01372,2025-06-27,CUST1289,South,Jump Rope,Sports,2,336,672,Completed,Lakshmi Rao
+ORD01373,2025-05-19,CUST3962,East,Laptop,Electronics,8,56479,451832,Completed,Priya Shah
+ORD01374,2025-09-02,CUST2242,West,Laptop,Electronics,1,60137,60137,Cancelled,Kavita Nair
+ORD01375,2025-11-08,CUST4523,South,Smartwatch,Electronics,8,7304,58432,Cancelled,Divya Menon
+ORD01376,2025-03-06,CUST2760,South,Dumbbells,Sports,2,2018,4036,Returned,Suresh Babu
+ORD01377,2025-06-30,CUST1793,North,Organic Pack,Food,4,766,3064,Completed,Amit Sharma
+ORD01378,2025-07-31,CUST4061,East,Smartphone,Electronics,1,20221,20221,Completed,Rahul Mehta
+ORD01379,2025-05-25,CUST1179,North,Desk,Furniture,4,10345,41380,Completed,Neha Gupta
+ORD01380,2025-09-03,CUST3693,East,Laptop,Electronics,5,62402,312010,Completed,Ankit Joshi
+ORD01381,2025-07-02,CUST4676,West,Beverage Set,Food,6,657,3942,Completed,Kavita Nair
+ORD01382,2025-05-06,CUST3157,North,Desk,Furniture,9,8334,75006,Completed,Neha Gupta
+ORD01383,2025-12-28,CUST4893,South,Chair,Furniture,4,5640,22560,Cancelled,Divya Menon
+ORD01384,2025-04-29,CUST2249,West,Tablet,Electronics,3,16361,49083,Completed,Rohan Desai
+ORD01385,2025-11-29,CUST4130,South,Laptop,Electronics,8,60999,487992,Completed,Divya Menon
+ORD01386,2025-07-16,CUST2230,East,Tablet,Electronics,10,17927,179270,Completed,Priya Shah
+ORD01387,2025-07-16,CUST2818,East,Jeans,Clothing,7,1135,7945,Completed,Rahul Mehta
+ORD01388,2025-12-05,CUST2249,East,Running Shoes,Sports,1,4510,4510,Cancelled,Priya Shah
+ORD01389,2025-05-15,CUST4318,West,Tablet,Electronics,10,18153,181530,Completed,Kavita Nair
+ORD01390,2025-01-30,CUST4307,East,Cycle Helmet,Sports,5,1671,8355,Returned,Priya Shah
+ORD01391,2025-08-06,CUST3345,North,Shoes,Clothing,8,3259,26072,Returned,Amit Sharma
+ORD01392,2025-01-08,CUST2149,North,Smartphone,Electronics,9,21427,192843,Completed,Amit Sharma
+ORD01393,2025-11-12,CUST2123,North,Sofa,Furniture,10,22577,225770,Completed,Vijay Kumar
+ORD01394,2025-06-14,CUST4424,North,Shoes,Clothing,8,2712,21696,Completed,Amit Sharma
+ORD01395,2025-07-03,CUST2966,West,Organic Pack,Food,10,907,9070,Completed,Kavita Nair
+ORD01396,2025-10-10,CUST2286,East,Snack Box,Food,5,436,2180,Completed,Priya Shah
+ORD01397,2025-03-07,CUST1931,West,Dress,Clothing,1,1724,1724,Cancelled,Sneha Patel
+ORD01398,2025-12-17,CUST3075,South,Running Shoes,Sports,1,4153,4153,Completed,Divya Menon
+ORD01399,2025-05-13,CUST4994,North,Tablet,Electronics,9,19432,174888,Completed,Neha Gupta
+ORD01400,2025-02-25,CUST1317,South,Smartwatch,Electronics,2,7673,15346,Completed,Suresh Babu
+ORD01401,2025-12-15,CUST2703,East,Beverage Set,Food,3,543,1629,Completed,Priya Shah
+ORD01402,2025-06-21,CUST4994,South,Bookshelf,Furniture,5,6332,31660,Completed,Lakshmi Rao
+ORD01403,2025-05-29,CUST4810,West,Yoga Mat,Sports,2,1262,2524,Cancelled,Kavita Nair
+ORD01404,2025-09-18,CUST4209,North,Shoes,Clothing,10,2724,27240,Completed,Neha Gupta
+ORD01405,2025-11-29,CUST1321,East,Dress,Clothing,9,2069,18621,Completed,Ankit Joshi
+ORD01406,2025-08-03,CUST3207,East,Yoga Mat,Sports,10,1221,12210,Completed,Priya Shah
+ORD01407,2025-06-12,CUST2102,West,Running Shoes,Sports,4,3928,15712,Cancelled,Rohan Desai
+ORD01408,2025-04-29,CUST2867,North,Smartphone,Electronics,8,23830,190640,Cancelled,Neha Gupta
+ORD01409,2025-02-10,CUST2441,East,Bookshelf,Furniture,10,5745,57450,Cancelled,Rahul Mehta
+ORD01410,2025-10-19,CUST4390,West,Dumbbells,Sports,7,2137,14959,Cancelled,Kavita Nair
+ORD01411,2025-05-14,CUST4259,North,Sofa,Furniture,2,23009,46018,Completed,Amit Sharma
+ORD01412,2025-10-22,CUST3024,West,Shoes,Clothing,1,2825,2825,Completed,Kavita Nair
+ORD01413,2025-12-31,CUST4809,South,Smartphone,Electronics,1,24386,24386,Completed,Lakshmi Rao
+ORD01414,2025-02-07,CUST1542,South,Beverage Set,Food,3,600,1800,Completed,Divya Menon
+ORD01415,2025-05-31,CUST1487,North,Desk,Furniture,10,9487,94870,Returned,Amit Sharma
+ORD01416,2025-02-07,CUST4025,North,Spice Kit,Food,8,379,3032,Completed,Neha Gupta
+ORD01417,2025-12-25,CUST1551,West,Jump Rope,Sports,2,281,562,Completed,Kavita Nair
+ORD01418,2025-07-09,CUST3760,South,Beverage Set,Food,8,566,4528,Cancelled,Suresh Babu
+ORD01419,2025-02-19,CUST1951,North,Beverage Set,Food,1,624,624,Cancelled,Vijay Kumar
+ORD01420,2025-09-18,CUST4457,South,Sofa,Furniture,7,24491,171437,Completed,Lakshmi Rao
+ORD01421,2025-01-22,CUST4334,West,Fruit Basket,Food,5,521,2605,Completed,Sneha Patel
+ORD01422,2025-06-27,CUST2166,West,Tablet,Electronics,5,18389,91945,Completed,Sneha Patel
+ORD01423,2025-05-28,CUST4846,North,Yoga Mat,Sports,4,1279,5116,Completed,Amit Sharma
+ORD01424,2025-10-10,CUST4435,West,Smartwatch,Electronics,1,9119,9119,Completed,Sneha Patel
+ORD01425,2025-01-04,CUST3000,East,Table,Furniture,5,9083,45415,Completed,Ankit Joshi
+ORD01426,2025-08-16,CUST3133,West,Beverage Set,Food,2,647,1294,Returned,Sneha Patel
+ORD01427,2025-08-16,CUST4640,South,Beverage Set,Food,2,669,1338,Returned,Divya Menon
+ORD01428,2025-12-09,CUST1477,North,Smartphone,Electronics,2,21599,43198,Completed,Neha Gupta
+ORD01429,2025-08-21,CUST3583,East,Chair,Furniture,7,4625,32375,Completed,Ankit Joshi
+ORD01430,2025-06-12,CUST1779,East,Smartphone,Electronics,3,23024,69072,Cancelled,Rahul Mehta
+ORD01431,2025-12-11,CUST1801,North,Snack Box,Food,8,441,3528,Completed,Neha Gupta
+ORD01432,2025-03-09,CUST1813,East,Dumbbells,Sports,1,2017,2017,Completed,Ankit Joshi
+ORD01433,2025-04-17,CUST3908,West,Headphones,Electronics,5,3686,18430,Completed,Sneha Patel
+ORD01434,2025-11-23,CUST2428,South,Dumbbells,Sports,5,2220,11100,Returned,Divya Menon
+ORD01435,2025-09-06,CUST3007,South,Running Shoes,Sports,9,4080,36720,Completed,Lakshmi Rao
+ORD01436,2025-05-28,CUST2718,South,Table,Furniture,7,7431,52017,Completed,Suresh Babu
+ORD01437,2025-12-05,CUST1465,North,Snack Box,Food,8,444,3552,Cancelled,Vijay Kumar
+ORD01438,2025-07-30,CUST3814,West,Tablet,Electronics,5,18483,92415,Returned,Rohan Desai
+ORD01439,2025-02-01,CUST3303,North,Sofa,Furniture,7,24946,174622,Completed,Neha Gupta
+ORD01440,2025-05-14,CUST4737,East,Bookshelf,Furniture,4,5909,23636,Cancelled,Priya Shah
+ORD01441,2025-08-18,CUST2678,West,Dumbbells,Sports,9,1903,17127,Completed,Kavita Nair
+ORD01442,2025-11-09,CUST2350,West,Jump Rope,Sports,1,341,341,Completed,Rohan Desai
+ORD01443,2025-02-16,CUST4196,North,Desk,Furniture,2,9573,19146,Completed,Neha Gupta
+ORD01444,2025-10-02,CUST1812,West,Cycle Helmet,Sports,4,1458,5832,Completed,Rohan Desai
+ORD01445,2025-06-19,CUST2693,West,Dumbbells,Sports,1,1818,1818,Completed,Kavita Nair
+ORD01446,2025-02-22,CUST3054,South,Organic Pack,Food,3,776,2328,Completed,Divya Menon
+ORD01447,2025-12-19,CUST2012,East,Chair,Furniture,7,5319,37233,Completed,Ankit Joshi
+ORD01448,2025-05-19,CUST4530,East,Laptop,Electronics,9,59429,534861,Cancelled,Priya Shah
+ORD01449,2025-01-11,CUST1060,West,Smartwatch,Electronics,7,7588,53116,Completed,Rohan Desai
+ORD01450,2025-06-15,CUST2741,East,Sofa,Furniture,8,23766,190128,Completed,Ankit Joshi
+ORD01451,2025-10-23,CUST2930,South,Bookshelf,Furniture,2,5733,11466,Completed,Suresh Babu
+ORD01452,2025-09-05,CUST2164,West,Organic Pack,Food,8,865,6920,Returned,Kavita Nair
+ORD01453,2025-02-25,CUST2852,West,Yoga Mat,Sports,7,1311,9177,Completed,Rohan Desai
+ORD01454,2025-10-16,CUST1446,North,Table,Furniture,2,7390,14780,Completed,Neha Gupta
+ORD01455,2025-10-31,CUST2023,East,Shoes,Clothing,10,3328,33280,Completed,Ankit Joshi
+ORD01456,2025-04-30,CUST1241,South,Bookshelf,Furniture,5,6510,32550,Cancelled,Lakshmi Rao
+ORD01457,2025-06-14,CUST3822,South,Tablet,Electronics,4,19597,78388,Cancelled,Divya Menon
+ORD01458,2025-09-13,CUST2282,West,Bookshelf,Furniture,8,6171,49368,Cancelled,Kavita Nair
+ORD01459,2025-02-11,CUST4773,East,Organic Pack,Food,7,745,5215,Completed,Ankit Joshi
+ORD01460,2025-03-04,CUST1680,West,Organic Pack,Food,1,897,897,Completed,Kavita Nair
+ORD01461,2025-09-26,CUST2995,West,Cycle Helmet,Sports,7,1353,9471,Completed,Rohan Desai
+ORD01462,2025-12-13,CUST2110,North,Running Shoes,Sports,10,4250,42500,Completed,Vijay Kumar
+ORD01463,2025-12-17,CUST1837,North,Jump Rope,Sports,5,305,1525,Completed,Neha Gupta
+ORD01464,2025-03-11,CUST1672,South,Tablet,Electronics,7,17006,119042,Completed,Lakshmi Rao
+ORD01465,2025-06-09,CUST3873,West,T-Shirt,Clothing,9,507,4563,Completed,Kavita Nair
+ORD01466,2025-08-28,CUST3434,West,Tablet,Electronics,9,20175,181575,Completed,Sneha Patel
+ORD01467,2025-04-09,CUST2124,North,Fruit Basket,Food,5,495,2475,Completed,Neha Gupta
+ORD01468,2025-10-15,CUST3216,West,Smartwatch,Electronics,3,7405,22215,Completed,Sneha Patel
+ORD01469,2025-05-15,CUST3308,East,Dress,Clothing,10,1910,19100,Completed,Ankit Joshi
+ORD01470,2025-10-31,CUST3477,North,Cycle Helmet,Sports,4,1413,5652,Cancelled,Amit Sharma
+ORD01471,2025-02-16,CUST4807,West,Jeans,Clothing,8,1342,10736,Completed,Sneha Patel
+ORD01472,2025-03-12,CUST3095,South,Spice Kit,Food,6,341,2046,Cancelled,Lakshmi Rao
+ORD01473,2025-10-14,CUST2610,South,Spice Kit,Food,6,342,2052,Completed,Divya Menon
+ORD01474,2025-02-10,CUST4617,West,Jacket,Clothing,3,2774,8322,Completed,Rohan Desai
+ORD01475,2025-12-22,CUST4231,North,Smartwatch,Electronics,7,8504,59528,Completed,Neha Gupta
+ORD01476,2025-08-27,CUST4156,North,Snack Box,Food,10,415,4150,Returned,Amit Sharma
+ORD01477,2025-07-15,CUST2532,West,Smartphone,Electronics,8,21785,174280,Completed,Kavita Nair
+ORD01478,2025-06-08,CUST2345,East,Sofa,Furniture,9,28259,254331,Completed,Rahul Mehta
+ORD01479,2025-11-28,CUST2126,South,Organic Pack,Food,5,774,3870,Completed,Divya Menon
+ORD01480,2025-01-16,CUST4535,South,Cycle Helmet,Sports,8,1415,11320,Cancelled,Divya Menon
+ORD01481,2025-10-07,CUST4307,East,Tablet,Electronics,1,18958,18958,Completed,Ankit Joshi
+ORD01482,2025-04-01,CUST4567,West,Headphones,Electronics,2,3199,6398,Completed,Sneha Patel
+ORD01483,2025-06-10,CUST1399,North,Dress,Clothing,1,1769,1769,Completed,Neha Gupta
+ORD01484,2025-12-30,CUST1693,North,Yoga Mat,Sports,7,1204,8428,Completed,Amit Sharma
+ORD01485,2025-02-03,CUST1790,West,Chair,Furniture,3,5054,15162,Completed,Sneha Patel
+ORD01486,2025-12-19,CUST3070,South,T-Shirt,Clothing,5,484,2420,Completed,Suresh Babu
+ORD01487,2025-08-27,CUST3327,East,Cycle Helmet,Sports,2,1393,2786,Completed,Ankit Joshi
+ORD01488,2025-02-14,CUST1760,North,Yoga Mat,Sports,3,1316,3948,Completed,Neha Gupta
+ORD01489,2025-08-24,CUST1332,West,Table,Furniture,3,7820,23460,Completed,Rohan Desai
+ORD01490,2025-04-02,CUST2142,West,Running Shoes,Sports,7,3825,26775,Completed,Sneha Patel
+ORD01491,2025-04-01,CUST2208,North,Beverage Set,Food,2,613,1226,Completed,Neha Gupta
+ORD01492,2025-11-25,CUST3142,South,T-Shirt,Clothing,10,498,4980,Completed,Lakshmi Rao
+ORD01493,2025-12-26,CUST2777,North,Table,Furniture,6,8599,51594,Completed,Vijay Kumar
+ORD01494,2025-05-18,CUST1371,West,Table,Furniture,8,7721,61768,Returned,Kavita Nair
+ORD01495,2025-12-04,CUST3585,West,Snack Box,Food,8,418,3344,Completed,Rohan Desai
+ORD01496,2025-12-04,CUST3410,East,Chair,Furniture,6,5586,33516,Completed,Priya Shah
+ORD01497,2025-09-01,CUST2370,North,Smartphone,Electronics,6,21484,128904,Completed,Amit Sharma
+ORD01498,2025-01-12,CUST2798,South,Jump Rope,Sports,7,324,2268,Completed,Lakshmi Rao
+ORD01499,2025-05-10,CUST3962,North,Running Shoes,Sports,8,4278,34224,Completed,Amit Sharma
+ORD01500,2025-09-17,CUST1441,South,Beverage Set,Food,10,600,6000,Completed,Divya Menon
+ORD01501,2025-03-27,CUST4777,North,Jump Rope,Sports,4,341,1364,Completed,Amit Sharma
+ORD01502,2025-03-08,CUST3717,North,Laptop,Electronics,5,60401,302005,Completed,Neha Gupta
+ORD01503,2025-08-23,CUST2621,West,Organic Pack,Food,3,760,2280,Completed,Rohan Desai
+ORD01504,2025-02-11,CUST1756,West,Shoes,Clothing,2,3243,6486,Completed,Kavita Nair
+ORD01505,2025-07-11,CUST1020,South,Jacket,Clothing,2,2544,5088,Cancelled,Divya Menon
+ORD01506,2025-04-19,CUST4738,South,Spice Kit,Food,4,381,1524,Completed,Lakshmi Rao
+ORD01507,2025-06-12,CUST4125,West,Beverage Set,Food,5,662,3310,Cancelled,Rohan Desai
+ORD01508,2025-11-02,CUST2613,East,Bookshelf,Furniture,10,5440,54400,Cancelled,Rahul Mehta
+ORD01509,2025-05-01,CUST2511,North,Desk,Furniture,1,9473,9473,Completed,Amit Sharma
+ORD01510,2025-11-27,CUST1942,West,Snack Box,Food,1,381,381,Completed,Rohan Desai
+ORD01511,2025-07-16,CUST3678,West,Snack Box,Food,5,391,1955,Cancelled,Rohan Desai
+ORD01512,2025-01-18,CUST2069,South,Jeans,Clothing,7,1284,8988,Cancelled,Suresh Babu
+ORD01513,2025-02-12,CUST2418,East,Organic Pack,Food,3,783,2349,Completed,Priya Shah
+ORD01514,2025-12-18,CUST2862,East,Spice Kit,Food,7,382,2674,Completed,Priya Shah
+ORD01515,2025-11-21,CUST1474,South,Running Shoes,Sports,8,4312,34496,Cancelled,Suresh Babu
+ORD01516,2025-02-27,CUST4217,West,Fruit Basket,Food,7,558,3906,Completed,Sneha Patel
+ORD01517,2025-06-22,CUST4883,North,Dress,Clothing,10,1947,19470,Completed,Amit Sharma
+ORD01518,2025-08-26,CUST2153,East,Headphones,Electronics,8,3471,27768,Cancelled,Ankit Joshi
+ORD01519,2025-07-09,CUST2033,South,Sofa,Furniture,1,25892,25892,Completed,Suresh Babu
+ORD01520,2025-08-02,CUST1071,South,Sofa,Furniture,1,26223,26223,Completed,Lakshmi Rao
+ORD01521,2025-09-30,CUST4025,South,Jeans,Clothing,2,1240,2480,Completed,Lakshmi Rao
+ORD01522,2025-11-21,CUST3021,South,Sofa,Furniture,8,26806,214448,Completed,Divya Menon
+ORD01523,2025-09-26,CUST3330,South,Laptop,Electronics,6,54625,327750,Completed,Divya Menon
+ORD01524,2025-11-23,CUST4327,East,Fruit Basket,Food,2,492,984,Completed,Priya Shah
+ORD01525,2025-08-05,CUST2641,East,Jacket,Clothing,2,2773,5546,Completed,Rahul Mehta
+ORD01526,2025-04-09,CUST3338,North,Desk,Furniture,9,9313,83817,Cancelled,Vijay Kumar
+ORD01527,2025-01-26,CUST2532,South,Shoes,Clothing,5,3260,16300,Cancelled,Suresh Babu
+ORD01528,2025-09-14,CUST3750,East,Cycle Helmet,Sports,3,1604,4812,Completed,Priya Shah
+ORD01529,2025-04-17,CUST1076,South,Jacket,Clothing,5,2539,12695,Cancelled,Divya Menon
+ORD01530,2025-06-12,CUST1397,West,T-Shirt,Clothing,6,477,2862,Completed,Kavita Nair
+ORD01531,2025-12-31,CUST3495,South,Cycle Helmet,Sports,10,1473,14730,Completed,Divya Menon
+ORD01532,2025-01-07,CUST2404,North,Sofa,Furniture,8,23448,187584,Cancelled,Neha Gupta
+ORD01533,2025-04-18,CUST3180,West,Beverage Set,Food,7,544,3808,Cancelled,Sneha Patel
+ORD01534,2025-11-20,CUST2992,North,Smartphone,Electronics,9,21830,196470,Completed,Neha Gupta
+ORD01535,2025-08-20,CUST3762,South,Smartphone,Electronics,10,23017,230170,Cancelled,Divya Menon
+ORD01536,2025-08-09,CUST2701,East,Desk,Furniture,8,10326,82608,Completed,Ankit Joshi
+ORD01537,2025-03-09,CUST2550,East,Headphones,Electronics,4,3334,13336,Completed,Priya Shah
+ORD01538,2025-04-02,CUST4542,West,Fruit Basket,Food,7,494,3458,Completed,Kavita Nair
+ORD01539,2025-05-23,CUST2308,North,Tablet,Electronics,9,18610,167490,Completed,Neha Gupta
+ORD01540,2025-09-11,CUST4099,South,Bookshelf,Furniture,3,6785,20355,Completed,Suresh Babu
+ORD01541,2025-01-02,CUST3181,North,Snack Box,Food,2,398,796,Completed,Neha Gupta
+ORD01542,2025-07-30,CUST1773,East,Dumbbells,Sports,3,2104,6312,Completed,Rahul Mehta
+ORD01543,2025-11-03,CUST3337,South,Tablet,Electronics,10,17324,173240,Completed,Suresh Babu
+ORD01544,2025-12-17,CUST1372,North,Smartwatch,Electronics,7,8304,58128,Cancelled,Amit Sharma
+ORD01545,2025-08-23,CUST2511,West,Shoes,Clothing,4,2942,11768,Completed,Sneha Patel
+ORD01546,2025-04-16,CUST3365,South,Snack Box,Food,10,404,4040,Completed,Lakshmi Rao
+ORD01547,2025-08-25,CUST3048,East,Running Shoes,Sports,3,3844,11532,Cancelled,Rahul Mehta
+ORD01548,2025-01-04,CUST4066,East,Fruit Basket,Food,8,557,4456,Completed,Priya Shah
+ORD01549,2025-05-14,CUST4618,East,Jump Rope,Sports,1,302,302,Cancelled,Rahul Mehta
+ORD01550,2025-05-30,CUST4324,South,Tablet,Electronics,7,19424,135968,Completed,Divya Menon
+ORD01551,2025-08-14,CUST2755,East,Smartphone,Electronics,5,23968,119840,Completed,Rahul Mehta
+ORD01552,2025-03-28,CUST2501,South,Table,Furniture,4,8791,35164,Completed,Lakshmi Rao
+ORD01553,2025-06-18,CUST3629,East,Spice Kit,Food,4,381,1524,Completed,Ankit Joshi
+ORD01554,2025-08-16,CUST2354,South,Desk,Furniture,5,9437,47185,Cancelled,Lakshmi Rao
+ORD01555,2025-09-25,CUST2181,East,Jacket,Clothing,10,2476,24760,Completed,Ankit Joshi
+ORD01556,2025-03-23,CUST3325,North,Spice Kit,Food,5,328,1640,Cancelled,Amit Sharma
+ORD01557,2025-03-17,CUST3488,North,Beverage Set,Food,4,544,2176,Completed,Neha Gupta
+ORD01558,2025-03-17,CUST3393,East,Sofa,Furniture,9,27159,244431,Returned,Priya Shah
+ORD01559,2025-09-02,CUST3533,West,Table,Furniture,10,8905,89050,Completed,Rohan Desai
+ORD01560,2025-07-13,CUST4544,South,Dress,Clothing,8,1698,13584,Returned,Lakshmi Rao
+ORD01561,2025-12-09,CUST4878,East,Table,Furniture,5,7612,38060,Completed,Ankit Joshi
+ORD01562,2025-03-03,CUST3662,West,Bookshelf,Furniture,8,6254,50032,Completed,Sneha Patel
+ORD01563,2025-09-26,CUST4678,West,Jacket,Clothing,1,2499,2499,Completed,Rohan Desai
+ORD01564,2025-09-17,CUST1275,North,Jump Rope,Sports,9,335,3015,Returned,Amit Sharma
+ORD01565,2025-08-17,CUST3321,West,Jacket,Clothing,3,2681,8043,Cancelled,Sneha Patel
+ORD01566,2025-04-27,CUST3824,South,T-Shirt,Clothing,10,483,4830,Completed,Divya Menon
+ORD01567,2025-04-08,CUST4003,East,Dress,Clothing,5,1647,8235,Completed,Ankit Joshi
+ORD01568,2025-10-25,CUST2954,South,Smartwatch,Electronics,1,7837,7837,Cancelled,Lakshmi Rao
+ORD01569,2025-09-02,CUST1476,South,Headphones,Electronics,4,3237,12948,Completed,Divya Menon
+ORD01570,2025-09-07,CUST2228,East,Cycle Helmet,Sports,2,1619,3238,Completed,Ankit Joshi
+ORD01571,2025-04-10,CUST3412,South,Tablet,Electronics,7,18906,132342,Completed,Lakshmi Rao
+ORD01572,2025-06-18,CUST3077,South,Running Shoes,Sports,5,3864,19320,Completed,Suresh Babu
+ORD01573,2025-05-21,CUST3776,North,Organic Pack,Food,3,817,2451,Completed,Vijay Kumar
+ORD01574,2025-08-29,CUST3030,West,T-Shirt,Clothing,7,534,3738,Completed,Rohan Desai
+ORD01575,2025-06-25,CUST3612,West,T-Shirt,Clothing,4,476,1904,Completed,Rohan Desai
+ORD01576,2025-09-29,CUST2932,East,Desk,Furniture,4,9384,37536,Completed,Rahul Mehta
+ORD01577,2025-04-09,CUST4139,South,Jeans,Clothing,10,1278,12780,Completed,Divya Menon
+ORD01578,2025-08-31,CUST3676,South,Table,Furniture,5,8143,40715,Returned,Suresh Babu
+ORD01579,2025-07-09,CUST1593,North,Sofa,Furniture,6,25310,151860,Completed,Neha Gupta
+ORD01580,2025-08-02,CUST1023,South,Headphones,Electronics,6,3715,22290,Completed,Suresh Babu
+ORD01581,2025-05-21,CUST1079,West,Jacket,Clothing,5,2770,13850,Completed,Rohan Desai
+ORD01582,2025-07-15,CUST2334,West,Dress,Clothing,9,1818,16362,Completed,Sneha Patel
+ORD01583,2025-05-05,CUST1657,North,Fruit Basket,Food,8,569,4552,Returned,Vijay Kumar
+ORD01584,2025-07-19,CUST3817,South,Jacket,Clothing,10,2616,26160,Completed,Lakshmi Rao
+ORD01585,2025-11-24,CUST2403,North,Running Shoes,Sports,8,4523,36184,Completed,Amit Sharma
+ORD01586,2025-02-07,CUST2329,South,Jeans,Clothing,10,1169,11690,Completed,Lakshmi Rao
+ORD01587,2025-08-13,CUST2004,North,Jump Rope,Sports,5,311,1555,Cancelled,Vijay Kumar
+ORD01588,2025-01-12,CUST1575,East,Sofa,Furniture,8,27170,217360,Completed,Priya Shah
+ORD01589,2025-08-28,CUST1932,South,Sofa,Furniture,4,26735,106940,Cancelled,Suresh Babu
+ORD01590,2025-11-06,CUST4062,East,T-Shirt,Clothing,7,503,3521,Cancelled,Rahul Mehta
+ORD01591,2025-09-28,CUST1246,North,Smartwatch,Electronics,7,9191,64337,Returned,Neha Gupta
+ORD01592,2025-10-03,CUST3015,North,Running Shoes,Sports,2,4334,8668,Completed,Vijay Kumar
+ORD01593,2025-02-27,CUST3178,West,Yoga Mat,Sports,10,1356,13560,Completed,Sneha Patel
+ORD01594,2025-02-07,CUST4142,South,Bookshelf,Furniture,8,6734,53872,Returned,Lakshmi Rao
+ORD01595,2025-11-30,CUST2353,East,Dress,Clothing,6,1824,10944,Cancelled,Ankit Joshi
+ORD01596,2025-08-10,CUST4642,East,Fruit Basket,Food,5,450,2250,Cancelled,Rahul Mehta
+ORD01597,2025-01-05,CUST1922,North,Snack Box,Food,5,445,2225,Completed,Neha Gupta
+ORD01598,2025-09-30,CUST2874,West,Running Shoes,Sports,10,3752,37520,Cancelled,Sneha Patel
+ORD01599,2025-06-07,CUST1743,East,Smartwatch,Electronics,10,9088,90880,Completed,Rahul Mehta
+ORD01600,2025-10-04,CUST2427,East,Sofa,Furniture,4,26613,106452,Completed,Rahul Mehta
+ORD01601,2025-08-06,CUST2110,West,Jacket,Clothing,1,2335,2335,Returned,Rohan Desai
+ORD01602,2025-03-05,CUST4416,South,Headphones,Electronics,4,3482,13928,Completed,Suresh Babu
+ORD01603,2025-04-12,CUST1842,South,Yoga Mat,Sports,2,1370,2740,Completed,Divya Menon
+ORD01604,2025-09-22,CUST1498,West,T-Shirt,Clothing,8,542,4336,Completed,Rohan Desai
+ORD01605,2025-08-01,CUST1782,West,Smartwatch,Electronics,6,8155,48930,Completed,Rohan Desai
+ORD01606,2025-01-09,CUST1029,South,Spice Kit,Food,2,346,692,Returned,Lakshmi Rao
+ORD01607,2025-08-11,CUST4874,North,T-Shirt,Clothing,7,559,3913,Completed,Neha Gupta
+ORD01608,2025-11-28,CUST4675,North,Smartphone,Electronics,4,20775,83100,Completed,Vijay Kumar
+ORD01609,2025-03-21,CUST1574,South,Laptop,Electronics,10,60532,605320,Returned,Divya Menon
+ORD01610,2025-05-31,CUST2522,South,Shoes,Clothing,3,2830,8490,Completed,Lakshmi Rao
+ORD01611,2025-12-09,CUST1743,North,Smartphone,Electronics,1,22536,22536,Completed,Vijay Kumar
+ORD01612,2025-07-11,CUST4723,North,Running Shoes,Sports,1,4383,4383,Completed,Neha Gupta
+ORD01613,2025-01-18,CUST4010,West,Organic Pack,Food,9,795,7155,Completed,Kavita Nair
+ORD01614,2025-03-28,CUST1647,East,Tablet,Electronics,4,16614,66456,Returned,Rahul Mehta
+ORD01615,2025-09-01,CUST2902,South,Cycle Helmet,Sports,3,1671,5013,Cancelled,Lakshmi Rao
+ORD01616,2025-06-09,CUST2950,South,Table,Furniture,6,8512,51072,Completed,Divya Menon
+ORD01617,2025-12-09,CUST3934,East,Spice Kit,Food,10,332,3320,Completed,Rahul Mehta
+ORD01618,2025-03-15,CUST1923,East,Headphones,Electronics,5,3926,19630,Completed,Rahul Mehta
+ORD01619,2025-05-09,CUST1756,North,Bookshelf,Furniture,10,6179,61790,Completed,Neha Gupta
+ORD01620,2025-03-09,CUST2343,South,Table,Furniture,10,8672,86720,Returned,Divya Menon
+ORD01621,2025-07-17,CUST3588,East,Jeans,Clothing,1,1122,1122,Completed,Rahul Mehta
+ORD01622,2025-03-24,CUST2625,North,Smartwatch,Electronics,8,8167,65336,Completed,Vijay Kumar
+ORD01623,2025-10-23,CUST2661,South,Shoes,Clothing,10,2897,28970,Completed,Divya Menon
+ORD01624,2025-05-24,CUST3684,North,Table,Furniture,5,7881,39405,Cancelled,Vijay Kumar
+ORD01625,2025-08-22,CUST3716,East,Desk,Furniture,5,8242,41210,Completed,Ankit Joshi
+ORD01626,2025-01-14,CUST4951,West,Smartphone,Electronics,8,24365,194920,Completed,Kavita Nair
+ORD01627,2025-06-01,CUST1517,North,Bookshelf,Furniture,7,6229,43603,Returned,Vijay Kumar
+ORD01628,2025-04-04,CUST2628,West,Jeans,Clothing,1,1139,1139,Cancelled,Kavita Nair
+ORD01629,2025-11-04,CUST4194,West,Jump Rope,Sports,9,273,2457,Completed,Kavita Nair
+ORD01630,2025-04-28,CUST3841,West,Table,Furniture,2,8560,17120,Completed,Kavita Nair
+ORD01631,2025-04-26,CUST4453,West,Jump Rope,Sports,7,334,2338,Completed,Rohan Desai
+ORD01632,2025-06-01,CUST2596,South,Spice Kit,Food,6,326,1956,Returned,Lakshmi Rao
+ORD01633,2025-02-08,CUST2029,North,Dress,Clothing,10,2051,20510,Completed,Neha Gupta
+ORD01634,2025-03-13,CUST1588,South,Jeans,Clothing,7,1315,9205,Cancelled,Suresh Babu
+ORD01635,2025-10-30,CUST1792,West,Chair,Furniture,4,5704,22816,Completed,Rohan Desai
+ORD01636,2025-03-05,CUST3973,West,Shoes,Clothing,3,3204,9612,Cancelled,Sneha Patel
+ORD01637,2025-11-23,CUST1480,North,Yoga Mat,Sports,10,1221,12210,Completed,Neha Gupta
+ORD01638,2025-03-05,CUST3216,South,T-Shirt,Clothing,6,559,3354,Returned,Lakshmi Rao
+ORD01639,2025-07-15,CUST4432,North,Headphones,Electronics,7,3661,25627,Cancelled,Vijay Kumar
+ORD01640,2025-09-07,CUST4106,North,Dress,Clothing,2,1659,3318,Completed,Vijay Kumar
+ORD01641,2025-07-05,CUST1988,South,Spice Kit,Food,1,370,370,Returned,Suresh Babu
+ORD01642,2025-05-22,CUST4705,North,Running Shoes,Sports,7,4266,29862,Completed,Neha Gupta
+ORD01643,2025-02-12,CUST1052,East,Snack Box,Food,10,409,4090,Completed,Ankit Joshi
+ORD01644,2025-05-17,CUST1425,South,Jump Rope,Sports,10,298,2980,Completed,Divya Menon
+ORD01645,2025-07-15,CUST1172,East,Yoga Mat,Sports,10,1108,11080,Returned,Rahul Mehta
+ORD01646,2025-07-04,CUST3376,South,Organic Pack,Food,6,849,5094,Completed,Suresh Babu
+ORD01647,2025-10-21,CUST4536,East,Spice Kit,Food,1,333,333,Completed,Ankit Joshi
+ORD01648,2025-06-18,CUST1404,North,Organic Pack,Food,8,889,7112,Completed,Vijay Kumar
+ORD01649,2025-06-26,CUST2443,West,Bookshelf,Furniture,1,5886,5886,Cancelled,Kavita Nair
+ORD01650,2025-05-15,CUST4148,West,Dress,Clothing,9,1911,17199,Cancelled,Rohan Desai
+ORD01651,2025-03-30,CUST4459,South,Tablet,Electronics,6,18973,113838,Cancelled,Lakshmi Rao
+ORD01652,2025-06-12,CUST4394,North,Laptop,Electronics,7,53802,376614,Completed,Amit Sharma
+ORD01653,2025-07-15,CUST1828,North,Beverage Set,Food,6,660,3960,Cancelled,Amit Sharma
+ORD01654,2025-03-28,CUST2322,East,Smartphone,Electronics,10,21507,215070,Completed,Ankit Joshi
+ORD01655,2025-10-14,CUST2213,West,Fruit Basket,Food,2,474,948,Completed,Kavita Nair
+ORD01656,2025-12-06,CUST2657,North,Jacket,Clothing,9,2471,22239,Completed,Neha Gupta
+ORD01657,2025-02-23,CUST4461,North,Jump Rope,Sports,2,294,588,Completed,Amit Sharma
+ORD01658,2025-05-06,CUST3244,West,Chair,Furniture,8,4780,38240,Cancelled,Sneha Patel
+ORD01659,2025-05-06,CUST4584,West,Snack Box,Food,3,361,1083,Completed,Sneha Patel
+ORD01660,2025-11-10,CUST2979,South,Fruit Basket,Food,9,574,5166,Completed,Lakshmi Rao
+ORD01661,2025-09-23,CUST3379,South,Cycle Helmet,Sports,5,1615,8075,Returned,Suresh Babu
+ORD01662,2025-08-09,CUST2516,North,Jacket,Clothing,9,2473,22257,Returned,Amit Sharma
+ORD01663,2025-06-14,CUST4522,West,Jump Rope,Sports,3,277,831,Returned,Kavita Nair
+ORD01664,2025-12-29,CUST2948,North,Smartwatch,Electronics,4,8640,34560,Completed,Vijay Kumar
+ORD01665,2025-10-11,CUST4363,West,Beverage Set,Food,10,665,6650,Completed,Rohan Desai
+ORD01666,2025-09-12,CUST3420,South,Smartphone,Electronics,1,22879,22879,Completed,Lakshmi Rao
+ORD01667,2025-06-27,CUST2952,West,Tablet,Electronics,2,20496,40992,Completed,Rohan Desai
+ORD01668,2025-01-15,CUST3922,South,Snack Box,Food,7,381,2667,Completed,Divya Menon
+ORD01669,2025-12-23,CUST3763,North,Table,Furniture,10,8796,87960,Completed,Neha Gupta
+ORD01670,2025-03-15,CUST4138,North,Smartwatch,Electronics,1,8624,8624,Completed,Amit Sharma
+ORD01671,2025-02-06,CUST3514,East,Cycle Helmet,Sports,3,1624,4872,Completed,Ankit Joshi
+ORD01672,2025-04-02,CUST4423,West,Headphones,Electronics,2,3440,6880,Completed,Rohan Desai
+ORD01673,2025-10-21,CUST3871,South,Spice Kit,Food,8,327,2616,Completed,Lakshmi Rao
+ORD01674,2025-06-09,CUST2454,West,Beverage Set,Food,8,553,4424,Completed,Sneha Patel
+ORD01675,2025-04-27,CUST2438,East,Bookshelf,Furniture,2,6185,12370,Completed,Ankit Joshi
+ORD01676,2025-02-01,CUST3281,East,Chair,Furniture,3,4502,13506,Returned,Rahul Mehta
+ORD01677,2025-01-03,CUST2338,South,Chair,Furniture,10,5204,52040,Returned,Lakshmi Rao
+ORD01678,2025-04-07,CUST3607,South,Dress,Clothing,4,2059,8236,Completed,Divya Menon
+ORD01679,2025-03-21,CUST3456,North,Dumbbells,Sports,8,2153,17224,Cancelled,Amit Sharma
+ORD01680,2025-09-17,CUST1609,South,Smartwatch,Electronics,1,9070,9070,Returned,Lakshmi Rao
+ORD01681,2025-06-09,CUST4829,North,Tablet,Electronics,3,18855,56565,Completed,Amit Sharma
+ORD01682,2025-09-12,CUST1791,West,Running Shoes,Sports,8,4528,36224,Completed,Rohan Desai
+ORD01683,2025-08-18,CUST4866,East,Yoga Mat,Sports,6,1153,6918,Completed,Priya Shah
+ORD01684,2025-04-07,CUST4252,South,Tablet,Electronics,1,20324,20324,Returned,Divya Menon
+ORD01685,2025-12-29,CUST4090,East,Yoga Mat,Sports,6,1353,8118,Completed,Ankit Joshi
+ORD01686,2025-09-30,CUST3136,South,Dumbbells,Sports,5,1960,9800,Completed,Lakshmi Rao
+ORD01687,2025-05-30,CUST4867,South,Spice Kit,Food,7,322,2254,Completed,Lakshmi Rao
+ORD01688,2025-06-14,CUST3298,South,Cycle Helmet,Sports,5,1536,7680,Cancelled,Suresh Babu
+ORD01689,2025-12-17,CUST3862,East,Yoga Mat,Sports,4,1364,5456,Completed,Ankit Joshi
+ORD01690,2025-10-20,CUST3223,West,Chair,Furniture,9,4534,40806,Returned,Rohan Desai
+ORD01691,2025-04-07,CUST2440,East,Fruit Basket,Food,9,556,5004,Completed,Ankit Joshi
+ORD01692,2025-12-24,CUST1183,West,Headphones,Electronics,3,3930,11790,Cancelled,Sneha Patel
+ORD01693,2025-04-15,CUST3028,West,Jump Rope,Sports,1,273,273,Completed,Kavita Nair
+ORD01694,2025-03-01,CUST4785,North,Smartphone,Electronics,6,25214,151284,Returned,Amit Sharma
+ORD01695,2025-07-10,CUST4758,South,Smartphone,Electronics,3,23093,69279,Cancelled,Suresh Babu
+ORD01696,2025-08-05,CUST3786,North,Jacket,Clothing,7,2681,18767,Completed,Neha Gupta
+ORD01697,2025-07-13,CUST2139,West,Beverage Set,Food,10,541,5410,Cancelled,Sneha Patel
+ORD01698,2025-12-23,CUST4142,South,Jeans,Clothing,2,1271,2542,Completed,Suresh Babu
+ORD01699,2025-02-04,CUST1751,North,Jacket,Clothing,7,2428,16996,Completed,Vijay Kumar
+ORD01700,2025-05-14,CUST1444,East,Snack Box,Food,2,415,830,Completed,Rahul Mehta
+ORD01701,2025-09-23,CUST1146,South,Organic Pack,Food,2,765,1530,Cancelled,Lakshmi Rao
+ORD01702,2025-02-12,CUST4123,East,Shoes,Clothing,10,2978,29780,Cancelled,Priya Shah
+ORD01703,2025-11-02,CUST4150,East,Dumbbells,Sports,4,2162,8648,Completed,Rahul Mehta
+ORD01704,2025-03-20,CUST2398,North,Jacket,Clothing,8,2375,19000,Completed,Neha Gupta
+ORD01705,2025-07-14,CUST1627,North,Yoga Mat,Sports,4,1135,4540,Completed,Vijay Kumar
+ORD01706,2025-08-13,CUST1103,South,Smartphone,Electronics,10,22707,227070,Completed,Lakshmi Rao
+ORD01707,2025-10-08,CUST4949,North,Laptop,Electronics,2,55136,110272,Completed,Vijay Kumar
+ORD01708,2025-03-28,CUST3965,North,Chair,Furniture,3,5626,16878,Completed,Amit Sharma
+ORD01709,2025-07-15,CUST1014,East,Fruit Basket,Food,2,557,1114,Cancelled,Rahul Mehta
+ORD01710,2025-10-16,CUST3234,East,Headphones,Electronics,10,3714,37140,Completed,Ankit Joshi
+ORD01711,2025-07-18,CUST2841,West,Fruit Basket,Food,5,493,2465,Returned,Rohan Desai
+ORD01712,2025-09-03,CUST4765,West,Fruit Basket,Food,6,477,2862,Completed,Kavita Nair
+ORD01713,2025-03-31,CUST4944,South,Table,Furniture,6,8680,52080,Completed,Suresh Babu
+ORD01714,2025-03-15,CUST1174,South,Fruit Basket,Food,4,573,2292,Completed,Divya Menon
+ORD01715,2025-06-30,CUST1852,South,Spice Kit,Food,8,379,3032,Completed,Suresh Babu
+ORD01716,2025-08-26,CUST2489,North,Bookshelf,Furniture,3,6484,19452,Completed,Amit Sharma
+ORD01717,2025-12-31,CUST1782,West,Running Shoes,Sports,8,4148,33184,Cancelled,Rohan Desai
+ORD01718,2025-07-11,CUST3637,North,Shoes,Clothing,3,3052,9156,Completed,Neha Gupta
+ORD01719,2025-06-03,CUST4705,South,Smartphone,Electronics,4,21657,86628,Returned,Divya Menon
+ORD01720,2025-07-16,CUST4838,South,Shoes,Clothing,1,3220,3220,Completed,Divya Menon
+ORD01721,2025-03-30,CUST2119,West,Fruit Basket,Food,4,468,1872,Completed,Sneha Patel
+ORD01722,2025-03-08,CUST4123,South,Desk,Furniture,10,9293,92930,Cancelled,Lakshmi Rao
+ORD01723,2025-12-13,CUST1397,East,Laptop,Electronics,1,62152,62152,Cancelled,Priya Shah
+ORD01724,2025-02-16,CUST2283,North,Jeans,Clothing,4,1172,4688,Completed,Vijay Kumar
+ORD01725,2025-06-11,CUST3389,South,Beverage Set,Food,3,583,1749,Completed,Divya Menon
+ORD01726,2025-03-23,CUST4689,West,Shoes,Clothing,2,3099,6198,Completed,Sneha Patel
+ORD01727,2025-10-15,CUST3262,South,Table,Furniture,2,8527,17054,Completed,Suresh Babu
+ORD01728,2025-02-19,CUST4095,East,Shoes,Clothing,8,2984,23872,Completed,Rahul Mehta
+ORD01729,2025-10-28,CUST3818,North,Fruit Basket,Food,10,472,4720,Cancelled,Neha Gupta
+ORD01730,2025-12-10,CUST3321,North,Chair,Furniture,6,4586,27516,Completed,Neha Gupta
+ORD01731,2025-12-13,CUST2612,West,Smartphone,Electronics,6,21407,128442,Cancelled,Sneha Patel
+ORD01732,2025-07-01,CUST3469,South,Smartwatch,Electronics,10,8035,80350,Completed,Suresh Babu
+ORD01733,2025-04-09,CUST3102,North,Yoga Mat,Sports,8,1175,9400,Completed,Vijay Kumar
+ORD01734,2025-05-03,CUST3869,North,Bookshelf,Furniture,7,5906,41342,Completed,Vijay Kumar
+ORD01735,2025-08-23,CUST3700,East,Desk,Furniture,1,8393,8393,Returned,Ankit Joshi
+ORD01736,2025-01-06,CUST4009,East,Bookshelf,Furniture,4,6756,27024,Completed,Rahul Mehta
+ORD01737,2025-12-22,CUST3752,North,Beverage Set,Food,6,660,3960,Cancelled,Neha Gupta
+ORD01738,2025-07-28,CUST3897,North,Jacket,Clothing,5,2595,12975,Completed,Neha Gupta
+ORD01739,2025-02-12,CUST4741,South,Tablet,Electronics,9,20231,182079,Completed,Lakshmi Rao
+ORD01740,2025-02-24,CUST1995,East,Jacket,Clothing,2,2346,4692,Cancelled,Rahul Mehta
+ORD01741,2025-02-08,CUST1039,East,Desk,Furniture,2,8451,16902,Completed,Priya Shah
+ORD01742,2025-11-20,CUST4577,North,Smartwatch,Electronics,2,7312,14624,Completed,Vijay Kumar
+ORD01743,2025-02-11,CUST1760,East,Laptop,Electronics,7,60384,422688,Completed,Rahul Mehta
+ORD01744,2025-02-10,CUST2584,North,Dumbbells,Sports,8,2208,17664,Completed,Neha Gupta
+ORD01745,2025-11-06,CUST3892,West,Beverage Set,Food,10,669,6690,Completed,Sneha Patel
+ORD01746,2025-09-17,CUST1025,East,Jeans,Clothing,5,1123,5615,Completed,Rahul Mehta
+ORD01747,2025-12-25,CUST1507,East,Jeans,Clothing,6,1306,7836,Completed,Priya Shah
+ORD01748,2025-11-22,CUST4424,North,Cycle Helmet,Sports,9,1590,14310,Completed,Neha Gupta
+ORD01749,2025-06-26,CUST4012,West,Yoga Mat,Sports,5,1164,5820,Completed,Sneha Patel
+ORD01750,2025-02-02,CUST3023,North,Smartwatch,Electronics,7,7359,51513,Completed,Vijay Kumar
+ORD01751,2025-08-17,CUST1049,East,Desk,Furniture,6,9670,58020,Completed,Rahul Mehta
+ORD01752,2025-10-19,CUST2074,North,Beverage Set,Food,8,595,4760,Completed,Neha Gupta
+ORD01753,2025-06-10,CUST3236,West,Dress,Clothing,3,1639,4917,Completed,Rohan Desai
+ORD01754,2025-08-25,CUST2328,South,Spice Kit,Food,8,328,2624,Cancelled,Suresh Babu
+ORD01755,2025-08-03,CUST4889,East,Jacket,Clothing,7,2868,20076,Completed,Priya Shah
+ORD01756,2025-07-07,CUST1057,South,Jeans,Clothing,10,1363,13630,Completed,Lakshmi Rao
+ORD01757,2025-07-20,CUST2934,West,Sofa,Furniture,4,22635,90540,Completed,Rohan Desai
+ORD01758,2025-10-09,CUST2137,West,Shoes,Clothing,10,3242,32420,Completed,Sneha Patel
+ORD01759,2025-09-07,CUST4969,East,Chair,Furniture,2,5691,11382,Completed,Ankit Joshi
+ORD01760,2025-05-29,CUST1579,West,Cycle Helmet,Sports,4,1506,6024,Completed,Rohan Desai
+ORD01761,2025-11-20,CUST1649,North,Desk,Furniture,7,9476,66332,Completed,Vijay Kumar
+ORD01762,2025-05-25,CUST2397,North,Jacket,Clothing,10,2856,28560,Completed,Neha Gupta
+ORD01763,2025-07-09,CUST2708,West,Jacket,Clothing,4,2818,11272,Returned,Kavita Nair
+ORD01764,2025-09-01,CUST4222,North,Running Shoes,Sports,10,4393,43930,Completed,Amit Sharma
+ORD01765,2025-06-14,CUST4201,West,Jump Rope,Sports,4,330,1320,Completed,Kavita Nair
+ORD01766,2025-08-29,CUST4647,East,Desk,Furniture,2,8964,17928,Completed,Priya Shah
+ORD01767,2025-02-11,CUST3167,South,Fruit Basket,Food,5,458,2290,Completed,Lakshmi Rao
+ORD01768,2025-05-22,CUST3915,West,Chair,Furniture,8,4808,38464,Completed,Rohan Desai
+ORD01769,2025-07-02,CUST4378,South,Dumbbells,Sports,5,2278,11390,Completed,Suresh Babu
+ORD01770,2025-11-06,CUST4617,West,Dress,Clothing,10,1674,16740,Cancelled,Kavita Nair
+ORD01771,2025-04-10,CUST3144,North,Shoes,Clothing,7,3225,22575,Cancelled,Neha Gupta
+ORD01772,2025-05-14,CUST1836,West,Chair,Furniture,1,5314,5314,Cancelled,Sneha Patel
+ORD01773,2025-07-08,CUST2904,West,Spice Kit,Food,9,328,2952,Completed,Rohan Desai
+ORD01774,2025-02-25,CUST4837,North,Beverage Set,Food,4,645,2580,Completed,Amit Sharma
+ORD01775,2025-10-28,CUST1526,North,Laptop,Electronics,1,61431,61431,Completed,Neha Gupta
+ORD01776,2025-03-14,CUST2291,South,Yoga Mat,Sports,7,1273,8911,Completed,Suresh Babu
+ORD01777,2025-11-10,CUST4424,East,Sofa,Furniture,10,27228,272280,Completed,Ankit Joshi
+ORD01778,2025-01-29,CUST3960,West,Organic Pack,Food,2,747,1494,Completed,Sneha Patel
+ORD01779,2025-05-01,CUST1376,North,Sofa,Furniture,2,25079,50158,Completed,Neha Gupta
+ORD01780,2025-07-25,CUST3232,East,Cycle Helmet,Sports,7,1610,11270,Completed,Rahul Mehta
+ORD01781,2025-04-17,CUST2837,West,Tablet,Electronics,4,17276,69104,Completed,Kavita Nair
+ORD01782,2025-01-13,CUST1214,West,Organic Pack,Food,1,763,763,Completed,Sneha Patel
+ORD01783,2025-03-12,CUST3050,North,Bookshelf,Furniture,7,5428,37996,Completed,Neha Gupta
+ORD01784,2025-01-13,CUST3742,South,Yoga Mat,Sports,1,1140,1140,Completed,Lakshmi Rao
+ORD01785,2025-10-26,CUST3013,East,Chair,Furniture,10,5602,56020,Completed,Rahul Mehta
+ORD01786,2025-07-23,CUST1871,West,Yoga Mat,Sports,10,1164,11640,Completed,Kavita Nair
+ORD01787,2025-07-18,CUST1654,West,Running Shoes,Sports,6,3795,22770,Returned,Rohan Desai
+ORD01788,2025-03-03,CUST3664,North,Organic Pack,Food,8,840,6720,Completed,Vijay Kumar
+ORD01789,2025-07-27,CUST1838,West,Laptop,Electronics,7,60563,423941,Cancelled,Sneha Patel
+ORD01790,2025-04-13,CUST4111,North,Dress,Clothing,5,1782,8910,Completed,Vijay Kumar
+ORD01791,2025-04-28,CUST3321,North,Dress,Clothing,1,1759,1759,Completed,Amit Sharma
+ORD01792,2025-06-20,CUST1845,South,Beverage Set,Food,8,687,5496,Cancelled,Lakshmi Rao
+ORD01793,2025-09-09,CUST2966,North,T-Shirt,Clothing,10,463,4630,Completed,Amit Sharma
+ORD01794,2025-11-14,CUST1204,East,Chair,Furniture,5,5056,25280,Cancelled,Rahul Mehta
+ORD01795,2025-02-19,CUST1219,North,Jeans,Clothing,7,1302,9114,Completed,Neha Gupta
+ORD01796,2025-08-02,CUST3677,East,Chair,Furniture,2,4877,9754,Completed,Rahul Mehta
+ORD01797,2025-03-03,CUST4765,East,Snack Box,Food,1,371,371,Cancelled,Priya Shah
+ORD01798,2025-10-24,CUST3846,North,Chair,Furniture,10,5099,50990,Completed,Amit Sharma
+ORD01799,2025-04-21,CUST1266,South,Organic Pack,Food,1,819,819,Cancelled,Suresh Babu
+ORD01800,2025-03-31,CUST4985,East,Yoga Mat,Sports,2,1367,2734,Cancelled,Ankit Joshi
+ORD01801,2025-05-25,CUST3944,South,Jacket,Clothing,1,2669,2669,Returned,Lakshmi Rao
+ORD01802,2025-05-01,CUST3824,South,Laptop,Electronics,10,60986,609860,Completed,Divya Menon
+ORD01803,2025-09-08,CUST4243,West,Tablet,Electronics,6,16597,99582,Completed,Rohan Desai
+ORD01804,2025-10-06,CUST1671,North,Desk,Furniture,9,8427,75843,Completed,Neha Gupta
+ORD01805,2025-07-28,CUST1712,South,Bookshelf,Furniture,6,6550,39300,Completed,Divya Menon
+ORD01806,2025-09-11,CUST3767,South,Bookshelf,Furniture,2,6303,12606,Returned,Suresh Babu
+ORD01807,2025-07-03,CUST3643,South,Fruit Basket,Food,3,561,1683,Completed,Divya Menon
+ORD01808,2025-03-16,CUST3452,North,Dumbbells,Sports,10,1869,18690,Cancelled,Amit Sharma
+ORD01809,2025-12-21,CUST2623,East,Organic Pack,Food,9,828,7452,Completed,Ankit Joshi
+ORD01810,2025-01-03,CUST2043,West,Jacket,Clothing,8,2323,18584,Cancelled,Rohan Desai
+ORD01811,2025-10-08,CUST4837,South,Cycle Helmet,Sports,4,1566,6264,Cancelled,Divya Menon
+ORD01812,2025-02-24,CUST1924,South,Jeans,Clothing,1,1347,1347,Returned,Lakshmi Rao
+ORD01813,2025-09-11,CUST1591,East,Table,Furniture,7,7805,54635,Completed,Ankit Joshi
+ORD01814,2025-02-19,CUST4897,West,Laptop,Electronics,1,53567,53567,Completed,Kavita Nair
+ORD01815,2025-02-06,CUST1274,North,Organic Pack,Food,7,908,6356,Completed,Amit Sharma
+ORD01816,2025-12-24,CUST3447,North,Bookshelf,Furniture,6,5712,34272,Completed,Vijay Kumar
+ORD01817,2025-09-02,CUST3601,East,Organic Pack,Food,8,783,6264,Completed,Ankit Joshi
+ORD01818,2025-08-31,CUST4527,South,Yoga Mat,Sports,7,1286,9002,Cancelled,Suresh Babu
+ORD01819,2025-12-17,CUST3008,East,Organic Pack,Food,8,871,6968,Completed,Priya Shah
+ORD01820,2025-10-06,CUST1377,East,T-Shirt,Clothing,8,497,3976,Completed,Ankit Joshi
+ORD01821,2025-08-29,CUST1140,North,Desk,Furniture,8,8587,68696,Completed,Amit Sharma
+ORD01822,2025-12-17,CUST1525,East,Cycle Helmet,Sports,2,1538,3076,Completed,Ankit Joshi
+ORD01823,2025-10-17,CUST2589,East,Desk,Furniture,2,9670,19340,Completed,Priya Shah
+ORD01824,2025-05-31,CUST4496,West,Tablet,Electronics,10,17691,176910,Completed,Sneha Patel
+ORD01825,2025-02-09,CUST1815,South,Snack Box,Food,1,398,398,Cancelled,Divya Menon
+ORD01826,2025-04-01,CUST4164,South,Tablet,Electronics,3,17205,51615,Returned,Divya Menon
+ORD01827,2025-09-10,CUST1936,South,Laptop,Electronics,3,51414,154242,Cancelled,Divya Menon
+ORD01828,2025-10-16,CUST1096,South,Beverage Set,Food,7,543,3801,Completed,Divya Menon
+ORD01829,2025-07-08,CUST3600,East,Spice Kit,Food,1,339,339,Completed,Priya Shah
+ORD01830,2025-02-04,CUST1266,East,Sofa,Furniture,8,25008,200064,Returned,Rahul Mehta
+ORD01831,2025-03-03,CUST1098,West,Smartwatch,Electronics,3,8529,25587,Completed,Kavita Nair
+ORD01832,2025-07-11,CUST3282,North,Organic Pack,Food,3,836,2508,Completed,Amit Sharma
+ORD01833,2025-04-29,CUST1829,West,Table,Furniture,7,7222,50554,Completed,Sneha Patel
+ORD01834,2025-02-27,CUST3148,North,Jump Rope,Sports,1,292,292,Cancelled,Neha Gupta
+ORD01835,2025-05-05,CUST4524,South,Jeans,Clothing,8,1223,9784,Completed,Lakshmi Rao
+ORD01836,2025-07-18,CUST3265,East,Jeans,Clothing,9,1123,10107,Cancelled,Priya Shah
+ORD01837,2025-09-20,CUST1297,West,Shoes,Clothing,6,3403,20418,Cancelled,Rohan Desai
+ORD01838,2025-01-31,CUST4081,South,Tablet,Electronics,7,16324,114268,Cancelled,Suresh Babu
+ORD01839,2025-07-20,CUST2842,West,Shoes,Clothing,10,3412,34120,Completed,Rohan Desai
+ORD01840,2025-11-27,CUST4571,West,Dress,Clothing,9,1749,15741,Cancelled,Rohan Desai
+ORD01841,2025-11-04,CUST1126,South,Smartwatch,Electronics,2,8608,17216,Cancelled,Divya Menon
+ORD01842,2025-01-21,CUST2513,North,Beverage Set,Food,8,637,5096,Returned,Neha Gupta
+ORD01843,2025-06-05,CUST4425,North,Bookshelf,Furniture,9,6131,55179,Completed,Vijay Kumar
+ORD01844,2025-10-29,CUST3847,West,Beverage Set,Food,2,643,1286,Returned,Kavita Nair
+ORD01845,2025-09-22,CUST3524,East,Sofa,Furniture,5,27967,139835,Completed,Rahul Mehta
+ORD01846,2025-06-10,CUST4796,North,Dress,Clothing,4,1776,7104,Completed,Neha Gupta
+ORD01847,2025-09-23,CUST3769,South,Sofa,Furniture,10,25149,251490,Cancelled,Divya Menon
+ORD01848,2025-03-13,CUST4285,North,Jacket,Clothing,9,2595,23355,Completed,Neha Gupta
+ORD01849,2025-10-25,CUST3130,West,Tablet,Electronics,4,17125,68500,Cancelled,Rohan Desai
+ORD01850,2025-04-04,CUST4634,South,Table,Furniture,7,8168,57176,Completed,Divya Menon
+ORD01851,2025-08-24,CUST3201,North,Jacket,Clothing,10,2295,22950,Completed,Neha Gupta
+ORD01852,2025-10-09,CUST2610,East,Smartphone,Electronics,5,24902,124510,Completed,Ankit Joshi
+ORD01853,2025-10-26,CUST4363,North,Jump Rope,Sports,7,284,1988,Completed,Neha Gupta
+ORD01854,2025-11-18,CUST3005,East,Spice Kit,Food,7,342,2394,Completed,Rahul Mehta
+ORD01855,2025-07-05,CUST4113,East,Laptop,Electronics,5,50977,254885,Completed,Rahul Mehta
+ORD01856,2025-02-19,CUST4791,South,T-Shirt,Clothing,10,457,4570,Completed,Divya Menon
+ORD01857,2025-05-22,CUST2164,South,Jeans,Clothing,4,1265,5060,Completed,Suresh Babu
+ORD01858,2025-10-10,CUST2448,West,T-Shirt,Clothing,9,523,4707,Cancelled,Sneha Patel
+ORD01859,2025-07-16,CUST1832,East,T-Shirt,Clothing,10,542,5420,Returned,Priya Shah
+ORD01860,2025-09-06,CUST1510,East,Shoes,Clothing,4,2881,11524,Completed,Rahul Mehta
+ORD01861,2025-04-23,CUST2144,East,Smartphone,Electronics,5,22193,110965,Cancelled,Priya Shah
+ORD01862,2025-08-17,CUST1874,West,Laptop,Electronics,7,59295,415065,Completed,Kavita Nair
+ORD01863,2025-07-16,CUST4484,South,Smartwatch,Electronics,5,7610,38050,Cancelled,Suresh Babu
+ORD01864,2025-09-26,CUST2402,North,Headphones,Electronics,9,3688,33192,Cancelled,Vijay Kumar
+ORD01865,2025-04-16,CUST2527,West,Smartwatch,Electronics,7,7536,52752,Completed,Sneha Patel
+ORD01866,2025-06-10,CUST2446,South,Table,Furniture,5,8996,44980,Completed,Suresh Babu
+ORD01867,2025-01-13,CUST3811,West,Headphones,Electronics,1,3490,3490,Completed,Rohan Desai
+ORD01868,2025-01-11,CUST3010,South,Spice Kit,Food,2,353,706,Completed,Suresh Babu
+ORD01869,2025-07-07,CUST4733,North,Snack Box,Food,3,381,1143,Completed,Vijay Kumar
+ORD01870,2025-11-03,CUST3174,West,Headphones,Electronics,6,3191,19146,Completed,Kavita Nair
+ORD01871,2025-03-23,CUST1378,East,Chair,Furniture,9,5665,50985,Completed,Priya Shah
+ORD01872,2025-03-14,CUST4516,South,Table,Furniture,4,8018,32072,Completed,Lakshmi Rao
+ORD01873,2025-04-29,CUST4570,East,Yoga Mat,Sports,10,1276,12760,Cancelled,Ankit Joshi
+ORD01874,2025-04-01,CUST2180,South,Snack Box,Food,4,361,1444,Returned,Divya Menon
+ORD01875,2025-12-31,CUST1315,East,Tablet,Electronics,3,18602,55806,Cancelled,Ankit Joshi
+ORD01876,2025-07-08,CUST3962,West,Dress,Clothing,3,1730,5190,Completed,Sneha Patel
+ORD01877,2025-05-20,CUST3102,East,Jump Rope,Sports,1,299,299,Completed,Priya Shah
+ORD01878,2025-03-21,CUST4467,West,Dress,Clothing,6,1878,11268,Completed,Sneha Patel
+ORD01879,2025-08-21,CUST1717,East,Jeans,Clothing,10,1306,13060,Completed,Priya Shah
+ORD01880,2025-03-11,CUST1002,North,Fruit Basket,Food,8,534,4272,Completed,Vijay Kumar
+ORD01881,2025-07-26,CUST4640,South,Running Shoes,Sports,10,4177,41770,Cancelled,Suresh Babu
+ORD01882,2025-05-09,CUST3144,South,Dress,Clothing,8,1676,13408,Completed,Lakshmi Rao
+ORD01883,2025-11-04,CUST2505,North,Smartwatch,Electronics,7,7965,55755,Completed,Amit Sharma
+ORD01884,2025-06-11,CUST2995,West,Smartphone,Electronics,7,24062,168434,Cancelled,Rohan Desai
+ORD01885,2025-10-30,CUST4237,West,Bookshelf,Furniture,4,5613,22452,Returned,Rohan Desai
+ORD01886,2025-05-10,CUST2993,South,Spice Kit,Food,6,392,2352,Completed,Suresh Babu
+ORD01887,2025-01-27,CUST2005,West,Tablet,Electronics,6,16439,98634,Completed,Rohan Desai
+ORD01888,2025-12-01,CUST4572,South,Smartwatch,Electronics,5,7909,39545,Completed,Suresh Babu
+ORD01889,2025-01-21,CUST4825,South,Tablet,Electronics,6,17070,102420,Returned,Lakshmi Rao
+ORD01890,2025-01-06,CUST1414,West,Running Shoes,Sports,1,3624,3624,Completed,Kavita Nair
+ORD01891,2025-07-10,CUST1098,South,Beverage Set,Food,10,609,6090,Cancelled,Suresh Babu
+ORD01892,2025-07-08,CUST1208,East,Spice Kit,Food,7,381,2667,Completed,Ankit Joshi
+ORD01893,2025-10-17,CUST3072,East,Shoes,Clothing,6,3195,19170,Completed,Ankit Joshi
+ORD01894,2025-11-22,CUST2094,West,Jeans,Clothing,2,1265,2530,Completed,Sneha Patel
+ORD01895,2025-01-22,CUST1180,North,Smartphone,Electronics,4,22101,88404,Completed,Amit Sharma
+ORD01896,2025-08-07,CUST3240,North,T-Shirt,Clothing,2,470,940,Completed,Vijay Kumar
+ORD01897,2025-09-05,CUST4223,East,Shoes,Clothing,3,3393,10179,Completed,Rahul Mehta
+ORD01898,2025-12-09,CUST2882,North,Running Shoes,Sports,8,4555,36440,Completed,Vijay Kumar
+ORD01899,2025-10-08,CUST4642,North,Desk,Furniture,3,9602,28806,Cancelled,Vijay Kumar
+ORD01900,2025-09-24,CUST3795,North,Dumbbells,Sports,4,2207,8828,Completed,Neha Gupta
+ORD01901,2025-06-18,CUST4849,North,Spice Kit,Food,1,398,398,Completed,Neha Gupta
+ORD01902,2025-02-24,CUST4375,West,Dumbbells,Sports,4,2240,8960,Completed,Sneha Patel
+ORD01903,2025-02-20,CUST3856,North,Spice Kit,Food,7,364,2548,Completed,Amit Sharma
+ORD01904,2025-03-25,CUST3552,South,Tablet,Electronics,1,18160,18160,Cancelled,Lakshmi Rao
+ORD01905,2025-08-01,CUST2938,East,Sofa,Furniture,2,24425,48850,Completed,Priya Shah
+ORD01906,2025-07-22,CUST3410,West,Spice Kit,Food,4,340,1360,Completed,Sneha Patel
+ORD01907,2025-06-22,CUST1652,North,Cycle Helmet,Sports,2,1387,2774,Completed,Vijay Kumar
+ORD01908,2025-01-05,CUST1614,South,Organic Pack,Food,3,918,2754,Completed,Lakshmi Rao
+ORD01909,2025-01-17,CUST1546,North,Sofa,Furniture,10,23047,230470,Completed,Neha Gupta
+ORD01910,2025-06-19,CUST1409,East,Yoga Mat,Sports,1,1264,1264,Cancelled,Rahul Mehta
+ORD01911,2025-03-29,CUST4674,South,Organic Pack,Food,5,838,4190,Cancelled,Divya Menon
+ORD01912,2025-02-06,CUST4407,North,T-Shirt,Clothing,8,525,4200,Completed,Vijay Kumar
+ORD01913,2025-12-25,CUST3108,East,Fruit Basket,Food,4,536,2144,Completed,Priya Shah
+ORD01914,2025-12-07,CUST1666,South,Beverage Set,Food,9,585,5265,Cancelled,Suresh Babu
+ORD01915,2025-08-03,CUST4305,West,Sofa,Furniture,4,24004,96016,Completed,Sneha Patel
+ORD01916,2025-01-19,CUST1325,East,Yoga Mat,Sports,3,1112,3336,Completed,Rahul Mehta
+ORD01917,2025-02-07,CUST2157,North,Desk,Furniture,4,9716,38864,Completed,Amit Sharma
+ORD01918,2025-11-26,CUST3737,North,Shoes,Clothing,1,2973,2973,Completed,Neha Gupta
+ORD01919,2025-02-03,CUST1200,East,Bookshelf,Furniture,3,6618,19854,Completed,Priya Shah
+ORD01920,2025-12-30,CUST4533,North,Snack Box,Food,6,434,2604,Completed,Vijay Kumar
+ORD01921,2025-06-11,CUST4924,West,Smartphone,Electronics,5,22086,110430,Completed,Rohan Desai
+ORD01922,2025-03-17,CUST1172,West,Dress,Clothing,10,1842,18420,Completed,Sneha Patel
+ORD01923,2025-04-03,CUST2711,East,Tablet,Electronics,6,19800,118800,Completed,Rahul Mehta
+ORD01924,2025-02-23,CUST2977,West,Jeans,Clothing,6,1284,7704,Cancelled,Kavita Nair
+ORD01925,2025-09-16,CUST2120,South,Jump Rope,Sports,10,339,3390,Completed,Divya Menon
+ORD01926,2025-01-21,CUST2863,North,Cycle Helmet,Sports,1,1456,1456,Completed,Vijay Kumar
+ORD01927,2025-11-18,CUST4952,East,Spice Kit,Food,8,394,3152,Completed,Rahul Mehta
+ORD01928,2025-06-11,CUST4419,West,Beverage Set,Food,5,673,3365,Cancelled,Sneha Patel
+ORD01929,2025-12-09,CUST4704,North,Beverage Set,Food,1,619,619,Completed,Neha Gupta
+ORD01930,2025-05-03,CUST2626,East,Organic Pack,Food,2,880,1760,Completed,Ankit Joshi
+ORD01931,2025-08-02,CUST1066,North,Yoga Mat,Sports,8,1376,11008,Completed,Vijay Kumar
+ORD01932,2025-10-10,CUST2177,East,Shoes,Clothing,9,3244,29196,Completed,Ankit Joshi
+ORD01933,2025-04-13,CUST1058,South,Tablet,Electronics,4,20459,81836,Completed,Lakshmi Rao
+ORD01934,2025-05-13,CUST1692,North,Bookshelf,Furniture,3,6758,20274,Completed,Amit Sharma
+ORD01935,2025-07-05,CUST1399,North,Desk,Furniture,9,9537,85833,Completed,Amit Sharma
+ORD01936,2025-03-04,CUST4494,East,T-Shirt,Clothing,5,570,2850,Completed,Priya Shah
+ORD01937,2025-06-22,CUST1497,South,Yoga Mat,Sports,8,1280,10240,Completed,Lakshmi Rao
+ORD01938,2025-07-02,CUST4231,East,Table,Furniture,7,8813,61691,Completed,Priya Shah
+ORD01939,2025-01-10,CUST4731,East,Smartphone,Electronics,3,21681,65043,Completed,Ankit Joshi
+ORD01940,2025-10-01,CUST1795,South,Chair,Furniture,6,5566,33396,Cancelled,Suresh Babu
+ORD01941,2025-02-23,CUST4306,South,Jeans,Clothing,4,1266,5064,Completed,Divya Menon
+ORD01942,2025-12-24,CUST1274,West,Fruit Basket,Food,8,498,3984,Completed,Sneha Patel
+ORD01943,2025-01-22,CUST1149,South,T-Shirt,Clothing,10,494,4940,Returned,Suresh Babu
+ORD01944,2025-11-29,CUST2387,South,Tablet,Electronics,8,16583,132664,Cancelled,Divya Menon
+ORD01945,2025-09-24,CUST3299,East,Dumbbells,Sports,8,2047,16376,Returned,Ankit Joshi
+ORD01946,2025-06-24,CUST1490,East,Table,Furniture,5,8274,41370,Completed,Rahul Mehta
+ORD01947,2025-02-24,CUST1224,North,Jacket,Clothing,7,2874,20118,Completed,Neha Gupta
+ORD01948,2025-02-08,CUST4994,North,Headphones,Electronics,5,3796,18980,Completed,Amit Sharma
+ORD01949,2025-05-26,CUST2342,West,Smartphone,Electronics,9,23115,208035,Cancelled,Rohan Desai
+ORD01950,2025-02-28,CUST1389,North,Sofa,Furniture,2,23641,47282,Completed,Amit Sharma
+ORD01951,2025-04-29,CUST1201,North,Desk,Furniture,9,10154,91386,Completed,Vijay Kumar
+ORD01952,2025-10-09,CUST4830,North,Running Shoes,Sports,2,4495,8990,Completed,Amit Sharma
+ORD01953,2025-06-09,CUST4763,South,Tablet,Electronics,5,19534,97670,Completed,Lakshmi Rao
+ORD01954,2025-10-29,CUST1016,East,Organic Pack,Food,8,881,7048,Completed,Rahul Mehta
+ORD01955,2025-05-16,CUST1650,West,Tablet,Electronics,3,17033,51099,Returned,Kavita Nair
+ORD01956,2025-02-23,CUST3583,East,Snack Box,Food,3,376,1128,Returned,Ankit Joshi
+ORD01957,2025-09-18,CUST1977,South,Smartwatch,Electronics,5,8353,41765,Cancelled,Lakshmi Rao
+ORD01958,2025-09-10,CUST3242,West,Headphones,Electronics,4,3686,14744,Completed,Kavita Nair
+ORD01959,2025-05-30,CUST2410,West,Fruit Basket,Food,7,563,3941,Completed,Sneha Patel
+ORD01960,2025-11-12,CUST4506,East,Beverage Set,Food,10,614,6140,Returned,Priya Shah
+ORD01961,2025-10-30,CUST1783,North,Dress,Clothing,3,1986,5958,Completed,Vijay Kumar
+ORD01962,2025-05-08,CUST1542,East,Jeans,Clothing,1,1299,1299,Completed,Rahul Mehta
+ORD01963,2025-04-22,CUST2132,East,Yoga Mat,Sports,4,1295,5180,Cancelled,Rahul Mehta
+ORD01964,2025-07-31,CUST1438,North,Shoes,Clothing,3,2810,8430,Completed,Amit Sharma
+ORD01965,2025-07-08,CUST2331,South,Fruit Basket,Food,5,505,2525,Completed,Divya Menon
+ORD01966,2025-03-16,CUST1846,South,Table,Furniture,4,8179,32716,Returned,Suresh Babu
+ORD01967,2025-01-26,CUST2032,East,Spice Kit,Food,3,320,960,Cancelled,Rahul Mehta
+ORD01968,2025-08-23,CUST3147,North,Shoes,Clothing,2,3360,6720,Completed,Neha Gupta
+ORD01969,2025-04-01,CUST2745,East,Fruit Basket,Food,2,523,1046,Completed,Ankit Joshi
+ORD01970,2025-04-25,CUST2840,West,Bookshelf,Furniture,7,5804,40628,Completed,Rohan Desai
+ORD01971,2025-03-10,CUST1070,West,Spice Kit,Food,4,401,1604,Completed,Kavita Nair
+ORD01972,2025-03-16,CUST1449,North,Desk,Furniture,5,9652,48260,Completed,Vijay Kumar
+ORD01973,2025-09-22,CUST4274,North,Organic Pack,Food,2,833,1666,Cancelled,Amit Sharma
+ORD01974,2025-05-25,CUST2032,West,Jump Rope,Sports,10,329,3290,Completed,Sneha Patel
+ORD01975,2025-11-18,CUST3035,East,T-Shirt,Clothing,6,546,3276,Cancelled,Priya Shah
+ORD01976,2025-10-18,CUST2397,East,Snack Box,Food,3,370,1110,Completed,Priya Shah
+ORD01977,2025-05-09,CUST3850,North,Dumbbells,Sports,7,2134,14938,Returned,Vijay Kumar
+ORD01978,2025-10-16,CUST2461,East,Spice Kit,Food,10,332,3320,Completed,Rahul Mehta
+ORD01979,2025-06-22,CUST2461,South,Dress,Clothing,6,1841,11046,Completed,Divya Menon
+ORD01980,2025-01-09,CUST3825,East,Smartwatch,Electronics,3,7662,22986,Cancelled,Rahul Mehta
+ORD01981,2025-08-28,CUST2689,East,Smartwatch,Electronics,8,8636,69088,Completed,Rahul Mehta
+ORD01982,2025-04-22,CUST2519,East,Tablet,Electronics,1,20331,20331,Completed,Priya Shah
+ORD01983,2025-11-26,CUST3411,South,T-Shirt,Clothing,6,565,3390,Cancelled,Lakshmi Rao
+ORD01984,2025-05-09,CUST4240,West,Headphones,Electronics,5,3623,18115,Cancelled,Kavita Nair
+ORD01985,2025-01-04,CUST4793,South,Shoes,Clothing,6,2775,16650,Completed,Lakshmi Rao
+ORD01986,2025-10-22,CUST2137,East,Beverage Set,Food,6,652,3912,Completed,Rahul Mehta
+ORD01987,2025-01-14,CUST4026,East,Yoga Mat,Sports,5,1137,5685,Cancelled,Rahul Mehta
+ORD01988,2025-01-24,CUST4000,West,Jeans,Clothing,4,1119,4476,Completed,Kavita Nair
+ORD01989,2025-08-19,CUST1924,West,Laptop,Electronics,4,54541,218164,Cancelled,Rohan Desai
+ORD01990,2025-12-18,CUST2768,West,Smartphone,Electronics,8,21879,175032,Completed,Sneha Patel
+ORD01991,2025-09-30,CUST1717,South,Laptop,Electronics,3,52412,157236,Completed,Lakshmi Rao
+ORD01992,2025-08-11,CUST1939,West,Desk,Furniture,9,10088,90792,Completed,Kavita Nair
+ORD01993,2025-10-27,CUST2351,South,Dress,Clothing,9,1917,17253,Completed,Suresh Babu
+ORD01994,2025-08-06,CUST1705,South,Sofa,Furniture,5,26289,131445,Returned,Lakshmi Rao
+ORD01995,2025-04-11,CUST2662,North,Fruit Basket,Food,8,565,4520,Cancelled,Amit Sharma
+ORD01996,2025-12-22,CUST1519,East,Dress,Clothing,2,1872,3744,Completed,Ankit Joshi
+ORD01997,2025-10-25,CUST3918,West,Smartwatch,Electronics,3,8278,24834,Completed,Sneha Patel
+ORD01998,2025-05-04,CUST4719,East,Jump Rope,Sports,9,336,3024,Completed,Ankit Joshi
+ORD01999,2025-02-12,CUST2389,East,Sofa,Furniture,6,25930,155580,Cancelled,Rahul Mehta
+ORD02000,2025-08-07,CUST3009,West,Jeans,Clothing,2,1235,2470,Completed,Sneha Patel

@@ -1,0 +1,127 @@
+============================================================
+  EXECUTIVE SUMMARY – REGIONAL SALES PIPELINE ANALYSIS
+  Project: Unlocking Revenue – Identifying Bottlenecks
+  Dataset: RegionalSales2025.csv  |  Period: Jan–Dec 2025
+  Prepared by: Business Analyst  |  Exam: Red & White Skill Education
+============================================================
+
+------------------------------------------------------------
+  BUSINESS CONTEXT
+------------------------------------------------------------
+A retail chain is experiencing inconsistent sales performance
+across four regions: East, West, North, and South. This analysis
+examined 2,000 sales transactions across 5 product categories,
+11 sales agents, and 12 months to surface key bottlenecks,
+underperforming regions, and high-value opportunities.
+
+------------------------------------------------------------
+  KPI SNAPSHOT
+------------------------------------------------------------
+  Total Orders           : 2,000
+  Completed Sales        : 1,393  (69.65%)
+  Total Cancellations    :   394  (19.70%)
+  Total Returns          :   213  (10.65%)
+  Total Revenue (Completed): ₹5,74,15,519
+  Average Order Value    : ₹37,270
+  Most Returned Product  : Laptop
+
+------------------------------------------------------------
+  KEY FINDINGS
+------------------------------------------------------------
+
+1. BOTTLENECK REGION – SOUTH
+   • South has the highest cancellation rate (24.26%) and
+     return rate (14.99%) among all regions.
+   • Combined, 39.25% of South's orders do NOT result in revenue.
+   • This is significantly worse than North (21.38% combined loss).
+   • Root cause likely: agent performance gaps and product-market
+     mismatch. Agents Lakshmi Rao and Suresh Babu need coaching.
+
+2. UNDERPERFORMING REGION – WEST
+   • West has the second-highest cancellation rate (23.06%).
+   • Revenue loss from Laptops alone in West: ₹14,55,432.
+   • Action needed: Review agent incentive structure in West.
+
+3. HIGHEST REVENUE LOSS – ELECTRONICS (LAPTOP & SMARTPHONE)
+   • Laptop is the top revenue-loss product in ALL 4 regions.
+   • East region alone lost ₹22,70,475 on Laptop cancellations/returns.
+   • Smartphones contributed ₹13,02,085 in East and ~₹9L+ in others.
+   • These high-ticket items need stricter pre-order qualification
+     and stronger post-delivery support/warranties.
+
+4. REVENUE OPPORTUNITY – ELECTRONICS DOMINATES (63.45%)
+   • Electronics generates ₹3.64 Cr out of ₹5.74 Cr total revenue.
+   • Average order value of ₹1,20,050 is 10× that of Food/Sports.
+   • Protecting Electronics sales (reducing returns) has the
+     highest financial leverage of any action item.
+
+5. FOOD CATEGORY UNDERPERFORMING (1.56% of Revenue)
+   • Despite having 424 orders (most in any category), Food
+     generates only ₹8,96,884 in revenue.
+   • Average order value of ₹3,060 is extremely low.
+   • Recommendation: Bundle promotions or upsell higher-value
+     food product lines to increase ticket size.
+
+6. MONTHLY TREND – APRIL & AUGUST ARE WEAK MONTHS
+   • April: ₹32,62,158 (lowest month)
+   • August: ₹37,77,747 (second lowest)
+   • November, July, and May are peak months.
+   • Pre-plan promotional campaigns for April and August
+     to smooth out the seasonal revenue dip.
+
+7. TOP AGENTS – NORTH LEADS IN REVENUE
+   • Neha Gupta (North): ₹77,11,354 – #1 agent by revenue
+   • Vijay Kumar (North): ₹52,79,791 – #5 agent
+   • North region has the lowest cancellation rate AND the
+     top-performing agent. North's playbook should be documented
+     and replicated across other regions.
+
+------------------------------------------------------------
+  RECOMMENDED ACTIONS
+------------------------------------------------------------
+
+  IMMEDIATE (0–1 Month):
+  ✔ Flag all South & West cancellation orders for manager review
+  ✔ Initiate customer satisfaction calls for returned Electronics
+  ✔ Set up a weekly dashboard monitoring Cancel% by Region + Agent
+
+  SHORT-TERM (1–3 Months):
+  ✔ Run training workshops for South region agents (based on
+    North region's success model – Neha Gupta as mentor)
+  ✔ Introduce a "Laptop Assurance Program" (extended warranty,
+    easy exchange) to reduce Electronics return rate
+  ✔ Launch April/August-specific promotions for Clothing & Sports
+    (categories with stable, lower-ticket, manageable returns)
+
+  LONG-TERM (3–6 Months):
+  ✔ Revise Sales Agent KPIs to include "Net Completed Revenue"
+    instead of just "Orders Booked" to reduce incentive for
+    pushing unsuitable products
+  ✔ Invest in category expansion: Sports & Clothing have similar
+    revenue but lower risk than Electronics — growth potential
+  ✔ Evaluate Food category strategic fit: continue only if
+    bundling can increase average order value to ₹5,000+
+
+------------------------------------------------------------
+  CONCLUSION
+------------------------------------------------------------
+The primary bottlenecks in the regional sales pipeline are:
+  (a) South region's high cancellation/return rates
+  (b) Electronics product returns (especially Laptop)
+  (c) April/August seasonal dip
+
+Addressing these three areas alone could recover an estimated
+₹60–75 Lakhs in annual revenue and improve overall completion
+rate from 69.65% to approximately 78–82%.
+
+North region's model (low cancellations + strong agent
+performance) provides a proven playbook for company-wide
+performance improvement.
+
+============================================================
+  Files Submitted:
+    1. RegionalSales2025.csv      – Source dataset (2000 rows)
+    2. SalesBottleneck.sql        – All 7 SQL analysis queries
+    3. ExecutiveSummary.txt       – This document
+    4. BottleneckDashboard.html   – Interactive Business Dashboard
+============================================================
