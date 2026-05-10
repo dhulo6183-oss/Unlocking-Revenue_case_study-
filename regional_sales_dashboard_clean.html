@@ -1,0 +1,308 @@
+
+<h2 class="sr-only">Regional Sales Pipeline Dashboard — KPIs, monthly trends, regional performance, top agents, and category breakdown for 2025.</h2>
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+.db-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 1rem 1.25rem 0.75rem;
+  border-bottom: 0.5px solid var(--color-border-tertiary);
+  margin-bottom: 1rem;
+}
+.db-title { font-size: 15px; font-weight: 500; color: var(--color-text-primary); }
+.db-subtitle { font-size: 12px; color: var(--color-text-secondary); margin-top: 2px; }
+.db-badge {
+  font-size: 11px; padding: 3px 10px; border-radius: var(--border-radius-md);
+  background: var(--color-background-info); color: var(--color-text-info); font-weight: 500;
+}
+.kpi-grid { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 10px; padding: 0 1.25rem 1rem; }
+.kpi-card {
+  background: var(--color-background-secondary); border-radius: var(--border-radius-md);
+  padding: 0.85rem 1rem;
+}
+.kpi-label { font-size: 11px; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px; }
+.kpi-value { font-size: 22px; font-weight: 500; color: var(--color-text-primary); line-height: 1.1; }
+.kpi-sub { font-size: 11px; color: var(--color-text-secondary); margin-top: 4px; }
+.kpi-chip {
+  display: inline-block; font-size: 10px; font-weight: 500; padding: 1px 7px;
+  border-radius: var(--border-radius-md); margin-top: 5px;
+}
+.chip-danger { background: #FCEBEB; color: #A32D2D; }
+.chip-success { background: #EAF3DE; color: #3B6D11; }
+.chip-warn { background: #FAEEDA; color: #854F0B; }
+
+.charts-row { display: grid; grid-template-columns: 1.6fr 1fr; gap: 10px; padding: 0 1.25rem 1rem; }
+.chart-card {
+  background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary);
+  border-radius: var(--border-radius-lg); padding: 1rem 1.25rem;
+}
+.chart-title { font-size: 13px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 4px; }
+.chart-hint { font-size: 11px; color: var(--color-text-secondary); margin-bottom: 12px; }
+
+.bottom-row { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; padding: 0 1.25rem 1.25rem; }
+
+.legend { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px; font-size: 11px; color: var(--color-text-secondary); }
+.legend-item { display: flex; align-items: center; gap: 4px; }
+.legend-dot { width: 9px; height: 9px; border-radius: 2px; flex-shrink: 0; }
+
+.bar-wrap { display: flex; flex-direction: column; gap: 7px; margin-top: 8px; }
+.bar-row { display: flex; align-items: center; gap: 8px; }
+.bar-label { width: 56px; font-size: 11px; color: var(--color-text-secondary); text-align: right; flex-shrink: 0; }
+.bar-track { flex: 1; height: 18px; background: var(--color-background-secondary); border-radius: 3px; overflow: hidden; position: relative; }
+.bar-fill { height: 100%; border-radius: 3px; }
+.bar-val { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); font-size: 10px; font-weight: 500; }
+
+.agent-list { display: flex; flex-direction: column; gap: 8px; margin-top: 6px; }
+.agent-row { display: flex; align-items: center; gap: 10px; }
+.agent-rank { font-size: 10px; font-weight: 500; color: var(--color-text-secondary); width: 14px; flex-shrink: 0; }
+.agent-avatar {
+  width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center;
+  justify-content: center; font-size: 9px; font-weight: 500; flex-shrink: 0;
+}
+.agent-info { flex: 1; min-width: 0; }
+.agent-name { font-size: 12px; font-weight: 500; color: var(--color-text-primary); }
+.agent-region { font-size: 10px; color: var(--color-text-secondary); }
+.agent-rev { font-size: 12px; font-weight: 500; color: var(--color-text-primary); white-space: nowrap; }
+
+.loss-table { width: 100%; font-size: 12px; border-collapse: collapse; margin-top: 8px; table-layout: fixed; }
+.loss-table th { font-size: 10px; font-weight: 500; color: var(--color-text-secondary); text-align: left; padding: 4px 6px; border-bottom: 0.5px solid var(--color-border-tertiary); text-transform: uppercase; letter-spacing: 0.04em; }
+.loss-table td { padding: 6px 6px; border-bottom: 0.5px solid var(--color-border-tertiary); color: var(--color-text-primary); }
+.loss-table tr:last-child td { border-bottom: none; }
+.pill { display: inline-block; font-size: 10px; font-weight: 500; padding: 2px 7px; border-radius: 20px; }
+</style>
+
+<div class="db-header">
+  <div>
+    <div class="db-title">Regional Sales Pipeline — Bottleneck Analysis</div>
+    <div class="db-subtitle">RegionalSales2025 · All Regions · January–December 2025</div>
+  </div>
+  <span class="db-badge">Power BI Style</span>
+</div>
+
+<div class="kpi-grid">
+  <div class="kpi-card">
+    <div class="kpi-label">Total Revenue</div>
+    <div class="kpi-value">₹5.74Cr</div>
+    <div class="kpi-sub">Completed orders</div>
+    <span class="kpi-chip chip-success">Electronics 63.45%</span>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Gross Sales</div>
+    <div class="kpi-value">₹57.5Cr</div>
+    <div class="kpi-sub">All statuses incl.</div>
+    <span class="kpi-chip chip-warn">Peak: Nov ₹58.9L</span>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Cancellation Rate</div>
+    <div class="kpi-value">~20.3%</div>
+    <div class="kpi-sub">Avg across regions</div>
+    <span class="kpi-chip chip-danger">South worst 24.26%</span>
+  </div>
+  <div class="kpi-card">
+    <div class="kpi-label">Top Revenue Loss</div>
+    <div class="kpi-value">₹22.7L</div>
+    <div class="kpi-sub">East · Laptop returns</div>
+    <span class="kpi-chip chip-danger">Electronics risk</span>
+  </div>
+</div>
+
+<div class="charts-row">
+  <div class="chart-card">
+    <div class="chart-title">Monthly gross sales trend</div>
+    <div class="chart-hint">Full year 2025 — peaks in May, July, November</div>
+    <div style="position:relative; width:100%; height:200px;">
+      <canvas id="monthlyChart" role="img" aria-label="Monthly gross sales bar chart for 2025. Peaks in May, July and November. Dip in April.">Monthly sales: Jan ₹48L, Feb ₹44L, Mar ₹52L, Apr ₹33L, May ₹58L, Jun ₹48L, Jul ₹58L, Aug ₹38L, Sep ₹50L, Oct ₹54L, Nov ₹59L, Dec ₹51L.</canvas>
+    </div>
+  </div>
+  <div class="chart-card">
+    <div class="chart-title">Category revenue share</div>
+    <div class="chart-hint">Completed orders only</div>
+    <div class="legend">
+      <span class="legend-item"><span class="legend-dot" style="background:#185FA5"></span>Electronics 63.45%</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#1D9E75"></span>Furniture 24.66%</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#BA7517"></span>Sports 5.20%</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#D4537E"></span>Clothing 5.13%</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#888780"></span>Food 1.56%</span>
+    </div>
+    <div style="position:relative; width:100%; height:160px;">
+      <canvas id="catChart" role="img" aria-label="Donut chart: Electronics 63.45%, Furniture 24.66%, Sports 5.20%, Clothing 5.13%, Food 1.56%">Electronics 63.45%, Furniture 24.66%, Sports 5.20%, Clothing 5.13%, Food 1.56%</canvas>
+    </div>
+  </div>
+</div>
+
+<div class="bottom-row">
+  <div class="chart-card">
+    <div class="chart-title">Regional cancellation &amp; return rates</div>
+    <div class="chart-hint">South is the biggest bottleneck</div>
+    <div class="legend" style="margin-top:4px;">
+      <span class="legend-item"><span class="legend-dot" style="background:#E24B4A"></span>Cancel%</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#EF9F27"></span>Return%</span>
+    </div>
+    <div class="bar-wrap">
+      <div class="bar-row">
+        <span class="bar-label">South</span>
+        <div style="flex:1;display:flex;flex-direction:column;gap:3px;">
+          <div class="bar-track"><div class="bar-fill" style="width:76%;background:#E24B4A;"></div><span class="bar-val" style="color:#791F1F;">24.26%</span></div>
+          <div class="bar-track"><div class="bar-fill" style="width:47%;background:#EF9F27;"></div><span class="bar-val" style="color:#633806;">14.99%</span></div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">West</span>
+        <div style="flex:1;display:flex;flex-direction:column;gap:3px;">
+          <div class="bar-track"><div class="bar-fill" style="width:72%;background:#E24B4A;"></div><span class="bar-val" style="color:#791F1F;">23.06%</span></div>
+          <div class="bar-track"><div class="bar-fill" style="width:33%;background:#EF9F27;"></div><span class="bar-val" style="color:#633806;">10.61%</span></div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">East</span>
+        <div style="flex:1;display:flex;flex-direction:column;gap:3px;">
+          <div class="bar-track"><div class="bar-fill" style="width:56%;background:#E24B4A;"></div><span class="bar-val" style="color:#791F1F;">17.97%</span></div>
+          <div class="bar-track"><div class="bar-fill" style="width:28%;background:#EF9F27;"></div><span class="bar-val" style="color:#633806;">8.98%</span></div>
+        </div>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">North</span>
+        <div style="flex:1;display:flex;flex-direction:column;gap:3px;">
+          <div class="bar-track"><div class="bar-fill" style="width:42%;background:#E24B4A;"></div><span class="bar-val" style="color:#791F1F;">13.44%</span></div>
+          <div class="bar-track"><div class="bar-fill" style="width:25%;background:#EF9F27;"></div><span class="bar-val" style="color:#633806;">7.94%</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-title">Top 5 sales agents</div>
+    <div class="chart-hint">By completed revenue</div>
+    <div class="agent-list">
+      <div class="agent-row">
+        <span class="agent-rank">1</span>
+        <div class="agent-avatar" style="background:#E6F1FB;color:#0C447C;">NG</div>
+        <div class="agent-info"><div class="agent-name">Neha Gupta</div><div class="agent-region">North · 155 orders</div></div>
+        <div class="agent-rev">₹77.1L</div>
+      </div>
+      <div class="agent-row">
+        <span class="agent-rank">2</span>
+        <div class="agent-avatar" style="background:#E1F5EE;color:#085041;">DM</div>
+        <div class="agent-info"><div class="agent-name">Divya Menon</div><div class="agent-region">South · 110 orders</div></div>
+        <div class="agent-rev">₹62.9L</div>
+      </div>
+      <div class="agent-row">
+        <span class="agent-rank">3</span>
+        <div class="agent-avatar" style="background:#FAEEDA;color:#633806;">AJ</div>
+        <div class="agent-info"><div class="agent-name">Ankit Joshi</div><div class="agent-region">East · 131 orders</div></div>
+        <div class="agent-rev">₹60.5L</div>
+      </div>
+      <div class="agent-row">
+        <span class="agent-rank">4</span>
+        <div class="agent-avatar" style="background:#FBEAF0;color:#72243E;">RM</div>
+        <div class="agent-info"><div class="agent-name">Rahul Mehta</div><div class="agent-region">East · 131 orders</div></div>
+        <div class="agent-rev">₹54.3L</div>
+      </div>
+      <div class="agent-row">
+        <span class="agent-rank">5</span>
+        <div class="agent-avatar" style="background:#EEEDFE;color:#3C3489;">VK</div>
+        <div class="agent-info"><div class="agent-name">Vijay Kumar</div><div class="agent-region">North · 116 orders</div></div>
+        <div class="agent-rev">₹52.8L</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-title">Revenue loss by region &amp; product</div>
+    <div class="chart-hint">Cancelled + returned orders</div>
+    <table class="loss-table">
+      <thead>
+        <tr>
+          <th style="width:30%;">Region</th>
+          <th style="width:40%;">Product</th>
+          <th style="width:30%;">Lost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="pill" style="background:#FCEBEB;color:#A32D2D;">East</span></td>
+          <td>Laptop</td>
+          <td style="font-weight:500;">₹22.7L</td>
+        </tr>
+        <tr>
+          <td><span class="pill" style="background:#FAEEDA;color:#854F0B;">West</span></td>
+          <td>Laptop</td>
+          <td style="font-weight:500;">₹14.6L</td>
+        </tr>
+        <tr>
+          <td><span class="pill" style="background:#FCEBEB;color:#A32D2D;">East</span></td>
+          <td>Smartphone</td>
+          <td style="font-weight:500;">₹13.0L</td>
+        </tr>
+        <tr>
+          <td><span class="pill" style="background:#E1F5EE;color:#085041;">South</span></td>
+          <td>Laptop</td>
+          <td style="font-weight:500;">~₹11L</td>
+        </tr>
+        <tr>
+          <td><span class="pill" style="background:#EEEDFE;color:#3C3489;">North</span></td>
+          <td>Furniture</td>
+          <td style="font-weight:500;">~₹8L</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+const gridColor = isDark ? 'rgba(255,255,255,0.07)' : 'rgba(0,0,0,0.07)';
+const textColor = isDark ? '#aaa' : '#888';
+
+new Chart(document.getElementById('monthlyChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    datasets: [{
+      label: 'Gross Sales (₹L)',
+      data: [48,44,52,33,58,48,58,38,50,54,59,51],
+      backgroundColor: (ctx) => {
+        const v = ctx.raw;
+        if (v >= 57) return '#185FA5';
+        if (v <= 35) return '#E24B4A';
+        return isDark ? '#444' : '#B5D4F4';
+      },
+      borderRadius: 4,
+      borderSkipped: false,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: (c) => ' ₹' + c.raw + 'L' } }
+    },
+    scales: {
+      x: { grid: { display: false }, ticks: { color: textColor, font: { size: 10 }, autoSkip: false, maxRotation: 0 } },
+      y: { grid: { color: gridColor }, ticks: { color: textColor, font: { size: 10 }, callback: v => '₹' + v + 'L' }, beginAtZero: true }
+    }
+  }
+});
+
+new Chart(document.getElementById('catChart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Electronics','Furniture','Sports','Clothing','Food'],
+    datasets: [{
+      data: [63.45, 24.66, 5.20, 5.13, 1.56],
+      backgroundColor: ['#185FA5','#1D9E75','#BA7517','#D4537E','#888780'],
+      borderWidth: 2,
+      borderColor: isDark ? '#1a1a1a' : '#fff',
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    cutout: '62%',
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: (c) => ' ' + c.label + ': ' + c.raw + '%' } }
+    }
+  }
+});
+</script>
